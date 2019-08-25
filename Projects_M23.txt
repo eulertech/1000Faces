@@ -1,0 +1,595 @@
+pID|ProjectName|ProjectTeam|ProjectOwner|ProjectDescription|ProjectCategoryId
+1|Planning|Jessica Burns,TIMOTHY Murphy,Steven Canedy,Gerald SIDOTI|Alesha Pasternak|Workforce and Financial planning, reporting and analysis.|1
+2|slutions meeting|TIMOTHY Murphy,Steven Canedy,Gerald SIDOTI,MIKE Cohen|Sung Mijangos|Tax, Payment and Compliance Solution meeting|1
+3|Travel planning|Steven Canedy,Gerald SIDOTI,MIKE Cohen,Brooks Santangelo|Phyliss Barrette| Travel Management is a provider of travel management solutions, specializing in corporate, government, and NGO travel|1
+4|Risk monitoring|Gerald SIDOTI,MIKE Cohen,Brooks Santangelo,Robert Delise|Suk Bunn|firm review using analytics workspace|1
+5|Registration|MIKE Cohen,Brooks Santangelo,Robert Delise,Vilen Gordon|Eliz Dewall|reporting of registration statistics|1
+6|Document management|Brooks Santangelo,Robert Delise,Vilen Gordon,David Chamorro|Alesia Palazzo|Record management policy initiative|1
+7|Member support|Robert Delise,Vilen Gordon,David Chamorro,Douglas Martinez|Yvone Mattioli|call routing, queueing, and reporting of phone calls into COMPANY's call centers. |1
+8|Trade Info|Vilen Gordon,David Chamorro,Douglas Martinez,Tim Saiz|Damon Hiatt|Dark Pools (Alternative Trading Systems) conference|1
+9|Billing|David Chamorro,Douglas Martinez,Tim Saiz,WILMARC Vienot|Mirna Rothstein|Calculate and bill Sales Tax on COMPANY invoices, evaluate and estimate Use Tax.|1
+10|Risk monitoring|Douglas Martinez,Tim Saiz,WILMARC Vienot,John Chevez|Marvel Dorton| evaluate and determine market risk in various portfolios with CUSIPs|1
+11|Human Resources|Tim Saiz,WILMARC Vienot,John Chevez,Justin Kapadia|Chrystal Estill|HR Benefit analysis |1
+12|Communication|WILMARC Vienot,John Chevez,Justin Kapadia,Robert Basalik|Carson Endsley|Business JIRA request tracking|1
+13|Communication|John Chevez,Justin Kapadia,Robert Basalik,Douglas Giarratano|Don Engen|Business Wiki discussions|1
+14|Reporting|Justin Kapadia,Robert Basalik,Douglas Giarratano,Randi Linn|Meridith Neuner|Bluesheets analysis reporting|1
+15|Trade Info|Robert Basalik,Douglas Giarratano,Randi Linn,Thomas Bennett|Clotilde Yawn|Single Bluesheets System (formerly Insider2)|1
+16|Regulation|Douglas Giarratano,Randi Linn,Thomas Bennett,William Powell|Estela Mortensen|BD-IA guidelines|1
+17|Trade Info|Randi Linn,Thomas Bennett,William Powell,JOSEPH Farrington|Valentin Wisdom|Provide bond and trade data from TRACE to the public.|1
+18|RSA|Thomas Bennett,William Powell,JOSEPH Farrington,William Beardsley|Archie Staudt|Boston Options Exchange|1
+19|Trade Info|William Powell,JOSEPH Farrington,William Beardsley,Diane Leisure|Berneice Rall|COMPANY BrokerCheck|1
+20|Support|JOSEPH Farrington,William Beardsley,Diane Leisure,Phyllis bailey|Pok Christner|Call Detail Records|1
+21|Reporting|William Beardsley,Diane Leisure,Phyllis bailey,ANTHONY Cordier|Nettie Quiroz|Consolidation Automation Reporting Tool|1
+22|Human Resources|Diane Leisure,Phyllis bailey,ANTHONY Cordier,FRANCES Clark|Sabine Picklesimer|Performance review tracking|1
+23|Evaluate Trade data|Phyllis bailey,ANTHONY Cordier,FRANCES Clark,George Hays|Clelia Etheridge|main products wiki for market regulation|1
+24|Reporting|ANTHONY Cordier,FRANCES Clark,George Hays,Noelle Eaton|Sherita Rickenbacker|update  Data Dissemination & reporter portal|1
+25|Testing|FRANCES Clark,George Hays,Noelle Eaton,JEFFREY chan|Modesta Sistrunk|JIRA instance for  UAT|1
+26|Data Analytics|George Hays,Noelle Eaton,JEFFREY chan,Douglas Voyles|Delisa Penrod|utilize analytics and visualization tools for  NMS. It will include Market Replay and Volume Concentration.|1
+27|Data Analytics|Noelle Eaton,JEFFREY chan,Douglas Voyles,Leslie MALONE|Jeanna Henault|CBOE-Analytics|1
+28|Human Resources|JEFFREY chan,Douglas Voyles,Leslie MALONE,Gregory Madurski|Lyndon Simien|Code of Conduct Compliance System|1
+29|Continuing Education|Douglas Voyles,Leslie MALONE,Gregory Madurski,Katherine Prussman|Elvira Barbeau|Continuing Education Authoring Tool|1
+30|Communication|Leslie MALONE,Gregory Madurski,Katherine Prussman,Denise Vander Ark|Kristin Campion|Used for bridge lines, operator conference calls, webex, circuits.|1
+31|Continuing Education|Gregory Madurski,Katherine Prussman,Denise Vander Ark,Ronald Harsche|Sherill Blackwater|Continuing Education Online content|1
+32|Rules|Katherine Prussman,Denise Vander Ark,Ronald Harsche,Linda Zimmerman|Henry Lobato|SEC rules updates|1
+33|Human Resources|Denise Vander Ark,Ronald Harsche,Linda Zimmerman,Samuel Weiss|Heidi Layton|Conflict of Interest Certification System|1
+34|Facilities management|Ronald Harsche,Linda Zimmerman,Samuel Weiss,John Petit|Carma Woolfolk|Powerful, dynamic interface enabling users to monitor and control their facilities from anywhere, at any time.|1
+35|Human Resources|Linda Zimmerman,Samuel Weiss,John Petit,Adam Phillips|Lakeesha Myhre|Recognition and rewards program|1
+36|Travel planning|Samuel Weiss,John Petit,Adam Phillips,Karen SIMMONS|Tamie Matthies|Premier Travel and Expense System|1
+37|Financial information|John Petit,Adam Phillips,Karen SIMMONS,Eric Edwards|Craig Riffle|Credit Reporting for Certified Professionals|1
+38|Event management|Adam Phillips,Karen SIMMONS,Eric Edwards,Teresa Rodman|Burt Krum|Corporate Event Planning|1
+39|Human Resources|Karen SIMMONS,Eric Edwards,Teresa Rodman,Edward Radford|Eda Corrado|Flexible work schedule policy|1
+40|Broker Information|Eric Edwards,Teresa Rodman,Edward Radford,JOSEPH Ross|Malisa Gillmore|NYSE Floor Broker Information for Press Release|1
+41|Registration |Teresa Rodman,Edward Radford,JOSEPH Ross,William Cottle|Heide Wehmeyer|Registration Fines and Costs|1
+42|Communication|Edward Radford,JOSEPH Ross,William Cottle,Israel DiLeo|Lisha Boniello| Secure Gateway training materials|1
+43|Financial information|JOSEPH Ross,William Cottle,Israel DiLeo,Ian Cummings|Bryon Steffens|Financial Services Systems |1
+44|Financial information|William Cottle,Israel DiLeo,Ian Cummings,Gerald Otto|Jacquie Handy|Investor Education Expense Analyzer|1
+45|Registration|Israel DiLeo,Ian Cummings,Gerald Otto,Ruth Mohan|Darby Egnor|Waiver System and policy|1
+46|Trade Info|Ian Cummings,Gerald Otto,Ruth Mohan,Clayton SHIPPY|Lise Hyder|Both MPP and OTCBB directly access this resource for market calendar data. |1
+47|Billing|Gerald Otto,Ruth Mohan,Clayton SHIPPY,Grant Somogyi|Luvenia Schuetz|Consume transactions from internal applications and pass billing info to WorkDay for invoicing and payment management|1
+48|Risk monitoring|Ruth Mohan,Clayton SHIPPY,Grant Somogyi,Marie Kach|Lashandra Hedgecock|Governance, Risk, and Compliance Portal|1
+49|Human Resources|Clayton SHIPPY,Grant Somogyi,Marie Kach,Sanjiv Lawson|Salley Valenza|Health Advocate|1
+50|Human Resources|Grant Somogyi,Marie Kach,Sanjiv Lawson,Matthew Eddy|Juliane Mcfaul|Employee Engagement Survey|1
+51|Human Resources|Marie Kach,Sanjiv Lawson,Matthew Eddy,Hubert Mundigo|Tashina Vieira|Pension Resources|1
+52|Human Resources|Sanjiv Lawson,Matthew Eddy,Hubert Mundigo,Gerald Benjamin|Cordelia Cuff|Your Total Rewards|1
+53|Human Resources|Matthew Eddy,Hubert Mundigo,Gerald Benjamin,Patrick Carbone|Domenica Licata|HR Electronic Fingerprinting|1
+54|IA Information|Hubert Mundigo,Gerald Benjamin,Patrick Carbone,Karen Thompson|Trudi Pettaway|Investment Adviser Public Disclosure|1
+55|IA Information|Gerald Benjamin,Patrick Carbone,Karen Thompson,Daniel Page|Margarita Harvey|Investment Adviser Registration Depository|1
+56|Broker Information|Patrick Carbone,Karen Thompson,Daniel Page,Robert Ross-Rafii|Nakisha Plewa|INDIVIDUAL PROFILES|1
+57|Broker Information|Karen Thompson,Daniel Page,Robert Ross-Rafii,Deborah Baise|Portia Fenton|Registered Rep tracking|1
+58|Human Resources|Daniel Page,Robert Ross-Rafii,Deborah Baise,Richard Tortorici|Francesco Searight|Mentoring program|1
+59|Contract mangement|Robert Ross-Rafii,Deborah Baise,Richard Tortorici,Paul Callas|Sommer Buchwald|JIRA-Service Desk tool for Contract  Service Management|1
+60|Issue tracking|Deborah Baise,Richard Tortorici,Paul Callas,Veronica Christensen|Maisie Keppler|Issue tracking tool - JIRA|1
+61|Exhange - RSA|Richard Tortorici,Paul Callas,Veronica Christensen,Mark Tomme|Tyisha Pruden|RSA contracts and reporting|1
+62|Financials|Paul Callas,Veronica Christensen,Mark Tomme,Michael BRANNON|Jenni Gregor|reviewing firm financials reporting|1
+63|Market analysis|Veronica Christensen,Mark Tomme,Michael BRANNON,Gary Piechowski|Halina Loos|Market algorithm analysis|1
+64|Data Analytics|Mark Tomme,Michael BRANNON,Gary Piechowski,John jordan|Karine Jowett|Exchange trading survey results|1
+65|Communication|Michael BRANNON,Gary Piechowski,John jordan,HERB Grimm|Janine Whitenack|Annual Priorities letter|1
+66|Training|Gary Piechowski,John jordan,HERB Grimm,GEORGE Turner|Sylvia Trimpe|Continuing Education course catalog|1
+67|Fraud|John jordan,HERB Grimm,GEORGE Turner,Brant Crichlow|Elsie Schiel|Options Insider Trading Application|1
+68|Firms|HERB Grimm,GEORGE Turner,Brant Crichlow,Linda Brillhart|Christena Crossno|Firm grouping analysis|1
+69|Trade Info|GEORGE Turner,Brant Crichlow,Linda Brillhart,George Day|Stephane Clausing|Over the Counter Bulletin Board  Quotes|1
+70|Trade Info|Brant Crichlow,Linda Brillhart,George Day,J. Janssen|Laura Yeager|OTCBB and Order Reporting Facility Data via COMPANY.org|1
+71|Financial information|Linda Brillhart,George Day,J. Janssen,James Steinhaus|Cristopher Westcott|Financial education planning|1
+72|Trade Info|George Day,J. Janssen,James Steinhaus,Raymond Alvar|Augusta Hartman|Private Funds Registration Depository|1
+73|Human Resources|J. Janssen,James Steinhaus,Raymond Alvar,Joseph Daurio|Miguel Chittenden|Conduct background searches and investigations on arbitrator candidates for the  Office of Dispute Resolution roster of neutrals|1
+74|Trade Info|James Steinhaus,Raymond Alvar,Joseph Daurio,Christopher Smith|Robbyn Boykins|PRET - Option, Equities trade modeling|1
+75|Trade Info|Raymond Alvar,Joseph Daurio,Christopher Smith,Thomas Coker|Maple Scholz|Exchange trades and fees|1
+76|Reporting|Joseph Daurio,Christopher Smith,Thomas Coker,Gerald Rodelli|Lyndsey Palin|Case management reporting by districts|1
+77|Training|Christopher Smith,Thomas Coker,Gerald Rodelli,Joseph Love|Beckie Hurston|Prudential mutual fund seminar|1
+78|Member management|Thomas Coker,Gerald Rodelli,Joseph Love,Debra Brinkman|Cinda Rother|Financial Information System Billing Engine|1
+79|Human Resources|Gerald Rodelli,Joseph Love,Debra Brinkman,roroor DELFIN|Tawanda Longmire|PeopleSoft - Human Resources Information System|1
+80|Data Analytics|Joseph Love,Debra Brinkman,roroor DELFIN,D.Flint Maslin|Annamae Ponte|Regulatory Automated Analysis |1
+81|Communication|Debra Brinkman,roroor DELFIN,D.Flint Maslin,Michelle Fairbanks|Louis Mcnaught|Registration And Disclosure Gateway|1
+82|Registration|roroor DELFIN,D.Flint Maslin,Michelle Fairbanks,Randy Harding|Edwardo Zehr|Registration Review Workspace |1
+83|Firm support|D.Flint Maslin,Michelle Fairbanks,Randy Harding,Howard Bdaiwi|Margrett Kivi|This Project track will focus on Integrating RAMP with other partner apps like ESMP, Alfresco, FIP, Fingerprint, Filex and reduce RAMP on-prem footprint.|1
+84|Firm support|Michelle Fairbanks,Randy Harding,Howard Bdaiwi,Jason Luzi|Taren Drago|Web Applications is a suite of external apps supporting the firms and individual brokers.|1
+85|Business information|Randy Harding,Howard Bdaiwi,Jason Luzi,Constance Daily|Deidra Govan|Reporting and Business Intelligence repository|1
+86|Case Management|Howard Bdaiwi,Jason Luzi,Constance Daily,Jeffrey Dixon|Tish Spaulding|Regulatory Case Management|1
+87|Human Resources|Jason Luzi,Constance Daily,Jeffrey Dixon,Linda Reque|Ardelle Ketron|COMPANY Wellness Program for weight loss and lifestyle maintenance|1
+88|Communication|Constance Daily,Jeffrey Dixon,Linda Reque,Sean Catmull|Reatha Sebree|Reg Gateway|1
+89|Fee reporting|Jeffrey Dixon,Linda Reque,Sean Catmull,Franklin WISEMAN|Francoise Melnick|Regulatory Fee Data Warehouse|1
+90|Time tracking|Linda Reque,Sean Catmull,Franklin WISEMAN,Brian Wilkinson|Jerold Cardoso|Regulatory Time Tracking|1
+91|Regulation|Sean Catmull,Franklin WISEMAN,Brian Wilkinson,Matthew Chinian|Andreas Ketterman|For each relevant distribution, the Rule 105 Matching Tool uses algorithms to match client information from distribution allocation lists against client trading information from Bluesheets in an effort to identify possible violations of SEC Regulation M Rule 105. Market Regulation users can search, filter, sort, verify, edit, export, and/or print the information.|1
+92|Training|Franklin WISEMAN,Brian Wilkinson,Matthew Chinian,Sam ostendorf|Cathey Foree|Learning management system content and monitoring|1
+93|Communication  |Brian Wilkinson,Matthew Chinian,Sam ostendorf,Jeffrey Brockenbrough|Stepanie Brodsky|SharePoint team sites|1
+94|Regulation|Matthew Chinian,Sam ostendorf,Jeffrey Brockenbrough,Lawrence Westen|Annice Flink|Short Interest Application regulations|1
+95|Communication  |Sam ostendorf,Jeffrey Brockenbrough,Lawrence Westen,joseph Walker|Virgina Funches|Skype meeting pilot and evaluation|1
+96|Mutual  funds|Jeffrey Brockenbrough,Lawrence Westen,joseph Walker,MARK Saxonis|Alyssa Cesar|Annual federal mutual funds conference|1
+97|Training|Lawrence Westen,joseph Walker,MARK Saxonis,Marie Papanikolas|Mel Barros|Variable Annuity training sessions|1
+98|Product|joseph Walker,MARK Saxonis,Marie Papanikolas,John Verbit|Gregg Kottke|Subordinated Loans|1
+99|Risk monitoring|MARK Saxonis,Marie Papanikolas,John Verbit,Christopher Gavin|Ilse Pennock|firm alerts and regulatory response tracking in SURVEILLANCE WORKSPACE|1
+100|Trade Info|Marie Papanikolas,John Verbit,Christopher Gavin,Steven Pazzaglia|Judith Angulo|Symbol Info catalog|1
+101|Human Resources|John Verbit,Christopher Gavin,Steven Pazzaglia,Frank Antonizio|Jessica| Talent Management Software|1
+102|Human Resources|Christopher Gavin,Steven Pazzaglia,Frank Antonizio,Lance Roberts|TIMOTHY|Diversity management seminar|1
+103|Trade Information|Steven Pazzaglia,Frank Antonizio,Lance Roberts,Monica Dills|Steven Canedy|Thomson Reuters clearing information portal|1
+104|Planning|Frank Antonizio,Lance Roberts,Monica Dills,James Christopher|Gerald SIDOTI|Financial planning tool for actuarial forecasting|1
+105|Regulation|Lance Roberts,Monica Dills,James Christopher,Kevin DelPrete|MIKE Cohen|Annual regulation review conference|1
+106|Exchange RSA|Monica Dills,James Christopher,Kevin DelPrete,Brent EXUM|Brooks|RSA contract renegotiation schedule|1
+107|Financial capability|James Christopher,Kevin DelPrete,Brent EXUM,Erin Hentges|Robert|Fraud identification education seminar|1
+108|Training|Kevin DelPrete,Brent EXUM,Erin Hentges,Gale SUNG|Vilen Gordon|Skill building software|1
+109|Human Resources|Brent EXUM,Erin Hentges,Gale SUNG,Erik Archibald|David Chamorro|Health Benefit - Continuation of Health Coverage|1
+110|Project150|Erin Hentges,Gale SUNG,Erik Archibald,Scott Hernandez|Douglas Martinez|Dispute Resolution Applications|1
+111|Economic Rountable|Gale SUNG,Erik Archibald,Scott Hernandez,Donald Coughlin|Tim Saiz|Economic roundtable on the issuance of new rules related to money laundering, cryptocurrencies, crypto, crypto assets, ICOs, and involved data analysis|1
+112|EduBIGHATion on Suitability|Erik Archibald,Scott Hernandez,Donald Coughlin,Christina Bailey|WILMARC Vienot|create continuing educATion tools and classes and courses on suitability issues|1
+113|Advertising Regulations CE|Scott Hernandez,Donald Coughlin,Christina Bailey,Philip Hirt|John Chevez|created advertising regulation continuing eduBIGHATion tools and classes and courses|1
+114|Clearing Firm|Donald Coughlin,Christina Bailey,Philip Hirt,Gregory CIAMBRIELLO|Justin Kapadia|employee group regarding clearing firm best practices and lessons learned|1
+115|COMPANY Arbitration Forum|Christina Bailey,Philip Hirt,Gregory CIAMBRIELLO,Linda Noack|Robert Basalik|provided public forum for information on COMPANY arbitrations|1
+116|SEC Employees|Philip Hirt,Gregory CIAMBRIELLO,Linda Noack,John FUMERO|Douglas Giarratano|list of former SEC Employees|1
+117|Financial|Gregory CIAMBRIELLO,Linda Noack,John FUMERO,Richard Mitchell|Randi Linn|conducted financial analysis of various business segments|1
+118|Regulatory Technology Roundtable|Linda Noack,John FUMERO,Richard Mitchell,Elaine Lockowitz|Thomas Bennett|met with SEC in a roundtable on regulatory technology involving stock exchanges|1
+119|NYSE|John FUMERO,Richard Mitchell,Elaine Lockowitz,Heather Manganelli|William Powell|list of employees who used to work at NYSE for NYSE expert round table|1
+120|Enforcement Attorney Roundtable on Supervision|Richard Mitchell,Elaine Lockowitz,Heather Manganelli,Robert Bohlen|JOSEPH Farrington|conduct roundtable discussion of supervision issues. Enforcemnt attorney project|1
+121|Continuing EduBIGHATion Course Development|Elaine Lockowitz,Heather Manganelli,Robert Bohlen,Dominic GILKER|William Beardsley|course development regarding private placement memorandums and private offerings|1
+122|New York Stock Exchange NYSE|Heather Manganelli,Robert Bohlen,Dominic GILKER,Timothy DelVecchio|Diane Leisure|NYSE market making project, surveillance, supervision, latency, high speed trading, algorithms|1
+123|Economics Project|Robert Bohlen,Dominic GILKER,Timothy DelVecchio,Roma Vanderbilt|Phyllis bailey|economics project involving options pricing|1
+124|Legal - Advertising and Corporate Financing Department|Dominic GILKER,Timothy DelVecchio,Roma Vanderbilt,William CLARK|ANTHONY Cordier|conduct roundtable on law, advertising regulation, policy|1
+125|Member Supervision|Timothy DelVecchio,Roma Vanderbilt,William CLARK,Blaine Manemanus|FRANCES Clark|surveillance program restructuring expert team|1
+126|Fintech|Roma Vanderbilt,William CLARK,Blaine Manemanus,ADAM Langlois|George Hays|FINTECH issues regarding crypto assets and icos|1
+127|Market Regulation Rules|William CLARK,Blaine Manemanus,ADAM Langlois,Russell Theoharis|Noelle Eaton|develop new market regulation rules suggestions|1
+128|Fixed Income Pricing|Blaine Manemanus,ADAM Langlois,Russell Theoharis,Paul McAfee|JEFFREY chan|industry event participants involved in fixed income pricing discussions|1
+129|Commodities Futures|ADAM Langlois,Russell Theoharis,Paul McAfee,Laura Hutzelman|Douglas Voyles|project involving interfacing with commodities futures exchange|1
+130|Shared Services|Russell Theoharis,Paul McAfee,Laura Hutzelman,Terry Tobin|Leslie MALONE|shared services project inovlving risk strategy, innovation, litigation and counsel, sec oversight|1
+131|Statistical Analysis Project|Paul McAfee,Laura Hutzelman,Terry Tobin,Gordon Remmert|Gregory Madurski|project utilizing statistics to assist market regulation and member supervision|1
+132|Mutual Fund Working Group|Laura Hutzelman,Terry Tobin,Gordon Remmert,Christopher Burrington|Katherine Prussman|mutual fund working group.|1
+133|Reporting|Terry Tobin,Gordon Remmert,Christopher Burrington,Mark Carroccio|Denise Vander Ark|Electronic Financial and Operational Combined Uniform Single Report|1
+134|Security Management|Gordon Remmert,Christopher Burrington,Mark Carroccio,Mark Dikdan|Ronald Harsche|Electronic Fingerprint Processing|1
+135|Training|Christopher Burrington,Mark Carroccio,Mark Dikdan,James Fernandes|Linda Zimmerman|Provide training for Examiners|1
+136|Vendor Management|Mark Carroccio,Mark Dikdan,James Fernandes,Tracy Fitzgerald|Samuel Weiss|utilize Vendor Management System|1
+137|Communication|Mark Dikdan,James Fernandes,Tracy Fitzgerald,monte Toureau|John Petit|update content on Financial Professional Gateway|1
+138|Human Resources|James Fernandes,Tracy Fitzgerald,monte Toureau,Penny Herskovics|Adam Phillips|Employee benefits management - dental|1
+139|Reporting|Tracy Fitzgerald,monte Toureau,Penny Herskovics,Troy Curtis|Karen SIMMONS|Market Interactive Reporting  Summaries|1
+140|Product Repository|monte Toureau,Penny Herskovics,Troy Curtis,REBECCA Wilkers|Eric Edwards|use Multi-Product Platform Repository Front End|1
+141|Case Management|Penny Herskovics,Troy Curtis,REBECCA Wilkers,Dana Yi|Teresa Rodman|track and resolve cases on Member Regulation Desktop|1
+142|Organization information|Troy Curtis,REBECCA Wilkers,Dana Yi,David Scipione|Edward Radford|maintain content on Member Regulation - Funding Portal|1
+143|Trade Info|REBECCA Wilkers,Dana Yi,David Scipione,Scott Smith|JOSEPH Ross|OTCBB quotation submissions|1
+144|Trade Info|Dana Yi,David Scipione,Scott Smith,Meighan Pereira|William Cottle|NASDAQ Data Network Peering|1
+145|Security Management|David Scipione,Scott Smith,Meighan Pereira,COLIN FRASER|Israel DiLeo| Consumer Access for mortgage info|1
+146|Trade Info|Scott Smith,Meighan Pereira,COLIN FRASER,Carole Wheeler|Ian Cummings|trade audit reporting analysis|1
+147|Communication|Meighan Pereira,COLIN FRASER,Carole Wheeler,james Huning|Gerald Otto|develop and get approval for Press Releases|1
+148|Training|COLIN FRASER,Carole Wheeler,james Huning,Dennis Lile|Ruth Mohan|maintain content in Learning Management System|1
+149|Human Resources|Carole Wheeler,james Huning,Dennis Lile,Joseph Maher|Clayton SHIPPY|COMPANY Manual Online|1
+150|Price Information|james Huning,Dennis Lile,Joseph Maher,David Sanchez|Grant Somogyi|Directly access to OTCBB database for price information. |1
+151|COIC Training|Dennis Lile,Joseph Maher,David Sanchez,Michael Roth|Marie Kach|Conflict of interest training videos|1
+152|Seniors|Joseph Maher,David Sanchez,Michael Roth,Paul Kallio|Sanjiv Lawson|manage and promote sneior helpline service|1
+153|Training|David Sanchez,Michael Roth,Paul Kallio,Dennis PAUL|Matthew Eddy|Produce and maintain employee training videos|1
+154|Communication|Michael Roth,Paul Kallio,Dennis PAUL,Derek Ruffolo|Hubert Mundigo|maintain content on company websites|1
+155|Communication|Paul Kallio,Dennis PAUL,Derek Ruffolo,Gregg Gadit|Gerald Benjamin|manage corporate communication including email, podcasts and town halls|1
+156|Arbitration|Dennis PAUL,Derek Ruffolo,Gregg Gadit,Keith Moreno|Patrick Carbone|Arbitration Awards Online|2
+157|Regulation|Derek Ruffolo,Gregg Gadit,Keith Moreno,Shelly Covino|Karen Thompson|Hosting Office of Dispute Resolution Requirements.|2
+158|Regulation|Gregg Gadit,Keith Moreno,Shelly Covino,Mohamed Miller|Daniel Page|Bank Secrecy Act Query|2
+159|Contract mangement|Keith Moreno,Shelly Covino,Mohamed Miller,Matthew Turville|Robert Ross-Rafii|Legal contract matter management system|2
+160|Research|Shelly Covino,Mohamed Miller,Matthew Turville,Paul Lozada|Deborah Baise|Legal Research Tool and policies|2
+161|Foreign Assets|Mohamed Miller,Matthew Turville,Paul Lozada,TODD ushyarov|Richard Tortorici|Office of Foreign Asset Control's Specially Designated Nationals and Blocked Persons List|2
+162|Regulation|Matthew Turville,Paul Lozada,TODD ushyarov,Michael Seibt|Paul Callas|The Reg M Workspace stores Reg M notifications submitted by member firms. The system includes an interface that is utilized by Market Regulation users to search, filter, sort, verify, edit, add, and/or print the information received about distributions of securities.|2
+163|Regulation|Paul Lozada,TODD ushyarov,Michael Seibt,Mary Levin|Veronica Christensen|Regulatory Filings Application|2
+164|Regulation|TODD ushyarov,Michael Seibt,Mary Levin,Jay Johnson|Mark Tomme|SEC 19-D1 formal action reporting |2
+165|Product|Michael Seibt,Mary Levin,Jay Johnson,Daniel Hunter|Michael BRANNON| Business & Legal support Systems |2
+166|Regulation|Mary Levin,Jay Johnson,Daniel Hunter,William Jowdy|Gary Piechowski|Securities Observation News Analysis and Regulation|2
+167|Enforcement Investigation|Jay Johnson,Daniel Hunter,William Jowdy,Bart O'Neill|John jordan|COMPANY Enforcement action against LPL for violation of SEC reporting guidelines. Securities and Exchange Commission. High Yield debt issues.|2
+168|Enforcement Attorney Roundtable|Daniel Hunter,William Jowdy,Bart O'Neill,Kesia Winters|HERB Grimm|Enforcement conducted an Enforcement Roundtable on variable annuities and senior investors and vulnerable adults.|2
+169|Enforcment Attorneys|William Jowdy,Bart O'Neill,Kesia Winters,Richard Baer|GEORGE Turner|list of enforcement attorneys that worked on cyber issues|2
+170|Enforcement Investigators|Bart O'Neill,Kesia Winters,Richard Baer,Christopher Stoll|Brant Crichlow|enforcement investigation that worked on data breach and cyber issues|2
+171|Legal Analysis|Kesia Winters,Richard Baer,Christopher Stoll,Robert Bacon|Linda Brillhart|general counsel office project on legal analysis of state senior issue reporting|2
+172|Legal|Richard Baer,Christopher Stoll,Robert Bacon,Tony Pappas|George Day|conducted legal analysis involving dispute resolution|2
+173|SEC Roundtable|Christopher Stoll,Robert Bacon,Tony Pappas,ROBERT Azanow|J. Janssen|SEC roundtable on commodities and futures and structured products|2
+174|Investigation|Robert Bacon,Tony Pappas,ROBERT Azanow,Nathaniel Frejlach|James Steinhaus|enforcement investigation involving exchange traded funds ETFs and a small firm|2
+175|Arbitration Case|Tony Pappas,ROBERT Azanow,Nathaniel Frejlach,Robert Hershman|Raymond Alvar|COMPANY employee work on arbitration matter|2
+176|COMPANY Mediation Experts Roundtable|ROBERT Azanow,Nathaniel Frejlach,Robert Hershman,Michael Ehlinger|Joseph Daurio|roundtable of COMPANY experts on mediation and arbitration|2
+177|Enforcement Investigation|Nathaniel Frejlach,Robert Hershman,Michael Ehlinger,Michael Grimes|Christopher Smith|enforcement investigation of large broker dealer involving market manipulation|2
+178|Legal Project|Robert Hershman,Michael Ehlinger,Michael Grimes,Josh Arlia|Thomas Coker| revise legal policy framework for new COMPANY rules involving market manipulation|2
+179|General Counsel|Michael Ehlinger,Michael Grimes,Josh Arlia,Joseph Bukowsky|Gerald Rodelli|maintain content on General counsel office portal|2
+180|Contract mangement|Michael Grimes,Josh Arlia,Joseph Bukowsky,JOSEPH Archer|Joseph Love|Legal contract and spend management.|2
+181|Mediation-Arbitration|Josh Arlia,Joseph Bukowsky,JOSEPH Archer,CARLOS Chapman|Debra Brinkman|Mediation and Arbitration Tracking and Retrieval Interactive Case System|2
+182|Exam Planning|Joseph Bukowsky,JOSEPH Archer,CARLOS Chapman,Margaret Cherry|roroor DELFIN|EXPLORATORY PLATFORM FOR RISK ASSESSMENT BASED EXAM PLANNING|3
+183|Trade Info|JOSEPH Archer,CARLOS Chapman,Margaret Cherry,Christopher Wujnovich|D.Flint Maslin|Trade authorization review|3
+184|Email review|CARLOS Chapman,Margaret Cherry,Christopher Wujnovich,FREDDIE krikorian|Michelle Fairbanks|review processed epst files|3
+185|Exam|Margaret Cherry,Christopher Wujnovich,FREDDIE krikorian,Sheila Hagler|Randy Harding|Bank of America exam|3
+186|Exam|Christopher Wujnovich,FREDDIE krikorian,Sheila Hagler,Peter CESARONI|Howard Bdaiwi|Data sampling techniques|3
+187|Scheduling|FREDDIE krikorian,Sheila Hagler,Peter CESARONI,Michael Scott|Jason Luzi|Project scheduling tool|3
+188|Reviews|Sheila Hagler,Peter CESARONI,Michael Scott,REBECCA McGuire|Constance Daily|Chronology Tracking System for customer account suitability determination|3
+189|Reviews|Peter CESARONI,Michael Scott,REBECCA McGuire,Keven Robinson|Jeffrey Dixon|Risk-review mapping project|3
+190|Firm Information|Michael Scott,REBECCA McGuire,Keven Robinson,Brian Tenenblatt|Linda Reque|A One-Stop resource for Regulatory Data. Profiles combines information from more than 20 COMPANY systems-into a single, easy-to-use resource that covers all active and inactive broker-dealers|3
+191|Exam|REBECCA McGuire,Keven Robinson,Brian Tenenblatt,Kerryn Risley|Sean Catmull|Exam planning processes and policy|3
+192|Regulation|Keven Robinson,Brian Tenenblatt,Kerryn Risley,Gary Ahrens|Franklin WISEMAN|post interpretative guidance for open issues|3
+193|Reviews|Brian Tenenblatt,Kerryn Risley,Gary Ahrens,Nicole Bola|Brian Wilkinson|A tool, provided by Wolters Kluwer, which contains both: a feed of regulatory change information, impact analysis and assessment, as well as a place to centrally maintain the RSA rules matrices. The feed of change information allows staff to have cases auto-created to help them assess impact of when regulators (SEC, COMPANY, Exchanges, etc.) make rule or policy changes, which replaced an entirely manual process.  |3
+194|Reviews|Kerryn Risley,Gary Ahrens,Nicole Bola,Bill Wiley|Matthew Chinian|Risk Authoring and Versioning Engine|3
+195|Regulation|Gary Ahrens,Nicole Bola,Bill Wiley,Jaidi Mantia|Sam ostendorf|Risk Based Haircut - Risk Based Margin|3
+196|Regulation|Nicole Bola,Bill Wiley,Jaidi Mantia,|Jeffrey Brockenbrough|Rulebook Database Management|3
+197|Regulation|Jessica Burns,Steven Canedy,MIKE Cohen,Robert Delise|Lawrence Westen|Reference Data Management System|3
+198|Regulation|TIMOTHY Murphy,Gerald SIDOTI,Brooks Santangelo,Vilen Gordon|joseph Walker|Reference Data Repository|3
+199|Communication|Steven Canedy,MIKE Cohen,Robert Delise,David Chamorro|MARK Saxonis|Report Center - firm request management|3
+200|Regulation|Gerald SIDOTI,Brooks Santangelo,Vilen Gordon,Douglas Martinez|Marie Papanikolas|Regulatory Enterprise Query Service Tool|3
+201|Extensions|MIKE Cohen,Robert Delise,David Chamorro,Tim Saiz|John Verbit|Regulatory Extensions|3
+202|Exam process|Brooks Santangelo,Vilen Gordon,Douglas Martinez,WILMARC Vienot|Christopher Gavin|Move the line definition|3
+203|Reviews|Robert Delise,David Chamorro,Tim Saiz,John Chevez|Steven Pazzaglia|SD Elements|3
+204|Reviews|Vilen Gordon,Douglas Martinez,WILMARC Vienot,Justin Kapadia|Frank Antonizio|Risk Identification restructuring|3
+205|Exam|David Chamorro,Tim Saiz,John Chevez,Robert Basalik|Lance Roberts|Time Tracker for exams|3
+206|Exam  |Douglas Martinez,WILMARC Vienot,Justin Kapadia,Douglas Giarratano|Monica Dills|Issue and tip Triage|3
+207|Exam Planning|Tim Saiz,John Chevez,Robert Basalik,Randi Linn|James Christopher|Exam Target Management|3
+208|Reports|WILMARC Vienot,Justin Kapadia,Douglas Giarratano,Thomas Bennett|Kevin DelPrete|automated reports and document generation |3
+209|Email analysis|John Chevez,Robert Basalik,Randi Linn,William Powell|Brent EXUM|email query and analysis tool|3
+210|Exam|Justin Kapadia,Douglas Giarratano,Thomas Bennett,JOSEPH Farrington|Erin Hentges|Conducted an exam / examination of variable products in connection with Merrill Lynch. High commission products. Insurance issues.|3
+211|Exam Team|Robert Basalik,Randi Linn,William Powell,William Beardsley|Gale SUNG|Exam Team conducted an examination invovling Regulation S-P (Customer Information Protection), involved cyber issues, members of the exam team: series 7, series 9, series 10, series 24, previously worked at large retail broker-dealer firms, large firms.|3
+212|Cryptocurrencies Exams|Douglas Giarratano,Thomas Bennett,JOSEPH Farrington,Diane Leisure|Erik Archibald|Conducted examinations and investigations of firms that are involved in cryptocurrencies and crypto-assets, and ICOs / initial coin offerings|3
+213|Independent Contractor Broker Dealer Examinations|Randi Linn,William Powell,William Beardsley,Phyllis bailey|Scott Hernandez|conducted examination on independent broker-dealers for structured products and high-yield products|3
+214|Variable Annuity Sweep|Thomas Bennett,JOSEPH Farrington,Diane Leisure,ANTHONY Cordier|Donald Coughlin| conducted examinations and sweep of variable annuity issues and variable annuity selling firms |3
+215|AML - Anti-money laundering|William Powell,William Beardsley,Phyllis bailey,FRANCES Clark|Christina Bailey|conducted large scale examiantion of Morgan Stanley for money laundering issues involving Puerto Rico bonds|3
+216|Puerto Rico Bonds Sweep|JOSEPH Farrington,Diane Leisure,ANTHONY Cordier,George Hays|Philip Hirt|conducted exams, examinations of Puerto Rico based firms and Puerto Rico bonds|3
+217|Cyber Breach|William Beardsley,Phyllis bailey,FRANCES Clark,Noelle Eaton|Gregory CIAMBRIELLO|Conducted cyber based review of broker-dealer security policies and Regulation S-P, and information security|3
+218|High Yield Securities|Diane Leisure,ANTHONY Cordier,George Hays,JEFFREY chan|Linda Noack|conducted examination and investigation involving high yield securities by UBS Securities a large firm|3
+219|Municipal Bond Exam|Phyllis bailey,FRANCES Clark,Noelle Eaton,Douglas Voyles|John FUMERO|conducted a municipal bond exam on TD Ameritrade|3
+220|Cause Exam|ANTHONY Cordier,George Hays,JEFFREY chan,Leslie MALONE|Richard Mitchell|conducted cause exam involving money laundering issues involving multiple small firms|3
+221|Cycle - Firm Exam|FRANCES Clark,Noelle Eaton,Douglas Voyles,Gregory Madurski|Elaine Lockowitz|conducted firm exam of IFG Securities involving issues regarding suitability and churning|3
+222|Firm Exam|George Hays,JEFFREY chan,Leslie MALONE,Katherine Prussman|Heather Manganelli|conducted a firm exam involving issues related to misrepresentation regarding mutual funds|3
+223|Branch Exam|Noelle Eaton,Douglas Voyles,Gregory Madurski,Denise Vander Ark|Robert Bohlen|conducted a branch exam on Raymond James involving issues of misrepresentation with mutual funds|3
+224|Representative Exam|JEFFREY chan,Leslie MALONE,Katherine Prussman,Ronald Harsche|Dominic GILKER|conducted cause exam on John Doe involving asset backed mortgages involving suitability and misrepresentation issues|3
+225|Market Manipulation|Douglas Voyles,Gregory Madurski,Denise Vander Ark,Linda Zimmerman|Timothy DelVecchio| market manipulation and insider trading examination and review involving various large firms Merrill Lynch, UBS, Morgan Stanley|3
+226|Options Exam|Leslie MALONE,Katherine Prussman,Ronald Harsche,Samuel Weiss|Roma Vanderbilt|team conducted an options exam of an independent broker-dealer, Cetera|3
+227|Options Sweep|Gregory Madurski,Denise Vander Ark,Linda Zimmerman,John Petit|William CLARK|conducted options sweep of broker-dealers in the south region|3
+228|Exchange Traded Funds|Katherine Prussman,Ronald Harsche,Samuel Weiss,Adam Phillips|Blaine Manemanus|conducted an exam of exchange traded fund issues concerning Robinhood|3
+229|Senior Helpline|Denise Vander Ark,Linda Zimmerman,John Petit,Karen SIMMONS|ADAM Langlois|conducted COMPANY Senior Helpline exam on multiple large firms such as Raymond James, Cetera|3
+230|AML|Ronald Harsche,Samuel Weiss,Adam Phillips,Eric Edwards|Russell Theoharis|conducted AML money laundering exam of Deutsche Bank|3
+231|Options Exam|Linda Zimmerman,John Petit,Karen SIMMONS,Teresa Rodman|Paul McAfee|conducted an options exam of TD Ameritrade|3
+232|Morgan Stanley Firm Exam|Samuel Weiss,Adam Phillips,Eric Edwards,Edward Radford|Laura Hutzelman|conducted firm exam of Morgan Stanley, involving John and Jane, and involving mutual funds and unit investment trusts|3
+233|Cyber security firm exam|John Petit,Karen SIMMONS,Teresa Rodman,JOSEPH Ross|Terry Tobin|conduct cybersecurity exam on medium size and large size firm, data breach issues, and Regulation S-P issues|3
+234|Mutual Fund Exam|Adam Phillips,Eric Edwards,Edward Radford,William Cottle|Gordon Remmert|firm exam involving mutual funds and a large firm Fidelity |3
+235|Regulatory Coordinator|Karen SIMMONS,Teresa Rodman,JOSEPH Ross,Israel DiLeo|Christopher Burrington|regulatory coordinator report on large firm Morgan Stanley|3
+236|Surviellance|Eric Edwards,Edward Radford,William Cottle,Ian Cummings|Mark Carroccio|surveillance report on small-firm initiative involving options|3
+237|Exam 392147982|Teresa Rodman,JOSEPH Ross,Israel DiLeo,Gerald Otto|Mark Dikdan|examination of market manipulation in Chicago stock exchange|3
+238|Exam 210101011|Edward Radford,William Cottle,Ian Cummings,Ruth Mohan|James Fernandes|examination exam involving john doe jane doe chris doe failure to disclose on Form U4 outside business activity OBA|3
+239|Exam Related to OBAs|JOSEPH Ross,Israel DiLeo,Gerald Otto,Clayton SHIPPY|Tracy Fitzgerald|conducted exam involving outside business activities OBAs and insider trading for medium size firm|3
+240|Fraud Investigation|William Cottle,Ian Cummings,Ruth Mohan,Grant Somogyi|monte Toureau|conducted fraud investigation of potential ponzi scheme in Florida involving a small broker-dealer|3
+241|Firm Exam|Israel DiLeo,Gerald Otto,Clayton SHIPPY,Marie Kach|Penny Herskovics|firm exam involving options, exchange traded funds, high-yield debt|3
+242|Exam 3023852822|Ian Cummings,Ruth Mohan,Grant Somogyi,Sanjiv Lawson|Troy Curtis|exam involving insider trading |3
+243|Senior Helpline Case|Gerald Otto,Clayton SHIPPY,Marie Kach,Matthew Eddy|REBECCA Wilkers|senior helpline case involving vulnerable adult jane doe and variable annuities and firm xyz|3
+244|AML Review|Ruth Mohan,Grant Somogyi,Sanjiv Lawson,Hubert Mundigo|Dana Yi|conducted AML review of large broker-dealer involving Venezuela|3
+245|Regulation D|Clayton SHIPPY,Marie Kach,Matthew Eddy,Gerald Benjamin|David Scipione|conducted private placement review involving Regulation D|3
+246|Offshore Investigation|Grant Somogyi,Sanjiv Lawson,Hubert Mundigo,Patrick Carbone|Scott Smith|conducted investigation involving offshore entities, Regulation S, and market manipulation involving Regulation M|3
+247|Fixed Income|Marie Kach,Matthew Eddy,Gerald Benjamin,Karen Thompson|Meighan Pereira| conducted fixed income examination and review involving a small firm|3
+248|Mark-Up Disclosure|Sanjiv Lawson,Hubert Mundigo,Patrick Carbone,Daniel Page|COLIN FRASER|conducted a mark-up disclosure exam and review involving a a large firm|3
+249|Sales Practice Risk|Matthew Eddy,Gerald Benjamin,Karen Thompson,Robert Ross-Rafii|Carole Wheeler|conducted a firm exam involving sales practice risks involving suitability and senior investors|3
+250|Outside Business Activities|Hubert Mundigo,Patrick Carbone,Daniel Page,Deborah Baise|james Huning|conducted exam of outside business activities involving a regional broker-dealer, involved also private securities transactions|3
+251|Digital Assets|Gerald Benjamin,Karen Thompson,Robert Ross-Rafii,Richard Tortorici|Dennis Lile|exam involved digital assets, crytpo, crypto currencies, large and medium firms|3
+252|Market Risk Exam|Patrick Carbone,Daniel Page,Deborah Baise,Paul Callas|Joseph Maher|firm exam involving market risk and best execution|3
+253|Market Manipulation Exam|Karen Thompson,Robert Ross-Rafii,Richard Tortorici,Veronica Christensen|David Sanchez|conducted market manipulation exam involving firm x,y,z with some insider trading involved as well.|3
+254|Exam Involving Short Sales|Daniel Page,Deborah Baise,Paul Callas,Mark Tomme|Michael Roth|conducted an exam involving a small broker-dealer involving illegal short-sales|3
+255|Credit Risk|Robert Ross-Rafii,Richard Tortorici,Veronica Christensen,Michael BRANNON|Paul Kallio|exam and investigation regarding credit risk and risk exposures FIRNA Rule 4210|3
+256|Margin Exam 3942984529|Deborah Baise,Paul Callas,Mark Tomme,Gary Piechowski|Dennis PAUL|conducted an exam involving a small broker-dealer in the use of margin|3
+257|Liquidity Issues|Richard Tortorici,Veronica Christensen,Michael BRANNON,John jordan|Derek Ruffolo|risk analysis project involving liquidity issues, net cap, net capitalization|3
+258|Investigation 38223428|Paul Callas,Mark Tomme,Gary Piechowski,HERB Grimm|Gregg Gadit|conducted investation of potential fraud in a small firm, also involved insider trading|3
+259|Examination 21328282|Veronica Christensen,Michael BRANNON,John jordan,GEORGE Turner|Keith Moreno|exam involving supervision issues and outside business activities.|3
+260|Initial Public Offering IPO Exam|Mark Tomme,Gary Piechowski,HERB Grimm,Brant Crichlow|Shelly Covino|exam involving initial public offering of a tech company and Regulation M|3
+261|Private Offering Exam 232823128|Michael BRANNON,John jordan,GEORGE Turner,Linda Brillhart|Mohamed Miller|review of private placement offering documents involving firm x,y,z|3
+262|Exam 32821822|Gary Piechowski,HERB Grimm,Brant Crichlow,George Day|Matthew Turville|firm exam involving American Depository Receipts (ADRs)|3
+263|Exam 372727272|John jordan,GEORGE Turner,Linda Brillhart,J. Janssen|Paul Lozada|exam inovlving asset-backed securities (ABS) and large firm|3
+264|Exam 32392292|HERB Grimm,Brant Crichlow,George Day,James Steinhaus|TODD ushyarov|exam of firm and representative involving suitability of asset-backed securities (ABS)|3
+265|Options Exam|GEORGE Turner,Linda Brillhart,J. Janssen,Raymond Alvar|Michael Seibt|conduct options exam of a small broker-dealer in California|3
+266|Exam 38282822|Brant Crichlow,George Day,James Steinhaus,Joseph Daurio|Mary Levin|conduct firm exam on large broker dealer involving securities lending risk and suitability issues involving senior customers|3
+267|Bond Market|Linda Brillhart,J. Janssen,Raymond Alvar,Christopher Smith|Jay Johnson|conducted cause examination and investigation involving bond market participants on the NYSE |3
+268|Dark Pools|George Day,James Steinhaus,Joseph Daurio,Thomas Coker|Daniel Hunter|conducted an exam involving large firm use of dark pools and liquidity issues|3
+269|Wireblotter Review|J. Janssen,Raymond Alvar,Christopher Smith,Gerald Rodelli|William Jowdy|exam with review large firm wireblotter for fraud or money laundering issues, aml compliance, branch office|3
+270|Exam 3838382218|James Steinhaus,Joseph Daurio,Thomas Coker,Joseph Love|Bart O'Neill|options exam involving large firm x,y,z|3
+271|Exam 3828282821|Raymond Alvar,Christopher Smith,Gerald Rodelli,Debra Brinkman|Kesia Winters|know your customer issues exam involving also bank secrecy act (BSA) and USA Patriot Act|3
+272|Exam 11122212111|Joseph Daurio,Thomas Coker,Joseph Love,roroor DELFIN|Richard Baer|examination of a large firm involving market manipulation and mark to market|3
+273|Exam 327817811|Christopher Smith,Gerald Rodelli,Debra Brinkman,D.Flint Maslin|Christopher Stoll| cause exam regarding unsuitability of exchange traded funds, ETFs|3
+274|Investigation 28218811|Thomas Coker,Joseph Love,roroor DELFIN,Michelle Fairbanks|Robert Bacon|exam involving reverse churning and suitability|3
+275|Risk Monitoring Project|Gerald Rodelli,Debra Brinkman,D.Flint Maslin,Randy Harding|Tony Pappas|investigation and exam involving market manipulation involving a penny stock low priced stock|3
+276|Exam 3282181 - Algo|Joseph Love,roroor DELFIN,Michelle Fairbanks,Howard Bdaiwi|ROBERT Azanow|market exam involving algorithmic trading and high speed trading, latency|3
+277|Exam 2943043892|Debra Brinkman,D.Flint Maslin,Randy Harding,Jason Luzi|Nathaniel Frejlach|exam involving ANYDAQ and CBOE|3
+278|Regulation D|roroor DELFIN,Michelle Fairbanks,Howard Bdaiwi,Constance Daily|Robert Hershman|Exam involving Regulation D and private offerings|3
+279|Fraud Surveillance Review|D.Flint Maslin,Randy Harding,Jason Luzi,Jeffrey Dixon|Michael Ehlinger| fraud surveillance review of large firms and NYSE and ANYDAQ|3
+280|Pink Sheets|Michelle Fairbanks,Howard Bdaiwi,Constance Daily,Linda Reque|Michael Grimes|examination and investigation involving pink sheets and over the counter (OTC) securities, penny stocks|3
+281|COMPANY Complaint Exam 3832828|Randy Harding,Jason Luzi,Jeffrey Dixon,Sean Catmull|Josh Arlia|senior investor complaint involving suitability|3
+282|Options Exam|Howard Bdaiwi,Constance Daily,Linda Reque,Franklin WISEMAN|Joseph Bukowsky| options exam regarding etrade [all these data are fake], james doe|3
+283|Investment Company Exam 38388383|Jason Luzi,Jeffrey Dixon,Sean Catmull,Brian Wilkinson|JOSEPH Archer|examination that involved a fraudulent investment company set up by a broker-dealer|3
+284|Exam 3838383|Constance Daily,Linda Reque,Franklin WISEMAN,Matthew Chinian|CARLOS Chapman|exam involving clearing firm and transfer agent activities|3
+285|White Collar Fraud|Jeffrey Dixon,Sean Catmull,Brian Wilkinson,Sam ostendorf|Margaret Cherry|Develop several white collar fraud indicators for exam staff|3
+286|FinOp|Linda Reque,Franklin WISEMAN,Matthew Chinian,Jeffrey Brockenbrough|Christopher Wujnovich|FINOP exam, low priced securities, net cap|3
+287|Exam 3832811|Sean Catmull,Brian Wilkinson,Sam ostendorf,Lawrence Westen|FREDDIE krikorian|exam related to unauthorized trading in GE securities   |3
+288|Exam 383838312|Franklin WISEMAN,Matthew Chinian,Jeffrey Brockenbrough,joseph Walker|Sheila Hagler|investigation and exam involving market manipulation involving a penny stock low priced stock|3
+289|Exam 393292191|Brian Wilkinson,Sam ostendorf,Lawrence Westen,MARK Saxonis|Peter CESARONI|exam involving segregation of client assets, credit, fraud and deception.|3
+290|Exam 3838211|Matthew Chinian,Jeffrey Brockenbrough,joseph Walker,Marie Papanikolas|Michael Scott|accuracy of regulatory capital issues in this exam, revenue formula, operational risk|3
+291|Exam 38281811|Sam ostendorf,Lawrence Westen,MARK Saxonis,John Verbit|REBECCA McGuire|money laundering penny stocks firm x,y,z|3
+292|Exam 382181811|Jeffrey Brockenbrough,joseph Walker,Marie Papanikolas,Christopher Gavin|Keven Robinson|variable annuity exam, also involved fixed annuity and insurance issues|3
+293|Investment Advisory Exam 3893482181|Lawrence Westen,MARK Saxonis,John Verbit,Steven Pazzaglia|Brian Tenenblatt|exam involved reverse churning and required knowledge of investment advisor issues|3
+294|Exam 3982811|joseph Walker,Marie Papanikolas,Christopher Gavin,Frank Antonizio|Kerryn Risley|suitability, concentration, churning|3
+295|Enforcement Investigation|MARK Saxonis,John Verbit,Steven Pazzaglia,Lance Roberts|Gary Ahrens|investigation of variable annnuity sales|3
+296|Exam 3828121|Marie Papanikolas,Christopher Gavin,Frank Antonizio,Monica Dills|Nicole Bola|variable annuity exam involving large firm xyz|3
+297|U.S. Treasury Securities Exam 382811|John Verbit,Steven Pazzaglia,Lance Roberts,James Christopher|Bill Wiley| exam involving u.s. treasuries pricing issues|3
+298|Annual Priorities|Christopher Gavin,Frank Antonizio,Monica Dills,Kevin DelPrete|Jaidi Mantia|Annual Priorities reporting|3
+299|Retail firms|Steven Pazzaglia,Lance Roberts,James Christopher,Brent EXUM|Judith Angulo|Financial audit review for retail firms|3
+300|Market Maker|Frank Antonizio,Monica Dills,Kevin DelPrete,Erin Hentges|Jessica Burns|Floor trader reviews|3
+301|Trade Info|Lance Roberts,James Christopher,Brent EXUM,Gale SUNG|TIMOTHY Murphy|AWS Platform encompasses the services supporting trade reporting|4
+302|Training|Monica Dills,Kevin DelPrete,Erin Hentges,Erik Archibald|Steven Canedy|Productivity Engineering seminar|4
+303|Data Analytics|James Christopher,Brent EXUM,Gale SUNG,Scott Hernandez|Gerald SIDOTI|Advanced Analytics  - Predictive Models DB|4
+304|Data Analytics|Kevin DelPrete,Erin Hentges,Erik Archibald,Donald Coughlin|MIKE Cohen|Advanced Analytics - TRR DB|4
+305|Customer Accounts|Brent EXUM,Gale SUNG,Scott Hernandez,Christina Bailey|Brooks Santangelo|Automated Customer Account Transfer System|4
+306|Identification|Erin Hentges,Erik Archibald,Donald Coughlin,Philip Hirt|Robert Delise|network user access management|4
+307|Security Management|Gale SUNG,Scott Hernandez,Christina Bailey,Gregory CIAMBRIELLO|Vilen Gordon|software packaging tools|4
+308|Document management|Erik Archibald,Donald Coughlin,Philip Hirt,Linda Noack|David Chamorro|content services platform provides content services to various applications and users with a set of APIs and UI apps|4
+309|Data security management|Scott Hernandez,Christina Bailey,Gregory CIAMBRIELLO,John FUMERO|Douglas Martinez|Applications Operations Monitoring Framework|4
+310|Data security management|Donald Coughlin,Philip Hirt,Linda Noack,Richard Mitchell|Tim Saiz|Access Management and Governance|4
+311|Data security management|Christina Bailey,Gregory CIAMBRIELLO,John FUMERO,Elaine Lockowitz|WILMARC Vienot|Password Reset app|4
+312|Development tool|Philip Hirt,Linda Noack,Richard Mitchell,Heather Manganelli|John Chevez|Application Operations AWS Infrastructure and Resiliency Framework. An automation and operations management framework.|4
+313|Development tool|Gregory CIAMBRIELLO,John FUMERO,Elaine Lockowitz,Robert Bohlen|Justin Kapadia|Monitoring Platform|4
+314|Communication|Linda Noack,Richard Mitchell,Heather Manganelli,Dominic GILKER|Robert Basalik|AppGate Security Server|4
+315|Development tool|John FUMERO,Elaine Lockowitz,Robert Bohlen,Timothy DelVecchio|Douglas Giarratano|Application Monitoring|4
+316|Data security management|Richard Mitchell,Heather Manganelli,Dominic GILKER,Roma Vanderbilt|Randi Linn|AppScan|4
+317|Data security management|Elaine Lockowitz,Robert Bohlen,Timothy DelVecchio,William CLARK|Thomas Bennett|AppSense for Desktop|4
+318|Data security management|Heather Manganelli,Dominic GILKER,Roma Vanderbilt,Blaine Manemanus|William Powell|ArchiveSocial|4
+319|Communication|Robert Bohlen,Timothy DelVecchio,William CLARK,ADAM Langlois|JOSEPH Farrington|SFTP support|4
+320|Development tool|Dominic GILKER,Roma Vanderbilt,Blaine Manemanus,Russell Theoharis|William Beardsley|JFROG Artifactory Pro|4
+321|Testing-Quality Mangement|Timothy DelVecchio,William CLARK,ADAM Langlois,Paul McAfee|Diane Leisure|Aspect Quality Management (AQM)|4
+322|Testing-Quality Mangement|Roma Vanderbilt,Blaine Manemanus,Russell Theoharis,Laura Hutzelman|Phyllis bailey|Test automation centralization|4
+323|Data security management|William CLARK,ADAM Langlois,Paul McAfee,Terry Tobin|ANTHONY Cordier|Assurance Continuity Management|4
+324|Data security management|Blaine Manemanus,Russell Theoharis,Laura Hutzelman,Gordon Remmert|FRANCES Clark|AUTHSYN|4
+325|Development tool|ADAM Langlois,Paul McAfee,Terry Tobin,Christopher Burrington|George Hays|Audio Video Engineering applications|4
+326|Communication|Russell Theoharis,Laura Hutzelman,Gordon Remmert,Mark Carroccio|Noelle Eaton|SIP Gateway (Avaya-Sipera) that routes VoIP calls out to the external voice carrier.|4
+327|Communication|Paul McAfee,Terry Tobin,Christopher Burrington,Mark Dikdan|JEFFREY chan|Legacy internal COMPANY telephone call management system.  This is a hybrid Digital/VoIP system that supports voice calling to and from COMPANY. |4
+328|Communication|Laura Hutzelman,Gordon Remmert,Mark Carroccio,James Fernandes|Douglas Voyles|Legacy Voicemail system only supporting call center today. (decom in 2018)|4
+329|Data security management|Terry Tobin,Christopher Burrington,Mark Dikdan,Tracy Fitzgerald|Leslie MALONE|Anti Virus Scanning Service|4
+330|Data security management|Gordon Remmert,Mark Carroccio,James Fernandes,monte Toureau|Gregory Madurski|Run reports in AWS to monitor CI names|4
+331|Communication|Christopher Burrington,Mark Dikdan,Tracy Fitzgerald,Penny Herskovics|Katherine Prussman|AxisTV Content Manager|4
+332|Testing-Quality Mangement|Mark Carroccio,James Fernandes,monte Toureau,Troy Curtis|Denise Vander Ark|Black Duck Suite|4
+333|Data Analytics|Mark Dikdan,Tracy Fitzgerald,Penny Herskovics,REBECCA Wilkers|Ronald Harsche|Big Data Ad Hoc SQL|4
+334|Development tool|James Fernandes,monte Toureau,Troy Curtis,Dana Yi|Linda Zimmerman|To enable running Apache Spark into AWS services such as EMR, ECS, EKS, etc... |4
+335|Data security management|Tracy Fitzgerald,Penny Herskovics,REBECCA Wilkers,David Scipione|Samuel Weiss|Good Mobile Device Management|4
+336|Communication|monte Toureau,Troy Curtis,Dana Yi,Scott Smith|John Petit|Maintains circuits to Bloomberg|4
+337|Data Analytics|Penny Herskovics,REBECCA Wilkers,David Scipione,Meighan Pereira|Adam Phillips|Blotter Operations|4
+338|Data security management|Troy Curtis,Dana Yi,Scott Smith,COLIN FRASER|Karen SIMMONS|Grant retirees access to online participant website.|4
+339|Data Analytics|REBECCA Wilkers,David Scipione,Meighan Pereira,Carole Wheeler|Eric Edwards|Billing Rules and Calculation Engine|4
+340|Data security management|Dana Yi,Scott Smith,COLIN FRASER,james Huning|Teresa Rodman|Bright Horizons Backup Care|4
+341|Data Analytics|David Scipione,Meighan Pereira,Carole Wheeler,Dennis Lile|Edward Radford|Certification Assessment Support Tool|4
+342|Development tool|Scott Smith,COLIN FRASER,james Huning,Joseph Maher|JOSEPH Ross|BDSQL environment built in support of Contract |4
+343|Trade Info|Meighan Pereira,Carole Wheeler,Dennis Lile,David Sanchez|William Cottle|Contract  Data API|4
+344|Data security management|COLIN FRASER,james Huning,Joseph Maher,Michael Roth|Israel DiLeo|FastOLA implementation for Contract  as an online lifecycle query tool|4
+345|Storage|Carole Wheeler,Dennis Lile,David Sanchez,Paul Kallio|Ian Cummings|Shared Metastore implementation for Contract |4
+346|Data Analytics|james Huning,Joseph Maher,Michael Roth,Dennis PAUL|Gerald Otto|BIGDATA for Contract |4
+347|Storage|Dennis Lile,David Sanchez,Paul Kallio,Derek Ruffolo|Ruth Mohan|Contract  Data Collection|4
+348|Development tool|Joseph Maher,Michael Roth,Dennis PAUL,Gregg Gadit|Clayton SHIPPY|Contract  Data Ingest|4
+349|DIVER-Contract |David Sanchez,Paul Kallio,Derek Ruffolo,Keith Moreno|Grant Somogyi|DIVER implementation for CAt as online data query tool|4
+350|Storage|Michael Roth,Dennis PAUL,Gregg Gadit,Shelly Covino|Marie Kach|Data Management / Herd installation for Contract |4
+351|Testing-Quality Mangement|Paul Kallio,Derek Ruffolo,Keith Moreno,Mohamed Miller|Sanjiv Lawson|Contract DQMON does data quality checks for all Contract  market data. |4
+352|Event management|Dennis PAUL,Gregg Gadit,Shelly Covino,Matthew Turville|Matthew Eddy|ESMP for Contract |4
+353|Access|Derek Ruffolo,Keith Moreno,Mohamed Miller,Paul Lozada|Hubert Mundigo|COMPANY Contract  ETL Project|4
+354|Data security management|Gregg Gadit,Shelly Covino,Matthew Turville,TODD ushyarov|Gerald Benjamin|Contract  FIP environment|4
+355|Development tool|Keith Moreno,Mohamed Miller,Paul Lozada,Michael Seibt|Patrick Carbone|fileX in Contract  account for file transfers|4
+356|Communication|Shelly Covino,Matthew Turville,TODD ushyarov,Mary Levin|Karen Thompson|COMPANY Contract  Linker Project|4
+357|Data security management|Mohamed Miller,Paul Lozada,Michael Seibt,Jay Johnson|Daniel Page|This AGS will be used for the new Contract  website.|4
+358|DB structure|Matthew Turville,TODD ushyarov,Mary Levin,Daniel Hunter|Robert Ross-Rafii|Build normalization processes for equities data from RSA exchanges in Contract  Program.|4
+359|Development tool|Paul Lozada,Michael Seibt,Jay Johnson,William Jowdy|Deborah Baise|Carbon Black|4
+360|Data Analytics|TODD ushyarov,Mary Levin,Daniel Hunter,Bart O'Neill|Richard Tortorici|CCCS Blotter Operations|4
+361|Testing-Quality Mangement|Michael Seibt,Jay Johnson,William Jowdy,Kesia Winters|Paul Callas|Cloud Compliance Portal |4
+362|DB structure|Mary Levin,Daniel Hunter,Bart O'Neill,Richard Baer|Veronica Christensen|Common Data Intake Platform|4
+363|Development tool|Jay Johnson,William Jowdy,Kesia Winters,Christopher Stoll|Mark Tomme|Source Code Security Analysis tool|4
+364|Communication|Daniel Hunter,Bart O'Neill,Richard Baer,Robert Bacon|Michael BRANNON|SIP Gateway (Cisco-Cube) that routes VoIP calls out to the external voice carrier.|4
+365|Communication|William Jowdy,Kesia Winters,Christopher Stoll,Tony Pappas|Gary Piechowski|New internal COMPANY telephone call management system.  |4
+366|Communication|Bart O'Neill,Richard Baer,Robert Bacon,ROBERT Azanow|John jordan|The Telepresence Application & Video/Audio Conferencing were combined to form this new application name per SR 120625(3/2018)|4
+367|Communication|Kesia Winters,Christopher Stoll,Tony Pappas,Nathaniel Frejlach|HERB Grimm|Cisco Unity Connect is the voicemail component of the phone system that support voicemail for both Avaya and Cisco Call Manager platforms.|4
+368|Development tool|Richard Baer,Robert Bacon,ROBERT Azanow,Robert Hershman|GEORGE Turner|Create AWS accounts and setup environment|4
+369|Data security management|Christopher Stoll,Tony Pappas,Nathaniel Frejlach,Michael Ehlinger|Brant Crichlow|Cloud Compliance Monitoring Engine|4
+370|Data security management|Robert Bacon,ROBERT Azanow,Robert Hershman,Michael Grimes|Linda Brillhart|AWS Token Service|4
+371|Testing-Quality Mangement|Tony Pappas,Nathaniel Frejlach,Michael Ehlinger,Josh Arlia|George Day|Performance test tool.|4
+372|Practice monitoring|ROBERT Azanow,Robert Hershman,Michael Grimes,Joseph Bukowsky|J. Janssen|Enforcement practices consolidation|4
+373|Change control management|Nathaniel Frejlach,Michael Ehlinger,Josh Arlia,JOSEPH Archer|James Steinhaus|CRM implementation  for tracking corporate actions.|4
+374|Change control management|Robert Hershman,Michael Grimes,Joseph Bukowsky,CARLOS Chapman|Raymond Alvar| CRM implementation for the office of Government Affairs|4
+375|Architecture|Michael Ehlinger,Josh Arlia,JOSEPH Archer,Margaret Cherry|Joseph Daurio|Corporate Systems Data Warehouse in AWS|4
+376|COTS tools|Michael Grimes,Joseph Bukowsky,CARLOS Chapman,Christopher Wujnovich|Christopher Smith|Commercial Off the Shelf Tool (COTS) - Miscellaneous|4
+377|Communication|Josh Arlia,JOSEPH Archer,Margaret Cherry,FREDDIE krikorian|Thomas Coker|Wiki for Createathon|4
+378|Data security management|Joseph Bukowsky,CARLOS Chapman,Christopher Wujnovich,Sheila Hagler|Gerald Rodelli|COMPANY Identity Platform|4
+379|Communication|JOSEPH Archer,Margaret Cherry,FREDDIE krikorian,Peter CESARONI|Joseph Love|Firm Gateway Member Interface|4
+380|Communication|CARLOS Chapman,Christopher Wujnovich,Sheila Hagler,Michael Scott|Debra Brinkman|Forms Management - periodic surveys|4
+381|Alerts|Margaret Cherry,FREDDIE krikorian,Peter CESARONI,REBECCA McGuire|roroor DELFIN|Forms Management System-Alert and Case Management System|4
+382|Storage|Christopher Wujnovich,Sheila Hagler,Michael Scott,Keven Robinson|D.Flint Maslin|Forms Management System-Documentum Primary Instance|4
+383|Development tool|FREDDIE krikorian,Peter CESARONI,REBECCA McGuire,Brian Tenenblatt|Michelle Fairbanks|Form   Enterprise Component|4
+384|Communication|Sheila Hagler,Michael Scott,Keven Robinson,Kerryn Risley|Randy Harding|Gateways (firm gaetway, reg and sec, compliance calendar) |4
+385|Data security management|Peter CESARONI,REBECCA McGuire,Brian Tenenblatt,Gary Ahrens|Howard Bdaiwi|VPN Remote access software|4
+386|Data security management|Michael Scott,Keven Robinson,Kerryn Risley,Nicole Bola|Jason Luzi|Global Relay eMail Archive|4
+387|Architecture|REBECCA McGuire,Brian Tenenblatt,Gary Ahrens,Bill Wiley|Constance Daily|Serverless AWS Infrastructure|4
+388|Data security management|Keven Robinson,Kerryn Risley,Nicole Bola,Jaidi Mantia|Jeffrey Dixon|InfoSphere Guardium Database Activity Monitor|4
+389|AWS|Brian Tenenblatt,Gary Ahrens,Bill Wiley,|Linda Reque|Vulnerability scanning tool for  containers.|4
+390|Data security management|Kerryn Risley,Nicole Bola,Jaidi Mantia,|Sean Catmull|Hyperion Enterprise Performance Management|4
+391|Portfolio management|Judith Angulo,TIMOTHY Murphy,Gerald SIDOTI|Franklin WISEMAN|Internal Application project review board|4
+392|Data security management|Jessica Burns,Steven Canedy,MIKE Cohen|Brian Wilkinson|Internal Audit portal for extracting, analyzing and managing cloud data|4
+393|Data security management|TIMOTHY Murphy,Gerald SIDOTI,Brooks Santangelo|Matthew Chinian|Intrusion Detection System|4
+394|Document management|Steven Canedy,MIKE Cohen,Robert Delise|Sam ostendorf|Document Imaging|4
+395|Application management tool|Gerald SIDOTI,Brooks Santangelo,Vilen Gordon|Jeffrey Brockenbrough|SAVVIS Internet/Extranet Peering|4
+396|Application management tool|MIKE Cohen,Robert Delise,David Chamorro|Lawrence Westen|Info Sec architecture apps|4
+397|Application management tool|Brooks Santangelo,Vilen Gordon,Douglas Martinez|joseph Walker|Global AGS for Information Security Engineering. All projects/resources will start using this AGS.|4
+398|Data security management|Robert Delise,David Chamorro,Tim Saiz|MARK Saxonis|Internal Single Sign-On (OKTA)|4
+399|Development tool|Vilen Gordon,Douglas Martinez,WILMARC Vienot|Marie Papanikolas|Job Access Management System|4
+400|Development tool|David Chamorro,Tim Saiz,John Chevez|John Verbit|CloudBees Jenkins Enterprise|4
+401|Development tool|Douglas Martinez,WILMARC Vienot,Justin Kapadia|Christopher Gavin|Atlassian JIRA|4
+402|Data Analytics|Tim Saiz,John Chevez,Robert Basalik|Steven Pazzaglia|On Demand Analytics Platform|4
+403|Data security management|WILMARC Vienot,Justin Kapadia,Douglas Giarratano|Frank Antonizio|Oracle Enterprise Manager|4
+404|Development tool|John Chevez,Robert Basalik,Randi Linn|Lance Roberts|Email functions in Office 365|4
+405|Data security management|Justin Kapadia,Douglas Giarratano,Thomas Bennett|Monica Dills|Oracle Internet Directory|4
+406|Data security management|Robert Basalik,Randi Linn,William Powell|James Christopher|Dell Open Manage|4
+407|Data Analytics|Douglas Giarratano,Thomas Bennett,JOSEPH Farrington|Kevin DelPrete|Efocus data compilation and anlysis|4
+408|Data security management|Randi Linn,William Powell,William Beardsley|Brent EXUM|Online Warehouse|4
+409|Development tool|Thomas Bennett,JOSEPH Farrington,Diane Leisure|Erin Hentges|Optum|4
+410|Development tool|William Powell,William Beardsley,Phyllis bailey|Gale SUNG|Open Technology Real Services|4
+411|Communication|JOSEPH Farrington,Diane Leisure,ANTHONY Cordier|Erik Archibald|Outlook Web Access|4
+412|Data security management|William Beardsley,Phyllis bailey,FRANCES Clark|Scott Hernandez|Capacity Optimization for db|4
+413|Data security management|Diane Leisure,ANTHONY Cordier,George Hays|Donald Coughlin|Whole Disk Encryption|4
+414|Data security management|Phyllis bailey,FRANCES Clark,Noelle Eaton|Christina Bailey|Security Behavior Management|4
+415|Development tool|ANTHONY Cordier,George Hays,JEFFREY chan|Philip Hirt|Platform Engineering AGS - Only to be used in DEV|4
+416|Data security management|FRANCES Clark,Noelle Eaton,Douglas Voyles|Gregory CIAMBRIELLO|Pleasant Password Server|4
+417|Data security management|George Hays,JEFFREY chan,Leslie MALONE|Linda Noack|SaaS product that facilitates the risk assessment of COMPANY's third party vendors|4
+418|Development tool|Noelle Eaton,Douglas Voyles,Gregory Madurski|John FUMERO|Proofpoint|4
+419|Development tool|JEFFREY chan,Leslie MALONE,Katherine Prussman|Richard Mitchell|PeopleSoft - Financial Information System|4
+420|Trade Info|Douglas Voyles,Gregory Madurski,Denise Vander Ark|Elaine Lockowitz|Public Offering System (formerly COBRA2)|4
+421|Development tool|Leslie MALONE,Katherine Prussman,Ronald Harsche|Heather Manganelli|Linux server configuration management|4
+422|Testing-Quality Mangement|Gregory Madurski,Denise Vander Ark,Linda Zimmerman|Robert Bohlen|Quality Center|4
+423|Data security management|Katherine Prussman,Ronald Harsche,Samuel Weiss|Dominic GILKER|Qualys Security Scans (Vulnerability Management)|4
+424|Data security management|Denise Vander Ark,Linda Zimmerman,John Petit|Timothy DelVecchio|Quantum Encryption|4
+425|Development tool|Ronald Harsche,Samuel Weiss,Adam Phillips|Roma Vanderbilt|QuestionMark On-Demand|4
+426|Registration|Linda Zimmerman,John Petit,Karen SIMMONS|William CLARK|Registration Applications Management Portfolio|4
+427|Data security management|Samuel Weiss,Adam Phillips,Eric Edwards|Blaine Manemanus|RAMP Data In|4
+428|Data security management|John Petit,Karen SIMMONS,Teresa Rodman|ADAM Langlois|RAMP Data Out|4
+429|Data Analytics|Adam Phillips,Eric Edwards,Edward Radford|Russell Theoharis|Reporting And Visualization Engine|4
+430|Data Analytics|Karen SIMMONS,Teresa Rodman,JOSEPH Ross|Paul McAfee|Link Analysis is a framework that identifies relationships across entities within COMPANY data.|4
+431|Data security management|Eric Edwards,Edward Radford,William Cottle|Laura Hutzelman|EMC RecoverPoint Appliances|4
+432|Development tool|Teresa Rodman,JOSEPH Ross,Israel DiLeo|Terry Tobin|Pentaho data integrator (PDI) is used as the ETL tool to move data between different locations.|4
+433|Development tool|Edward Radford,William Cottle,Ian Cummings|Gordon Remmert|REMS|4
+434|Data security management|JOSEPH Ross,Israel DiLeo,Gerald Otto|Christopher Burrington|RSA ClearTrust|4
+435|Data security management|William Cottle,Ian Cummings,Ruth Mohan|Mark Carroccio|RSA Security Analytics|4
+436|Development tool|Israel DiLeo,Gerald Otto,Clayton SHIPPY|Mark Dikdan|rsync OS Utility|4
+437|Data security management|Ian Cummings,Ruth Mohan,Grant Somogyi|James Fernandes|SafeSend is an Outlook add-in available for Windows users to help avoid sending email to unwanted external email recipients.  SafeSend is part of a larger Data Loss Prevention program within COMPANY.  SafeSend is a mandatory installation on all COMPANY Windows computers. Please note that this feature is not available for Mac computers. SafeSend works automatically with Outlook email, providing a prompt to verify each external email recipient as well as any email attachments before the email will be|4
+438|Testing-Quality Mangement|Gerald Otto,Clayton SHIPPY,Marie Kach|Tracy Fitzgerald|Automated software testing platform|4
+439|Data security management|Ruth Mohan,Grant Somogyi,Sanjiv Lawson|monte Toureau|Scansafe Web Filtering|4
+440|Data security management|Clayton SHIPPY,Marie Kach,Matthew Eddy|Penny Herskovics|System Center Configuration Manager - For Desktops|4
+441|Data security management|Grant Somogyi,Sanjiv Lawson,Hubert Mundigo|Troy Curtis|System Center Configuration Manager - For Servers|4
+442|Data security management|Marie Kach,Matthew Eddy,Gerald Benjamin|REBECCA Wilkers|System Center Operations Manager|4
+443|Data security management|Sanjiv Lawson,Hubert Mundigo,Patrick Carbone|Dana Yi|Telephone firewall that protects COMPANY's telephone systems from abuse and telephony-based attacks.|4
+444|Data security management|Matthew Eddy,Gerald Benjamin,Karen Thompson|David Scipione|SecureTrack|4
+445|Data security management|Hubert Mundigo,Patrick Carbone,Daniel Page|Scott Smith|RSA Authentication Manager (SecurID)|4
+446|Data security management|Gerald Benjamin,Karen Thompson,Robert Ross-Rafii|Meighan Pereira|Shared File Transfer Gateway|4
+447|Data security management|Patrick Carbone,Daniel Page,Deborah Baise|COLIN FRASER|SFTI Network Connectivity|4
+448|Communication tool|Karen Thompson,Robert Ross-Rafii,Richard Tortorici|Carole Wheeler|Sharepoint in the Microsoft Cloud|4
+449|Development tool|Daniel Page,Deborah Baise,Paul Callas|james Huning|Shredder|4
+450|Communication tool|Robert Ross-Rafii,Richard Tortorici,Veronica Christensen|Dennis Lile|Slack brings all your communication together in 1 place. It's real-time messaging, archiving and search for modern teams.|4
+451|Data security management|Deborah Baise,Paul Callas,Mark Tomme|Joseph Maher|Software Defined Storage|4
+452|Development tool|Richard Tortorici,Veronica Christensen,Michael BRANNON|David Sanchez|Jabber|4
+453|Testing-Quality Mangement|Paul Callas,Mark Tomme,Gary Piechowski|Michael Roth|Software Quality Dashboard|4
+454|Development tool|Veronica Christensen,Michael BRANNON,John jordan|Paul Kallio|Code quality analysis tool|4
+455|Development tool|Mark Tomme,Gary Piechowski,HERB Grimm|Dennis PAUL|Cloud based innovation management software|4
+456|Development tool|Michael BRANNON,John jordan,GEORGE Turner|Derek Ruffolo|SPLUNK|4
+457|Data Analytics|Gary Piechowski,HERB Grimm,Brant Crichlow|Gregg Gadit|Replacement for REQST project in cloud|4
+458|Development tool|John jordan,GEORGE Turner,Linda Brillhart|Keith Moreno|SpringSource ActiveMQ|4
+459|Development tool|HERB Grimm,Brant Crichlow,George Day|Shelly Covino|SpringSource Apache|4
+460|Development tool|GEORGE Turner,Linda Brillhart,J. Janssen|Mohamed Miller|SpringSource Tomcat|4
+461|Data security management|Brant Crichlow,George Day,James Steinhaus|Matthew Turville|Shared Services Engineering Application Infrastructure|4
+462|Data security management|Linda Brillhart,J. Janssen,Raymond Alvar|Paul Lozada|HTTPS Certificate Management|4
+463|Activity Tracking|George Day,James Steinhaus,Joseph Daurio|TODD ushyarov|System for Tracking Activities for Contract |4
+464|Data security management|J. Janssen,Raymond Alvar,Christopher Smith|Michael Seibt|RDF Database.  This is a 3rd party database we will use for AGS: RDF. it's very similar to AGS: SOLR.   |4
+465|Risk monitoring|James Steinhaus,Joseph Daurio,Thomas Coker|Mary Levin|STARStream - SPRU Tool for Risk Exam Analysis  Management|4
+466|Data Analytics|Raymond Alvar,Christopher Smith,Gerald Rodelli|Jay Johnson|Stock Record Analytics|4
+467|Data Analytics|Joseph Daurio,Thomas Coker,Joseph Love|Daniel Hunter|This is for tasks categorized under surveillance/ data analytics using machine learning|4
+468|Survey|Christopher Smith,Gerald Rodelli,Debra Brinkman|William Jowdy|Provides on-demand survey capability|4
+469|Testing-Quality Mangement|Thomas Coker,Joseph Love,roroor DELFIN|Bart O'Neill|Testing & Continuing Education|4
+470|Data security management|Gerald Rodelli,Debra Brinkman,D.Flint Maslin|Kesia Winters|Transparency Data Repository|4
+471|Text recognition|Joseph Love,roroor DELFIN,Michelle Fairbanks|Richard Baer|Text Analytics|4
+472|Data security management|Debra Brinkman,D.Flint Maslin,Randy Harding|Christopher Stoll|This is the AWS hosted suite of Thales (formerly Vormetric) solutions, currently spanning Data Security Manager (DSM) (e.g. key servers), Vormetric Transparent Encryption (VTE), and VaultlessTokenization Server (VTS).|4
+473|Database|roroor DELFIN,Michelle Fairbanks,Howard Bdaiwi|Robert Bacon|Tool for Oracle Application Developers|4
+474|Security Management|D.Flint Maslin,Randy Harding,Jason Luzi|Tony Pappas|Tripwire Enterprise|4
+475|Data Analytics|Michelle Fairbanks,Howard Bdaiwi,Constance Daily|ROBERT Azanow|Data visualization tools|4
+476|Testing-Quality Mangement|Randy Harding,Jason Luzi,Jeffrey Dixon|Nathaniel Frejlach|Used for creating test accounts.|4
+477|Data Migration|Howard Bdaiwi,Constance Daily,Linda Reque|Robert Hershman|User State Migration Tool|4
+478|Data security management|Jason Luzi,Jeffrey Dixon,Sean Catmull|Michael Ehlinger|Schlage Security Management System|4
+479|Data Analytics|Constance Daily,Linda Reque,Franklin WISEMAN|Michael Grimes|Varonis DatAdvantage|4
+480|General software|Jeffrey Dixon,Sean Catmull,Brian Wilkinson|Josh Arlia|Veritas Foundation Suite|4
+481|Text recognition|Linda Reque,Franklin WISEMAN,Matthew Chinian|Joseph Bukowsky|Veritext|4
+482|Cloud conference|Sean Catmull,Brian Wilkinson,Sam ostendorf|JOSEPH Archer|A cloud based conferencing service|4
+483|Architecture|Franklin WISEMAN,Matthew Chinian,Jeffrey Brockenbrough|CARLOS Chapman|Central Relational Interface Service Platform|4
+484|Data security management|Brian Wilkinson,Sam ostendorf,Lawrence Westen|Margaret Cherry|Crowdstrike is an endpoint advanced threat detection tool|4
+485|Development tool|Matthew Chinian,Jeffrey Brockenbrough,joseph Walker|Christopher Wujnovich|Data Access Service Layer|4
+486|Data Analytics|Sam ostendorf,Lawrence Westen,MARK Saxonis|FREDDIE krikorian|Develop several machine learning models that can detect potential data quality issues before a downstream impact.|4
+487|data management|Jeffrey Brockenbrough,joseph Walker,Marie Papanikolas|Sheila Hagler|Data Services collection and reorting|4
+488|Application management tool|Lawrence Westen,MARK Saxonis,John Verbit|Peter CESARONI|Spark Managed Service in AWS|4
+489|Development tool|joseph Walker,Marie Papanikolas,Christopher Gavin|Michael Scott|DataGenerator|4
+490|data management|MARK Saxonis,John Verbit,Steven Pazzaglia|REBECCA McGuire|Data Management System|4
+491|data management|Marie Papanikolas,Christopher Gavin,Frank Antonizio|Keven Robinson|InfoSphere Data Stage|4
+492|data management|John Verbit,Steven Pazzaglia,Lance Roberts|Brian Tenenblatt|Data Collection Framework|4
+493|Data security management|Christopher Gavin,Frank Antonizio,Monica Dills|Kerryn Risley|DevSecOps application portfolio|4
+494|Data Analytics|Steven Pazzaglia,Lance Roberts,James Christopher|Gary Ahrens|Data Investigation Visualization Exploration Research |4
+495|Data security management|Frank Antonizio,Monica Dills,Kevin DelPrete|Nicole Bola|Domain Name System (Infoblox)|4
+496|Data security management|Lance Roberts,James Christopher,Brent EXUM|Bill Wiley|Accellion - Enterprise-class secure mobile file sharing solutions|4
+497|Data security management|Monica Dills,Kevin DelPrete,Erin Hentges|Jaidi Mantia|DOCUSIGN APP|4
+498|Data Analytics|James Christopher,Brent EXUM,Gale SUNG|Monica Dills|customer complaint anlaytics|4
+499|Development tool|Kevin DelPrete,Erin Hentges,Erik Archibald|James Christopher|Enterprise Search (ESP). Search as a service.|4
+500|Project151|Brent EXUM,Gale SUNG,Scott Hernandez|Kevin DelPrete|Data Staging Hub|4
+501|Development tool|Erin Hentges,Erik Archibald,Donald Coughlin|Brent EXUM|Visualization Utility|4
+502|Development tool|Gale SUNG,Scott Hernandez,Christina Bailey|Erin Hentges|UI centralized library|4
+503|Cloud Migration|Erik Archibald,Donald Coughlin,Philip Hirt|Gale SUNG|this team migrated exam workspace onto the AWS cloud|4
+504|COMPANY Mobile App|Scott Hernandez,Christina Bailey,Gregory CIAMBRIELLO|Erik Archibald|created a COMPANY mobile application app for external and internal users, both on Apple iOS and Android|4
+505|COMPANY Enterprise App|Donald Coughlin,Philip Hirt,Linda Noack|Scott Hernandez|created an internal COMPANY Enterprise App using JAVA and C++, and Python|4
+506|Python|Christina Bailey,Gregory CIAMBRIELLO,John FUMERO|Donald Coughlin|created a data scraper application for exam teams using Python|4
+507|Java|Philip Hirt,Linda Noack,Richard Mitchell|Christina Bailey|used new framework in Java to develop email review system|4
+508|Analytics|Gregory CIAMBRIELLO,John FUMERO,Elaine Lockowitz|Philip Hirt| created an analytics workbook for exam teams using databases|4
+509|Financial Project|Linda Noack,Richard Mitchell,Heather Manganelli|Gregory CIAMBRIELLO|mined people solutions data for compensation needs study|4
+510|Artificial Intelligence Working Group|John FUMERO,Elaine Lockowitz,Robert Bohlen|Linda Noack|created artificial intelligence working group to deal with new Fintech issues |4
+511|Machine Learning|Richard Mitchell,Heather Manganelli,Dominic GILKER|John FUMERO|team used machine learning to develop a tool for dispute resolution's mediation program|4
+512|Machine Learning|Elaine Lockowitz,Robert Bohlen,Timothy DelVecchio|Richard Mitchell|used linear regression and clustering for developing examination desktop platform|4
+513|Open Source Data Mining Project|Heather Manganelli,Dominic GILKER,Roma Vanderbilt|Elaine Lockowitz|use open source intelligence collection to develop arbitration database|4
+514|Software Project 1|Robert Bohlen,Timothy DelVecchio,William CLARK|Heather Manganelli|develop online tool for employees and data mananagement, data base SQL, database, Postgres|4
+515|Market Regulation Software Project|Dominic GILKER,Roma Vanderbilt,Blaine Manemanus|Robert Bohlen|built market regulation software using Java, C++, Python to scan and surveil market makers and floor brokers|4
+516|Call Detail Records|Timothy DelVecchio,William CLARK,ADAM Langlois|Dominic GILKER|Call Detail Records,an appliance that collects serial data from the phone switch  that logs all DID info on calls made and received. This buffer will push the data to kwalxutilp035 server.|4
+517|Short Tenders|Roma Vanderbilt,Blaine Manemanus,Russell Theoharis|Timothy DelVecchio|Trade Data Dissemination & reporter portal,|4
+518|Artificial Intelligence Project 3833|William CLARK,ADAM Langlois,Paul McAfee|Roma Vanderbilt|conduct proof of concept on ai artificial intelligence project for creating an employee data tool|4
+519|Machine Learning|Blaine Manemanus,Russell Theoharis,Laura Hutzelman|William CLARK| use tensorflow tensor flow for machine learning project for exam workspace|4
+520|Software Development Project 383|ADAM Langlois,Paul McAfee,Terry Tobin|Blaine Manemanus|software development project concerning webscraping technologies for blotter analytics project|4
+521|Insider Trading Software Project|Russell Theoharis,Laura Hutzelman,Gordon Remmert|ADAM Langlois|development of insider trading surveillance toolkit uses C++, JAVA, SQL|4
+522|COMPANY Technology|Paul McAfee,Terry Tobin,Christopher Burrington|Russell Theoharis|COMPANY technology architecture restructuring|4
+523|Automated Fraud Modeling|Laura Hutzelman,Gordon Remmert,Mark Carroccio|Paul McAfee|data mining, database, python, postgre, statistics, regression|4
+524| Statistics Working Group|Terry Tobin,Christopher Burrington,Mark Dikdan|Laura Hutzelman|data analytics team, stats, statistics, R, matlab|4
+525|UX|Gordon Remmert,Mark Carroccio,James Fernandes|Terry Tobin|Upgrade firm facing Uis|4
+526|UX|Christopher Burrington,Mark Dikdan,Tracy Fitzgerald|Gordon Remmert|New UI integration to existing apps|4
+527|UX|Mark Carroccio,James Fernandes,monte Toureau|Christopher Burrington|Application Host for UI projects|4
+528|Data security management|Mark Dikdan,Tracy Fitzgerald,Penny Herskovics|Mark Carroccio|User account for COMPANY Gateways. This will collect, store and provide access to customer settings, preferences, etc.|4
+529|UX|James Fernandes,monte Toureau,Troy Curtis|Mark Dikdan|Work Management for Gateways|4
+530|Security Management|Tracy Fitzgerald,Penny Herskovics,REBECCA Wilkers|James Fernandes|support for 911 calls|4
+531|Data Analytics|monte Toureau,Troy Curtis,Dana Yi|Tracy Fitzgerald|maintain analytics tools and serverseAnalytics|4
+532|Trade Processing|Penny Herskovics,REBECCA Wilkers,David Scipione|monte Toureau|CPU-automation - processes all incoming productions from member firms. |4
+533|Search|Troy Curtis,Dana Yi,Scott Smith|Penny Herskovics|Investigate cloud based search apps|4
+534|Exam Planning|REBECCA Wilkers,David Scipione,Meighan Pereira|Troy Curtis|maintain and update Exam Planning application|4
+535|Data security management|Dana Yi,Scott Smith,COLIN FRASER|REBECCA Wilkers|maintain Enterprise Web Security|4
+536|Exam |David Scipione,Meighan Pereira,Carole Wheeler|Dana Yi|maintain and enhance Exam Workspace|4
+537|Disciplinary Actions|Scott Smith,COLIN FRASER,james Huning|David Scipione|maintain Disciplinary Actions System|4
+538|Document management|Meighan Pereira,Carole Wheeler,Dennis Lile|Scott Smith|AWS File Management System|4
+539|Data security management|COLIN FRASER,james Huning,Joseph Maher|Meighan Pereira|fileX is a centralized File Transfer Platform that provides a single end point for sending, tracking and receiving files in a fully secure environment. fileX supports multiple file transfer mechanisms such as SFTP, HTTPS and AWS S3 Direct file |4
+540|Filings|Carole Wheeler,Dennis Lile,David Sanchez|COLIN FRASER|process Financial Filings from Firmsfor reporting and risk management|4
+541|Application management tool|james Huning,Joseph Maher,Michael Roth|Carole Wheeler|support and maintain Metastore Services|4
+542|Support|Dennis Lile,David Sanchez,Paul Kallio|james Huning|Utility Server and DB for the Service Management team.  Also contains legacy reports from the retired system.|4
+543|Security Management|Joseph Maher,Michael Roth,Dennis PAUL|Dennis Lile|Supports Active Directory services for security purpose (security policy enforcement, user authentication, access to resources, etc.). |4
+544|Testing-Quality Mangement|David Sanchez,Paul Kallio,Derek Ruffolo|Joseph Maher|Test resilience of cloud Auto Scaling Groups |4
+545|Fixed Income Products|Michael Roth,Dennis PAUL,Gregg Gadit|David Sanchez|maintain Multi-Product Platform for Fixed Income|4
+546|NMS Equity Products|Paul Kallio,Derek Ruffolo,Keith Moreno|Michael Roth|maintain Multi-Product Platform for NMS Equity|4
+547|OTC Equity Products|Dennis PAUL,Gregg Gadit,Shelly Covino|Paul Kallio|maintain Multi-Product Platform for OTC Equity|4
+548|Product Repository|Derek Ruffolo,Keith Moreno,Mohamed Miller|Dennis PAUL|maintain Multi-product Platform Repository Data Warehouse|4
+549|Patterns|Gregg Gadit,Shelly Covino,Matthew Turville|Derek Ruffolo|maintain Market Regulation Surveillance Patterns|4
+550|Data security management|Keith Moreno,Mohamed Miller,Paul Lozada|Gregg Gadit| Team Foundation Server management|4
+551|Data cleansing|Shelly Covino,Matthew Turville,TODD ushyarov|Keith Moreno|AWS automation to process RDS Snapshots, obfuscate them, and bring them down to lower environments.|4
+552|Tech policy|Mohamed Miller,Paul Lozada,Michael Seibt|Shelly Covino|Backup and recovery procedures|4
+553|Application management tool|Matthew Turville,TODD ushyarov,Mary Levin|Mohamed Miller|Net usage tracking|4
+554|Security Management|Paul Lozada,Michael Seibt,Jay Johnson|Matthew Turville|Fingerprinting and investigations|4
+555|Development tool|TODD ushyarov,Mary Levin,Daniel Hunter|Paul Lozada|Next Generation Apps development tools|4
+556|Infrastructure management|Michael Seibt,Jay Johnson,William Jowdy|TODD ushyarov|Infrastructure Management  procedures and policies|4
+557|License application|Mary Levin,Daniel Hunter,Bart O'Neill|Michael Seibt|Mortgage Licensing System|4
+558|Security Management|Jay Johnson,William Jowdy,Kesia Winters|Mary Levin|Both MPP and OTCBB directly access for customer authentication and authorication purposes. |4
+559|Planning|Daniel Hunter,Bart O'Neill,Richard Baer|Jay Johnson|Technology roadmap planning and milestones|4
+560|Support|William Jowdy,Kesia Winters,Christopher Stoll|Daniel Hunter|Service portal used by IT staff for working tickets and by all of COMPANY for requesting IT services and equipment. |4
+561|Survey|Bart O'Neill,Richard Baer,Robert Bacon|William Jowdy|build and maintain bulk email and survey service.|4
+562|Market Events|Kesia Winters,Christopher Stoll,Tony Pappas|Bart O'Neill| single platform for viewing contextual data related to a market event from external and internal sources, including news analytics, alerts and market data.|4
+563|alert and case management|Richard Baer,Robert Bacon,ROBERT Azanow|Kesia Winters| application suite comprises of all Alert and Case management tools within Market Regulation department.|4
+564|Application management tool|Christopher Stoll,Tony Pappas,Nathaniel Frejlach|Richard Baer|Microsoft BitLocker Administration and Monitoring|4
+565|Security Management|Robert Bacon,ROBERT Azanow,Robert Hershman|Christopher Stoll|employ AntiVirus Software- Server and Scans- EPO console|4
+566|Case repository|Tony Pappas,Nathaniel Frejlach,Michael Ehlinger|Robert Bacon|Maintain and expand case repository system |4
+567|Firm Information|ROBERT Azanow,Robert Hershman,Michael Grimes|Tony Pappas|process and maintain consumer-facing firm report cards|4
+568|Data Analytics|Nathaniel Frejlach,Michael Ehlinger,Josh Arlia|ROBERT Azanow|Member Data Repository|4
+569|Application management tool|Robert Hershman,Michael Grimes,Joseph Bukowsky|Nathaniel Frejlach|Metadata Assistant|4
+570|Enforcement apps|Michael Ehlinger,Josh Arlia,JOSEPH Archer|Robert Hershman|maintain Enforcement Data Model, DB, and related products|4
+571|Enforcement apps|Michael Grimes,Joseph Bukowsky,CARLOS Chapman|Michael Ehlinger|support Enforcement Work Product app|4
+572|Cloud migration|Josh Arlia,JOSEPH Archer,Margaret Cherry|Michael Grimes|transition Enterprise apps to the cloud|4
+573|Alerts|Joseph Bukowsky,CARLOS Chapman,Christopher Wujnovich|Josh Arlia|support Business Alerting Platform|4
+574|Messaging Platform|JOSEPH Archer,Margaret Cherry,FREDDIE krikorian|Joseph Bukowsky|support Enterprise Solutions Messaging Platform|4
+575|Enterprise apps|CARLOS Chapman,Christopher Wujnovich,Sheila Hagler|JOSEPH Archer|maintain content in Enterprise Reference Database|4
+576|Security Management|Margaret Cherry,FREDDIE krikorian,Peter CESARONI|CARLOS Chapman|External Single Sign-on|4
+577|Event management|Christopher Wujnovich,Sheila Hagler,Michael Scott|Margaret Cherry|Nasdaq Event Server is used for OTCBB scheduled event management. |4
+578|Security Management|FREDDIE krikorian,Peter CESARONI,REBECCA McGuire|Christopher Wujnovich|support VPN Remote access|4
+579|Scanning|Sheila Hagler,Michael Scott,Keven Robinson|FREDDIE krikorian|support enterprise scanning app|4
+580|Finance Applications|Peter CESARONI,REBECCA McGuire,Brian Tenenblatt|Sheila Hagler|maintain and develop custom  Finance Applications|4
+581|Admin Requests|Michael Scott,Keven Robinson,Kerryn Risley|Peter CESARONI|maintain Administrative Worklist Service|4
+582|Registration|REBECCA McGuire,Brian Tenenblatt,Gary Ahrens|Michael Scott|Migrate registration apps to cloud|4
+583|Fax|Keven Robinson,Kerryn Risley,Nicole Bola|REBECCA McGuire|support fax messaging system|4
+584|Requests|Brian Tenenblatt,Gary Ahrens,Bill Wiley|Keven Robinson|maintain app for customer inquiry and service requests.|4
+585|Security Management|Kerryn Risley,Nicole Bola,Jaidi Mantia|Brian Tenenblatt|develop and distribute monthly op systems patches|4
+586|Product  management|Gary Ahrens,Bill Wiley,|Kerryn Risley|attend product management conferences|4
+587|Software licenses|Nicole Bola,Jaidi Mantia,|Gary Ahrens|manage software licenses and distribution|4
+588|Financial capability|Vilen Gordon,Douglas Martinez,WILMARC Vienot,Justin Kapadia|Nicole Bola|Safe investment education seminar|5
+589|Financial capability|David Chamorro,Tim Saiz,John Chevez,Robert Basalik|Bill Wiley|SaveAndInvest.org|5
+590|Financial capability|Douglas Martinez,WILMARC Vienot,Justin Kapadia,Douglas Giarratano|Jaidi Mantia|usfinancialcapability.org|5
+591|Finance 1|Tim Saiz,John Chevez,Robert Basalik,Randi Linn|Judith Angulo|conduct financial portfolio review, CFA, certified financial analysis  |5
+592|Ponzi Scheme Roundtable|WILMARC Vienot,Justin Kapadia,Douglas Giarratano,Thomas Bennett|Jessica Burns|conducted roundtable on ponzi schemes and fraud detection|5
+593|Investor EduBIGHATion|John Chevez,Robert Basalik,Randi Linn,William Powell|TIMOTHY Murphy|conducted investor education outreach involving vulnerable adults and senior investors|5
+594|Accounting GAAP Review|Justin Kapadia,Douglas Giarratano,Thomas Bennett,JOSEPH Farrington|Steven Canedy|review of firm use of GAAP in their regulatory reporting, accounting generally accepted accounting principles|5

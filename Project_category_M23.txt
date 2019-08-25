@@ -1,0 +1,7 @@
+id|ProjectCategory
+1|Business
+2|Legal
+3|Exam
+4|Technology
+5|Finacial
+
