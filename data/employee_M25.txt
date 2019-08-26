@@ -1,4 +1,4 @@
-ID|profilePictrueName|FirstName|LastName|Degree|YeasInCompany|Skills|PastProjectsId|Hobbies|ManagerId|Hub
+ID|profilePictrueName|FirstName|LastName|Degree|YeasInCompany|Skills|PastProjectsID|Hobbies|ManagerId|Hub
 12126|BrantCrichlow|Brant|Crichlow|MS|2|Marketing, sales and customer service|1;89;154|Travel|12126|Business
 12069|JohnChevez|John|Chevez|MS|3|Time management, Client server|2;88;153|Swimming|12069|Business
 12070|JustinKapadia|Justin|Kapadia|MS|3|Configuration Mgt|3;91;152|Travel|12070|Business
