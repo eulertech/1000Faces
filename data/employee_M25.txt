@@ -1,0 +1,199 @@
+ID|profilePictrueName|FirstName|LastName|Degree|YeasInCompany|Skills|PastProjectsId|Hobbies|ManagerId|Hub
+12126|BrantCrichlow|Brant|Crichlow|MS|2|Marketing, sales and customer service|1;89;154|Travel|12126|Business
+12069|JohnChevez|John|Chevez|MS|3|Time management, Client server|2;88;153|Swimming|12069|Business
+12070|JustinKapadia|Justin|Kapadia|MS|3|Configuration Mgt|3;91;152|Travel|12070|Business
+12072|DouglasGiarratano|Douglas|Giarratano|MS|3|Release Management|4;90;151|Basketball|12072|Business
+12103|GeraldOtto|Gerald|Otto|MS|7|Enterprise Alerts|5;93;150|Reading|12103|Business
+12105|ClaytonSHIPPY|Clayton|SHIPPY|MS|7|FMS|6;92;149|Travel|12105|Business
+12107|MarieKach|Marie|Kach|MS|7|FINRADocs|7;95;148|Basketball|12107|Business
+12111|GeraldBenjamin|Gerald|Benjamin|MS|7|Doppler|8;94;147|Swimming|12111|Business
+12113|KarenThompson|Karen|Thompson|MS|7|Data Architecture|9;97;146|Hiking|12113|Business
+12117|RichardTortorici|Richard|Tortorici|MS|1|WebADV|10;96;145|Reading|12117|Business
+12118|PaulCallas|Paul|Callas|MS|1|FSS|11;99;144|Swimming|12118|Business
+12119|VeronicaChristensen|Veronica|Christensen|MS|1|FIP|12;98;143|Travel|12119|Business
+12120|MarkTomme|Mark|Tomme|MS|1|ESMP|13;101;142|Hiking|12120|Business
+12127|LindaBrillhart|Linda|Brillhart|MS|2|Scrum|14;100;140|Hiking|12127|Business
+12129|J.Janssen|J.|Janssen|MS|2|Design Patterns|15;103;138|Volleyball|12129|Business
+12135|GeraldRodelli|Gerald|Rodelli|MS|2|AWS|16;102;137|Basketball|12135|Business
+12141|RandyHarding|Randy|Harding|MS|16|Scrum|17;105;136|Hiking|12141|Business
+12142|HowardBdaiwi|Howard|Bdaiwi|MS|16|Agile Methologies|18;104;135|Basketball|12142|Business
+12143|JasonLuzi|Jason|Luzi|MS|16|Automation|19;107;134|Volleyball|12143|Business
+12146|LindaReque|Linda|Reque|MS|16|Corporate Systems|20;106;133|Swimming|12146|Business
+12149|BrianWilkinson|Brian|Wilkinson|MS|9|data|21;109;152|Basketball|12149|Business
+12152|JeffreyBrockenbrough|Jeffrey|Brockenbrough|MS|9|data management|22;108;131|Reading|12152|Business
+12153|LawrenceWesten|Lawrence|Westen|MS|9|SEC data feeds|23;111;130|Swimming|12153|Business
+12156|MariePapanikolas|Marie|Papanikolas|MS|9|scrumban|24;110;129|Basketball|12156|Business
+12157|JohnVerbit|John|Verbit|MS|9|BrokerCheck|25;113;128|Volleyball|12157|Business
+12159|StevenPazzaglia|Steven|Pazzaglia|MS|9|Corporate Communications|26;112;126|Reading|12159|Business
+12165|BrentEXUM|Brent|EXUM|MS|4|MRDT|27;115;125|Bike|12165|Business
+12167|GaleSUNG|Gale|SUNG|MS|4|ACATS|28;114;124|Swimming|12167|Business
+12171|ChristinaBailey|Christina|Bailey|MS|4|Agile|29;117;123|Volleyball|12171|Business
+12172|PhilipHirt|Philip|Hirt|MS|4|Configuration Mgt|30;116;122|Bike|12172|Business
+12174|LindaNoack|Linda|Noack|MS|4|Release Management|31;119;121|Swimming|12174|Business
+12175|JohnFUMERO|John|FUMERO|MS|4|Application Monitoring|32;118;120|Travel|12175|Business
+12183|WilliamCLARK|William|CLARK|MS|7|Engineering|33;121;62|Hiking|12183|Business
+12186|RussellTheoharis|Russell|Theoharis|MS|7|Big Data & Analytics|34;122;63|Bike|12186|Business
+12191|ChristopherBurrington|Christopher|Burrington|MS|7|Open Source|35;123;64|Basketball|12191|Business
+12199|REBECCAWilkers|REBECCA|Wilkers|MS|12|SharePoint|36;124;65|Volleyball|12199|Business
+12201|DavidScipione|David|Scipione|MS|12|TeamSites|37;125;66|Reading|12201|Business
+12202|ScottSmith|Scott|Smith|MS|12|MyProfile|38;126;67|Swimming|12202|Business
+12203|MeighanPereira|Meighan|Pereira|MS|12|SharePoint|39;127;68|Travel|12203|Business
+12204|COLINFRASER|COLIN|FRASER|MS|12|Enterprise Search|40;128;69|Hiking|12204|Business
+12205|CaroleWheeler|Carole|Wheeler|MS|12|Enterprise Alerts|41;129;70|Basketball|12205|Business
+12206|jamesHuning|james|Huning|MS|12|Enterprise Scanning|42;130;71|Volleyball|12206|Business
+12207|DennisLile|Dennis|Lile|MS|12|FMS|43;131;72|Bike|12207|Business
+12208|JosephMaher|Joseph|Maher|MS|12|Documentum|44;132;73|Reading|12208|Business
+12209|DavidSanchez|David|Sanchez|MS|12|FINRADocs|45;133;74|Swimming|12209|Business
+12213|DerekRuffolo|Derek|Ruffolo|MS|13|Doppler|46;134;75|Volleyball|12213|Business
+12219|PaulLozada|Paul|Lozada|MS|13|WebADV|47;135;76|Basketball|12219|Business
+12220|TODDushyarov|TODD|ushyarov|MS|13|FSS|48;136;77|Volleyball|12220|Business
+12221|MichaelSeibt|Michael|Seibt|MS|13|FIP|49;137;78|Bike|12221|Business
+12222|MaryLevin|Mary|Levin|MS|13|ESMP|50;138;79|Reading|12222|Business
+12228|RichardBaer|Richard|Baer|MS|2|Business Analysis|51;139;80|Bike|12228|Business
+12229|ChristopherStoll|Christopher|Stoll|MS|2|customer service|52;140;81|Reading|12229|Business
+12231|TonyPappas|Tony|Pappas|MS|2|Design Patterns|53;141;82|Travel|12231|Business
+12237|JoshArlia|Josh|Arlia|MS|6|AWS|54;142;83|Swimming|12237|Business
+12242|ChristopherWujnovich|Christopher|Wujnovich|MS|6|Web Applications,BrotkerCheck,Dark Pools|55;143;84|Bike|12242|Business
+12243|FREDDIEkrikorian|FREDDIE|krikorian|MS|6|Scrum|56;144;85|Reading|12243|Business
+12244|SheilaHagler|Sheila|Hagler|MS|6|Agile Methologies|57;145;86|Swimming|12244|Business
+12248|KevenRobinson|Keven|Robinson|MS|11|Corporate Systems|58;146;87|Volleyball|12248|Business
+12251|GaryAhrens|Gary|Ahrens|MS|11|data, MRDT, ACATS|59;147;88|Swimming|12251|Business
+12073|RandiLinn|Randi|Linn|MS|3|Exam, proctor|183;203;227;248;269|Volleyball|12073|Exam
+12074|ThomasBennett|Thomas|Bennett|MS|3|Survelance|184;204;228;249;270|Bike|12074|Exam
+12090|RonaldHarsche|Ronald|Harsche|MS|7|EXPLORATORY PLATFORM FOR RISK ASSESSMENT BASED EXAM PLANNING|185;205;229;250;271|Swimming|12090|Exam
+12091|LindaZimmerman|Linda|Zimmerman|MS|7|Trade authorization review|186;206;230;251;272|Travel|12091|Exam
+12092|SamuelWeiss|Samuel|Weiss|MS|7|review processed epst files|187;207;231;252;273|Hiking|12092|Exam
+12093|JohnPetit|John|Petit|MS|7|Bank of America exam|188;208;232;253;274|Basketball|12093|Exam
+12094|AdamPhillips|Adam|Phillips|MS|7|Data sampling techniques|189;209;233;254;275|Volleyball|12094|Exam
+12095|KarenSIMMONS|Karen|SIMMONS|MS|7|Project scheduling tool|190;210;234;255;276|Bike|12095|Exam
+12096|EricEdwards|Eric|Edwards|MS|7|Chronology Tracking System for customer account suitability determination|191;211;235;256;277|Reading|12096|Exam
+12097|TeresaRodman|Teresa|Rodman|MS|7|Risk-review mapping project|192;212;236;257;278|Swimming|12097|Exam
+12098|EdwardRadford|Edward|Radford|MS|7|A One-Stop resource for Regulatory Data. Profiles combines information from more than 20 COMPANY systems-into a single, easy-to-use resource that covers all active and inactive broker-dealers|193;213;237;258;279|Travel|12098|Exam
+12099|JOSEPHRoss|JOSEPH|Ross|MS|7|Exam planning processes and policy|194;214;238;259;280|Hiking|12099|Exam
+12100|WilliamCottle|William|Cottle|MS|7|post interpretative guidance for open issues|195;215;239;260;281|Basketball|12100|Exam
+12101|IsraelDiLeo|Israel|DiLeo|MS|7|An automation tool|196;216;240;261;282;289;184|Volleyball|12101|Exam
+12102|IanCummings|Ian|Cummings|MS|7|Risk Authoring and Versioning Engine|197;217;241;262;283;290;267;288|Bike|12102|Exam
+12163|JamesChristopher|James|Christopher|MS|4|Dark Pools|198;218;242;263;284;291|Basketball|12163|Exam
+12179|RobertBohlen|Robert|Bohlen|MS|7|Big Data & Analytics|199;219;243;264;285;292;246|Bike|12179|Exam
+12180|DominicGILKER|Dominic|GILKER|MS|7|Trading Floor & End User Computing|200;220;244;265;286;293;222|Reading|12180|Exam
+12181|TimothyDelVecchio|Timothy|DelVecchio|MS|7|Big Data & Analytics|201;221;245;266;287;294;202|Swimming|12181|Exam
+12056|JudithAngulo|Judith|Angulo|MS|5|Developing financial processes and procedures,Business finance and loans|589;590;591|Travel|12056|Fiancial
+12057|JessicaBurns|Jessica|Burns|MS|5|Budgets and forecasts|590;591;592|Hiking|12057|Fiancial
+12058|TIMOTHYMurphy|TIMOTHY|Murphy|MS|5|Developing financial processes and procedures|591;592;593|Basketball|12058|Fiancial
+12059|StevenCanedy|Steven|Canedy|MS|5|Profit & loss and balance sheets|592;593;594|Volleyball|12059|Fiancial
+12147|SeanCatmull|Sean|Catmull|MS|16|Financial Shared Services|593;594;|Travel|12147|Finacial
+12164|KevinDelPrete|Kevin|DelPrete|MS|4|Over-the-counter Equities|591;592;593|Volleyball|12164|Finacial
+12168|ErikArchibald|Erik|Archibald|MS|4|Subloans|594;595;589|Travel|12168|Finacial
+12198|TroyCurtis|Troy|Curtis|MS|12|Providing credit to customers|590;591;592|Basketball|12198|Finacial
+12249|BrianTenenblatt|Brian|Tenenblatt|MS|11|Financial Shared Services,Annaual Audit, ACATS|589;592;594|Bike|12249|Finacial
+12252|NicoleBola|Nicole|Bola|MS|11|conduct financial portfolio review, CFA, certified financial analysis  |593;595;589|Travel|12252|Finacial
+12253|BillWiley|Bill|Wiley|MS|11|conducted roundtable on ponzi schemes and fraud detection|590;595;591|Hiking|12253|Finacial
+12254|JaidiMantia|Jaidi|Mantia|MS|11|conducted investor education outreach involving vulnerable adults and senior investors|594;592;590;595|Basketball|12254|Finacial
+12060|GeraldSIDOTI|Gerald|SIDOTI|MS|5|Good Oral Communication, Time Management.|157;158|Bike|12060|Legal
+12061|MIKECohen|MIKE|Cohen|MS|5|Written Communication,Client Service|158;159|Reading|12061|Legal
+12062|BrooksSantangelo|Brooks|Santangelo|MS|5|Client Service|159;160|Swimming|12062|Legal
+12063|RobertDelise|Robert|Delise|MS|5|Analytical and Logical Reasoning|160;161|Travel|12063|Legal
+12064|VilenGordon|Vilen|Gordon|MS|5|Legal Research|161;162|Hiking|12064|Legal
+12065|DavidChamorro|David|Chamorro|MS|5|Knowledge of Substantive Law and Legal Procedure.|162;163|Basketball|12065|Legal
+12075|WilliamPowell|William|Powell|MS|3|Arbitration Awards Online|163;164|Reading|12075|Legal
+12076|JOSEPHFarrington|JOSEPH|Farrington|MS|3|Hosting Office of Dispute Resolution Requirements.|164;165|Swimming|12076|Legal
+12077|WilliamBeardsley|William|Beardsley|MS|3|Bank Secrecy Act Query|165;166|Travel|12077|Legal
+12078|DianeLeisure|Diane|Leisure|MS|3|Legal contract matter management system|166;167|Hiking|12078|Legal
+12079|Phyllisbailey|Phyllis|bailey|MS|3|Legal Research Tool and policies|167;168|Basketball|12079|Legal
+12080|ANTHONYCordier|ANTHONY|Cordier|MS|3|Office of Foreign Asset Control's Specially Designated Nationals and Blocked Persons List|168;169|Volleyball|12080|Legal
+12081|FRANCESClark|FRANCES|Clark|MS|3|The Reg M Workspace stores Reg M notifications submitted by member firms. The information received about distributions of securities.|169;170|Bike|12081|Legal
+12082|GeorgeHays|George|Hays|MS|3|Regulatory Filings Application|170;171|Reading|12082|Legal
+12083|NoelleEaton|Noelle|Eaton|MS|7|SEC 19-D1 formal action reporting |171;172|Swimming|12083|Legal
+12084|JEFFREYchan|JEFFREY|chan|MS|7| Business & Legal support Systems |172;173|Travel|12084|Legal
+12085|DouglasVoyles|Douglas|Voyles|MS|7|Securities Observation News Analysis and Regulation|173;174|Hiking|12085|Legal
+12086|LeslieMALONE|Leslie|MALONE|MS|7|COMPANY Enforcement action against LPL for violation of SEC reporting guidelines. Securities and Exchange Commission. High Yield debt issues.|174;175;179|Basketball|12086|Legal
+12087|GregoryMadurski|Gregory|Madurski|MS|7|Enforcement conducted an Enforcement Roundtable on variable annuities and senior investors and vulnerable adults.|175;176;180|Volleyball|12087|Legal
+12088|KatherinePrussman|Katherine|Prussman|MS|7|list of enforcement attorneys that worked on cyber issues|176;177;181|Bike|12088|Legal
+12089|DeniseVander Ark|Denise|Vander Ark|MS|7|enforcement investigation that worked on data breach and cyber issues|177;178;182|Reading|12089|Legal
+12166|ErinHentges|Erin|Hentges|MS|4|Annual Audit|174;177;181|Reading|12166|Legal
+12184|BlaineManemanus|Blaine|Manemanus|MS|7|Machine learning|301;387;472;557|Basketball|12184|Technology
+12211|PaulKallio|Paul|Kallio|MS|12|iManage|302;388;473;558|Hiking|12211|Technology
+12066|DouglasMartinez|Douglas|Martinez|MS|5|Application Development|303;389;474;559|Volleyball|12066|Technology
+12067|TimSaiz|Tim|Saiz|MS|3|AWS Big Data|304;390;475;560|Bike|12067|Technology
+12068|WILMARCVienot|WILMARC|Vienot|MS|3|Development Services|305;391;476;561|Reading|12068|Technology
+12071|RobertBasalik|Robert|Basalik|MS|3|Software Testing|306;392;477;562|Hiking|12071|Technology
+12104|RuthMohan|Ruth|Mohan|MS|7|Enterprise Scanning|307;393;478;563|Swimming|12104|Technology
+12106|GrantSomogyi|Grant|Somogyi|MS|7|Documentum|308;394;479;564|Hiking|12106|Technology
+12108|SanjivLawson|Sanjiv|Lawson|MS|7|FINRAnet|309;395;480;565|Volleyball|12108|Technology
+12109|MatthewEddy|Matthew|Eddy|MS|7|iManage|310;396;481;566|Bike|12109|Technology
+12110|HubertMundigo|Hubert|Mundigo|MS|7|Solr|311;397;482;567|Reading|12110|Technology
+12112|PatrickCarbone|Patrick|Carbone|MS|7|AWS|312;398;483;568|Travel|12112|Technology
+12114|DanielPage|Daniel|Page|MS|1|Database modeling, AWS, RDS|313;399;484;569|Basketball|12114|Technology
+12115|RobertRoss-Rafii|Robert|Ross-Rafii|MS|1|Database design, PL/SQL, SQL|314;400;485;570|Volleyball|12115|Technology
+12116|DeborahBaise|Deborah|Baise|MS|1|Database Development|315;401;486;571|Bike|12116|Technology
+12121|MichaelBRANNON|Michael|BRANNON|MS|1|AWS Architecture|316;402;487;572|Basketball|12121|Technology
+12122|GaryPiechowski|Gary|Piechowski|MS|2|AI/ML|317;403;488;573|Volleyball|12122|Technology
+12123|Johnjordan|John|jordan|MS|2|JAVA|318;404;489;574|Bike|12123|Technology
+12124|HERBGrimm|HERB|Grimm|MS|2|HBase|319;405;490;575|Reading|12124|Technology
+12125|GEORGETurner|GEORGE|Turner|MS|2|SOA|320;406;491;576|Swimming|12125|Technology
+12128|GeorgeDay|George|Day|MS|2|Architecture|321;407;492;577|Basketball|12128|Technology
+12130|JamesSteinhaus|James|Steinhaus|MS|2|Hadoop|322;408;493;578|Bike|12130|Technology
+12131|RaymondAlvar|Raymond|Alvar|MS|2|Spark|323;409;494;579|Reading|12131|Technology
+12132|JosephDaurio|Joseph|Daurio|MS|2|Hive|324;410;495;580|Swimming|12132|Technology
+12133|ChristopherSmith|Christopher|Smith|MS|2|Presto|325;411;496;581|Travel|12133|Technology
+12134|ThomasCoker|Thomas|Coker|MS|2|Large Scale Web Sites|326;412;497;582|Hiking|12134|Technology
+12136|JosephLove|Joseph|Love|MS|2|drupal|327;413;498;583|Volleyball|12136|Technology
+12137|DebraBrinkman|Debra|Brinkman|MS|2|Web Application Security|328;414;499;584|Bike|12137|Technology
+12138|roroorDELFIN|roroor|DELFIN|MS|2|OpenShift and Kubernetes|329;415;500;585|Reading|12138|Technology
+12139|D.FlintMaslin|D.Flint|Maslin|MS|16|Apache Camel and ActiveMQ|330;416;501;586|Swimming|12139|Technology
+12140|MichelleFairbanks|Michelle|Fairbanks|MS|16|Web Applications|331;417;502;587|Travel|12140|Technology
+12144|ConstanceDaily|Constance|Daily|MS|16|AngularJS|332;418;503;588|Bike|12144|Technology
+12145|JeffreyDixon|Jeffrey|Dixon|MS|16|AWS|333;419;504|Reading|12145|Technology
+12148|FranklinWISEMAN|Franklin|WISEMAN|MS|16|Oracle|334;420;505|Hiking|12148|Technology
+12150|MatthewChinian|Matthew|Chinian|MS|9|Data Warehousing|335;421;506|Volleyball|12150|Technology
+12151|Samostendorf|Sam|ostendorf|MS|9|data vault modeling|336;422;507|Bike|12151|Technology
+12154|josephWalker|joseph|Walker|MS|9|PL/SQL|337;423;508|Travel|12154|Technology
+12155|MARKSaxonis|MARK|Saxonis|MS|9|SQL|338;424;509|Hiking|12155|Technology
+12158|ChristopherGavin|Christopher|Gavin|MS|9|Web Content Management|339;425;510|Bike|12158|Technology
+12160|FrankAntonizio|Frank|Antonizio|MS|9|Technology - Shared Services|340;426;511|Swimming|12160|Technology
+12161|LanceRoberts|Lance|Roberts|MS|4|UI/UX|341;427;512|Travel|12161|Technology
+12162|MonicaDills|Monica|Dills|MS|4|FINRA.org|342;428;513|Hiking|12162|Technology
+12169|ScottHernandez|Scott|Hernandez|MS|4|AWS Big Data|343;429;514|Hiking|12169|Technology
+12170|DonaldCoughlin|Donald|Coughlin|MS|4|Development Services|344;430;515|Basketball|12170|Technology
+12173|GregoryCIAMBRIELLO|Gregory|CIAMBRIELLO|MS|4|Software Testing|345;431;516|Reading|12173|Technology
+12176|RichardMitchell|Richard|Mitchell|MS|4|Application Operations|346;432;517|Hiking|12176|Technology
+12177|ElaineLockowitz|Elaine|Lockowitz|MS|4|Application Development|347;433;518|Basketball|12177|Technology
+12178|HeatherManganelli|Heather|Manganelli|MS|4|Cloud|348;434;519|Volleyball|12178|Technology
+12182|RomaVanderbilt|Roma|Vanderbilt|MS|7|Big Data|349;435;520|Travel|12182|Technology
+12185|ADAMLanglois|ADAM|Langlois|MS|7|Software Quality Assurance|350;436;521|Volleyball|12185|Technology
+12187|PaulMcAfee|Paul|McAfee|MS|7|Spark|351;437;522|Reading|12187|Technology
+12188|LauraHutzelman|Laura|Hutzelman|MS|7|Scala|352;438;523|Swimming|12188|Technology
+12189|TerryTobin|Terry|Tobin|MS|7|JAVA|353;439;524|Travel|12189|Technology
+12190|GordonRemmert|Gordon|Remmert|MS|7|Amazon Web Services|354;440;525|Hiking|12190|Technology
+12192|MarkCarroccio|Mark|Carroccio|MS|7|Application Operations|355;441;526|Volleyball|12192|Technology
+12193|MarkDikdan|Mark|Dikdan|MS|7|Enterprise Batch Scheduling|356;442;527|Bike|12193|Technology
+12194|JamesFernandes|James|Fernandes|MS|7|Data Center Migrations|357;443;528|Reading|12194|Technology
+12195|TracyFitzgerald|Tracy|Fitzgerald|MS|12|AWS Operations|358;444;529|Swimming|12195|Technology
+12196|monteToureau|monte|Toureau|MS|12|disaster recovery|359;445;530|Travel|12196|Technology
+12197|PennyHerskovics|Penny|Herskovics|MS|12|Market Reg Batch processing|360;446;531|Hiking|12197|Technology
+12200|DanaYi|Dana|Yi|MS|12|FINRAnet|361;447;532|Bike|12200|Technology
+12210|MichaelRoth|Michael|Roth|MS|12|FINRAnet|362;448;533|Travel|12210|Technology
+12212|DennisPAUL|Dennis|PAUL|MS|13|Solr|363;449;534|Basketball|12212|Technology
+12214|GreggGadit|Gregg|Gadit|MS|13|AWS|364;450;535|Bike|12214|Technology
+12215|KeithMoreno|Keith|Moreno|MS|13|Data Architecture|365;451;536|Reading|12215|Technology
+12216|ShellyCovino|Shelly|Covino|MS|13|Database modeling|366;452;537|Swimming|12216|Technology
+12217|MohamedMiller|Mohamed|Miller|MS|13|Database design|367;453;538|Travel|12217|Technology
+12218|MatthewTurville|Matthew|Turville|MS|13|Database Development|368;454;539|Hiking|12218|Technology
+12223|JayJohnson|Jay|Johnson|MS|13|AWS Architecture|369;455;540|Swimming|12223|Technology
+12224|DanielHunter|Daniel|Hunter|MS|13|AI/ML|370;456;541|Travel|12224|Technology
+12225|WilliamJowdy|William|Jowdy|MS|13|JAVA|371;457;542|Hiking|12225|Technology
+12226|BartO'Neill|Bart|O'Neill|MS|13|HBase|372;458;543|Basketball|12226|Technology
+12227|KesiaWinters|Kesia|Winters|MS|13|SOA|373;459;544|Volleyball|12227|Technology
+12230|RobertBacon|Robert|Bacon|MS|2|Architecture|374;460;545|Swimming|12230|Technology
+12232|ROBERTAzanow|ROBERT|Azanow|MS|2|Hadoop|375;461;546|Hiking|12232|Technology
+12233|NathanielFrejlach|Nathaniel|Frejlach|MS|2|Spark|376;462;547|Basketball|12233|Technology
+12234|RobertHershman|Robert|Hershman|MS|2|Hive|377;463;548|Volleyball|12234|Technology
+12235|MichaelEhlinger|Michael|Ehlinger|MS|2|Presto|378;464;549|Bike|12235|Technology
+12236|MichaelGrimes|Michael|Grimes|MS|2|Large Scale Web Sites|379;465;550|Reading|12236|Technology
+12238|JosephBukowsky|Joseph|Bukowsky|MS|6|drupal|380;466;551|Travel|12238|Technology
+12239|JOSEPHArcher|JOSEPH|Archer|MS|6|Web Application Security|381;467;552|Hiking|12239|Technology
+12240|CARLOSChapman|CARLOS|Chapman|MS|6|OpenShift and Kubernetes|382;468;553|Basketball|12240|Technology
+12241|MargaretCherry|Margaret|Cherry|MS|6|Apache Camel and ActiveMQ|383;469;554|Volleyball|12241|Technology
+12245|PeterCESARONI|Peter|CESARONI|MS|6|Automation|384;470;555|Travel|12245|Technology
+12246|MichaelScott|Michael|Scott|MS|6|AngularJS|385;471;556|Hiking|12246|Technology
+12247|REBECCAMcGuire|REBECCA|McGuire|MS|11|AWS,UI/UX,FINRA.org|382;470;556|Basketball|12247|Technology

@@ -1,0 +1,595 @@
+pID|ProjectName|ProjectTeam|ProjectOwner|ProjectDescription|ProjectCategoryId
+1|Planning|12126;12069;12070|Alesha Pasternak|Workforce and Financial planning, reporting and analysis.|1
+2|slutions meeting|12069;12070;12072|Sung Mijangos|Tax, Payment and Compliance Solution meeting|1
+3|Travel planning|12070;12072;12103|Phyliss Barrette| Travel Management is a provider of travel management solutions, specializing in corporate, government, and NGO travel|1
+4|Risk monitoring|12072;12103;12105|Suk Bunn|firm review using analytics workspace|1
+5|Registration|12103;12105;12107|Eliz Dewall|reporting of registration statistics|1
+6|Document management|12105;12107;12111|Alesia Palazzo|Record management policy initiative|1
+7|Member support|12107;12111;12113|Yvone Mattioli|call routing, queueing, and reporting of phone calls into COMPANY's call centers. |1
+8|Trade Info|12111;12113;12117|Damon Hiatt|Dark Pools (Alternative Trading Systems) conference|1
+9|Billing|12113;12117;12118|Mirna Rothstein|Calculate and bill Sales Tax on COMPANY invoices, evaluate and estimate Use Tax.|1
+10|Risk monitoring|12117;12118;12119|Marvel Dorton| evaluate and determine market risk in various portfolios with CUSIPs|1
+11|Human Resources|12118;12119;12120|Chrystal Estill|HR Benefit analysis |1
+12|Communication|12119;12120;12127|Carson Endsley|Business JIRA request tracking|1
+13|Communication|12120;12127;12129|Don Engen|Business Wiki discussions|1
+14|Reporting|12127;12129;12135|Meridith Neuner|Bluesheets analysis reporting|1
+15|Trade Info|12129;12135;12141|Clotilde Yawn|Single Bluesheets System (formerly Insider2)|1
+16|Regulation|12135;12141;12142|Estela Mortensen|BD-IA guidelines|1
+17|Trade Info|12141;12142;12143|Valentin Wisdom|Provide bond and trade data from TRACE to the public.|1
+18|RSA|12142;12143;12146|Archie Staudt|Boston Options Exchange|1
+19|Trade Info|12143;12146;12149|Berneice Rall|COMPANY BrokerCheck|1
+20|Support|12146;12149;12152|Pok Christner|Call Detail Records|1
+21|Reporting|12149;12152;12153|Nettie Quiroz|Consolidation Automation Reporting Tool|1
+22|Human Resources|12152;12153;12156|Sabine Picklesimer|Performance review tracking|1
+23|Evaluate Trade data|12153;12156;12157|Clelia Etheridge|main products wiki for market regulation|1
+24|Reporting|12156;12157;12159|Sherita Rickenbacker|update  Data Dissemination & reporter portal|1
+25|Testing|12157;12159;12165|Modesta Sistrunk|JIRA instance for  UAT|1
+26|Data Analytics|12159;12165;12167|Delisa Penrod|utilize analytics and visualization tools for  NMS. It will include Market Replay and Volume Concentration.|1
+27|Data Analytics|12165;12167;12171|Jeanna Henault|CBOE-Analytics|1
+28|Human Resources|12167;12171;12172|Lyndon Simien|Code of Conduct Compliance System|1
+29|Continuing Education|12171;12172;12174|Elvira Barbeau|Continuing Education Authoring Tool|1
+30|Communication|12172;12174;12175|Kristin Campion|Used for bridge lines, operator conference calls, webex, circuits.|1
+31|Continuing Education|12174;12175;12183|Sherill Blackwater|Continuing Education Online content|1
+32|Rules|12175;12183;12186|Henry Lobato|SEC rules updates|1
+33|Human Resources|12183;12186;12191|Heidi Layton|Conflict of Interest Certification System|1
+34|Facilities management|12186;12191;12199|Carma Woolfolk|Powerful, dynamic interface enabling users to monitor and control their facilities from anywhere, at any time.|1
+35|Human Resources|12191;12199;12201|Lakeesha Myhre|Recognition and rewards program|1
+36|Travel planning|12199;12201;12202|Tamie Matthies|Premier Travel and Expense System|1
+37|Financial information|12201;12202;12203|Craig Riffle|Credit Reporting for Certified Professionals|1
+38|Event management|12202;12203;12204|Burt Krum|Corporate Event Planning|1
+39|Human Resources|12203;12204;12205|Eda Corrado|Flexible work schedule policy|1
+40|Broker Information|12204;12205;12206|Malisa Gillmore|NYSE Floor Broker Information for Press Release|1
+41|Registration |12205;12206;12207|Heide Wehmeyer|Registration Fines and Costs|1
+42|Communication|12206;12207;12208|Lisha Boniello| Secure Gateway training materials|1
+43|Financial information|12207;12208;12209|Bryon Steffens|Financial Services Systems |1
+44|Financial information|12208;12209;12213|Jacquie Handy|Investor Education Expense Analyzer|1
+45|Registration|12209;12213;12219|Darby Egnor|Waiver System and policy|1
+46|Trade Info|12213;12219;12220|Lise Hyder|Both MPP and OTCBB directly access this resource for market calendar data. |1
+47|Billing|12219;12220;12221|Luvenia Schuetz|Consume transactions from internal applications and pass billing info to WorkDay for invoicing and payment management|1
+48|Risk monitoring|12220;12221;12222|Lashandra Hedgecock|Governance, Risk, and Compliance Portal|1
+49|Human Resources|12221;12222;12228|Salley Valenza|Health Advocate|1
+50|Human Resources|12222;12228;12229|Juliane Mcfaul|Employee Engagement Survey|1
+51|Human Resources|12228;12229;12231|Tashina Vieira|Pension Resources|1
+52|Human Resources|12229;12231;12237|Cordelia Cuff|Your Total Rewards|1
+53|Human Resources|12231;12237;12242|Domenica Licata|HR Electronic Fingerprinting|1
+54|IA Information|12237;12242;12243|Trudi Pettaway|Investment Adviser Public Disclosure|1
+55|IA Information|12242;12243;12244|Margarita Harvey|Investment Adviser Registration Depository|1
+56|Broker Information|12243;12244;12248|Nakisha Plewa|INDIVIDUAL PROFILES|1
+57|Broker Information|12244;12248;12251|Portia Fenton|Registered Rep tracking|1
+58|Human Resources|12248;12251;|Francesco Searight|Mentoring program|1
+59|Contract mangement|12251;12244;|Sommer Buchwald|JIRA-Service Desk tool for Contract  Service Management|1
+60|Issue tracking|12069;12070;12072|Maisie Keppler|Issue tracking tool - JIRA|1
+61|Exhange - RSA|12070;12072;12103|Tyisha Pruden|RSA contracts and reporting|1
+62|Financials|12072;12103;12105|Jenni Gregor|reviewing firm financials reporting|1
+63|Market analysis|12103;12105;12107|Halina Loos|Market algorithm analysis|1
+64|Data Analytics|12105;12107;12111|Karine Jowett|Exchange trading survey results|1
+65|Communication|12107;12111;12113|Janine Whitenack|Annual Priorities letter|1
+66|Training|12111;12113;12117|Sylvia Trimpe|Continuing Education course catalog|1
+67|Fraud|12113;12117;12118|Elsie Schiel|Options Insider Trading Application|1
+68|Firms|12117;12118;12119|Christena Crossno|Firm grouping analysis|1
+69|Trade Info|12118;12119;12120|Stephane Clausing|Over the Counter Bulletin Board  Quotes|1
+70|Trade Info|12119;12120;12127|Laura Yeager|OTCBB and Order Reporting Facility Data via COMPANY.org|1
+71|Financial information|12120;12127;12129|Cristopher Westcott|Financial education planning|1
+72|Trade Info|12127;12129;12135|Augusta Hartman|Private Funds Registration Depository|1
+73|Human Resources|12129;12135;12141|Miguel Chittenden|Conduct background searches and investigations on arbitrator candidates for the  Office of Dispute Resolution roster of neutrals|1
+74|Trade Info|12135;12141;12142|Robbyn Boykins|PRET - Option, Equities trade modeling|1
+75|Trade Info|12141;12142;12143|Maple Scholz|Exchange trades and fees|1
+76|Reporting|12142;12143;12146|Lyndsey Palin|Case management reporting by districts|1
+77|Training|12143;12146;12149|Beckie Hurston|Prudential mutual fund seminar|1
+78|Member management|12146;12149;12152|Cinda Rother|Financial Information System Billing Engine|1
+79|Human Resources|12149;12152;12153|Tawanda Longmire|PeopleSoft - Human Resources Information System|1
+80|Data Analytics|12152;12153;12156|Annamae Ponte|Regulatory Automated Analysis |1
+81|Communication|12153;12156;12157|Louis Mcnaught|Registration And Disclosure Gateway|1
+82|Registration|12156;12157;12159|Edwardo Zehr|Registration Review Workspace |1
+83|Firm support|12157;12159;12165|Margrett Kivi|This Project track will focus on Integrating RAMP with other partner apps like ESMP, Alfresco, FIP, Fingerprint, Filex and reduce RAMP on-prem footprint.|1
+84|Firm support|12159;12165;12167|Taren Drago|Web Applications is a suite of external apps supporting the firms and individual brokers.|1
+85|Business information|12165;12167;12171|Deidra Govan|Reporting and Business Intelligence repository|1
+86|Case Management|12167;12171;12172|Tish Spaulding|Regulatory Case Management|1
+87|Human Resources|12171;12172;12174|Ardelle Ketron|COMPANY Wellness Program for weight loss and lifestyle maintenance|1
+88|Communication|12172;12174;12175|Reatha Sebree|Reg Gateway|1
+89|Fee reporting|12174;12175;12183|Francoise Melnick|Regulatory Fee Data Warehouse|1
+90|Time tracking|12175;12183;12186|Jerold Cardoso|Regulatory Time Tracking|1
+91|Regulation|12183;12186;12191|Andreas Ketterman|For each relevant distribution, the Rule 105 Matching Tool uses algorithms to match client information from distribution allocation lists against client trading information from Bluesheets in an effort to identify possible violations of SEC Regulation M Rule 105. Market Regulation users can search, filter, sort, verify, edit, export, and/or print the information.|1
+92|Training|12186;12191;12199|Cathey Foree|Learning management system content and monitoring|1
+93|Communication  |12191;12199;12201|Stepanie Brodsky|SharePoint team sites|1
+94|Regulation|12199;12201;12202|Annice Flink|Short Interest Application regulations|1
+95|Communication  |12201;12202;12203|Virgina Funches|Skype meeting pilot and evaluation|1
+96|Mutual  funds|12202;12203;12204|Alyssa Cesar|Annual federal mutual funds conference|1
+97|Training|12203;12204;12205|Mel Barros|Variable Annuity training sessions|1
+98|Product|12204;12205;12206|Gregg Kottke|Subordinated Loans|1
+99|Risk monitoring|12205;12206;12207|Ilse Pennock|firm alerts and regulatory response tracking in SURVEILLANCE WORKSPACE|1
+100|Trade Info|12206;12207;12208|Judith Angulo|Symbol Info catalog|1
+101|Human Resources|12207;12208;12209|Jessica| Talent Management Software|1
+102|Human Resources|12208;12209;12213|TIMOTHY|Diversity management seminar|1
+103|Trade Information|12209;12213;12219|Steven Canedy|Thomson Reuters clearing information portal|1
+104|Planning|12213;12219;12220|Gerald SIDOTI|Financial planning tool for actuarial forecasting|1
+105|Regulation|12219;12220;12221|MIKE Cohen|Annual regulation review conference|1
+106|Exchange RSA|12220;12221;12222|Brooks|RSA contract renegotiation schedule|1
+107|Financial capability|12221;12222;12228|Robert|Fraud identification education seminar|1
+108|Training|12222;12228;12229|Vilen Gordon|Skill building software|1
+109|Human Resources|12228;12229;12231|David Chamorro|Health Benefit - Continuation of Health Coverage|1
+110|Project150|12229;12231;12237|Douglas Martinez|Dispute Resolution Applications|1
+111|Economic Rountable|12231;12237;12242|Tim Saiz|Economic roundtable on the issuance of new rules related to money laundering, cryptocurrencies, crypto, crypto assets, ICOs, and involved data analysis|1
+112|EduBIGHATion on Suitability|12237;12242;12243|WILMARC Vienot|create continuing educATion tools and classes and courses on suitability issues|1
+113|Advertising Regulations CE|12242;12243;12244|John Chevez|created advertising regulation continuing eduBIGHATion tools and classes and courses|1
+114|Clearing Firm|12243;12244;12248|Justin Kapadia|employee group regarding clearing firm best practices and lessons learned|1
+115|COMPANY Arbitration Forum|12244;12248;12251|Robert Basalik|provided public forum for information on COMPANY arbitrations|1
+116|SEC Employees|12126;12069;12072|Douglas Giarratano|list of former SEC Employees|1
+117|Financial|12069;12070;12103|Randi Linn|conducted financial analysis of various business segments|1
+118|Regulatory Technology Roundtable|12070;12072;12105|Thomas Bennett|met with SEC in a roundtable on regulatory technology involving stock exchanges|1
+119|NYSE|12072;12103;12107|William Powell|list of employees who used to work at NYSE for NYSE expert round table|1
+120|Enforcement Attorney Roundtable on Supervision|12103;12105;12111|JOSEPH Farrington|conduct roundtable discussion of supervision issues. Enforcemnt attorney project|1
+121|Continuing EduBIGHATion Course Development|12105;12107;12113|William Beardsley|course development regarding private placement memorandums and private offerings|1
+122|New York Stock Exchange NYSE|12107;12111;12117|Diane Leisure|NYSE market making project, surveillance, supervision, latency, high speed trading, algorithms|1
+123|Economics Project|12111;12113;12118|Phyllis bailey|economics project involving options pricing|1
+124|Legal - Advertising and Corporate Financing Department|12113;12117;12119|ANTHONY Cordier|conduct roundtable on law, advertising regulation, policy|1
+125|Member Supervision|12117;12118;12120|FRANCES Clark|surveillance program restructuring expert team|1
+126|Fintech|12118;12119;12127|George Hays|FINTECH issues regarding crypto assets and icos|1
+127|Market Regulation Rules|12119;12120;12129|Noelle Eaton|develop new market regulation rules suggestions|1
+128|Fixed Income Pricing|12120;12127;12135|JEFFREY chan|industry event participants involved in fixed income pricing discussions|1
+129|Commodities Futures|12127;12129;12141|Douglas Voyles|project involving interfacing with commodities futures exchange|1
+130|Shared Services|12129;12135;12142|Leslie MALONE|shared services project inovlving risk strategy, innovation, litigation and counsel, sec oversight|1
+131|Statistical Analysis Project|12135;12141;12143|Gregory Madurski|project utilizing statistics to assist market regulation and member supervision|1
+132|Mutual Fund Working Group|12141;12142;12146|Katherine Prussman|mutual fund working group.|1
+133|Reporting|12142;12143;12149|Denise Vander Ark|Electronic Financial and Operational Combined Uniform Single Report|1
+134|Security Management|12143;12146;12152|Ronald Harsche|Electronic Fingerprint Processing|1
+135|Training|12146;12149;12153|Linda Zimmerman|Provide training for Examiners|1
+136|Vendor Management|12149;12152;12156|Samuel Weiss|utilize Vendor Management System|1
+137|Communication|12152;12153;12157|John Petit|update content on Financial Professional Gateway|1
+138|Human Resources|12153;12156;12159|Adam Phillips|Employee benefits management - dental|1
+139|Reporting|12156;12157;12165|Karen SIMMONS|Market Interactive Reporting  Summaries|1
+140|Product Repository|12157;12159;12167|Eric Edwards|use Multi-Product Platform Repository Front End|1
+141|Case Management|12159;12165;12171|Teresa Rodman|track and resolve cases on Member Regulation Desktop|1
+142|Organization information|12165;12167;12172|Edward Radford|maintain content on Member Regulation - Funding Portal|1
+143|Trade Info|12167;12171;12174|JOSEPH Ross|OTCBB quotation submissions|1
+144|Trade Info|12171;12172;12175|William Cottle|NASDAQ Data Network Peering|1
+145|Security Management|12172;12174;12183|Israel DiLeo| Consumer Access for mortgage info|1
+146|Trade Info|12174;12175;12186|Ian Cummings|trade audit reporting analysis|1
+147|Communication|12175;12183;12191|Gerald Otto|develop and get approval for Press Releases|1
+148|Training|12183;12186;12199|Ruth Mohan|maintain content in Learning Management System|1
+149|Human Resources|12186;12191;12201|Clayton SHIPPY|COMPANY Manual Online|1
+150|Price Information|12191;12199;12202|Grant Somogyi|Directly access to OTCBB database for price information. |1
+151|COIC Training|12199;12201;12203|Marie Kach|Conflict of interest training videos|1
+152|Seniors|12201;12202;12204|Sanjiv Lawson|manage and promote sneior helpline service|1
+153|Training|12202;12203;12205|Matthew Eddy|Produce and maintain employee training videos|1
+154|Communication|12203;12204;12206|Hubert Mundigo|maintain content on company websites|1
+155|Communication|12204;12205;12207|Gerald Benjamin|manage corporate communication including email, podcasts and town halls|1
+156|Arbitration|12060;12061;12062|Patrick Carbone|Arbitration Awards Online|2
+157|Regulation|12061;12062;12063|Karen Thompson|Hosting Office of Dispute Resolution Requirements.|2
+158|Regulation|12062;12063;12064|Daniel Page|Bank Secrecy Act Query|2
+159|Contract mangement|12063;12064;12065|Robert Ross-Rafii|Legal contract matter management system|2
+160|Research|12064;12065;12075|Deborah Baise|Legal Research Tool and policies|2
+161|Foreign Assets|12065;12075;12076|Richard Tortorici|Office of Foreign Asset Control's Specially Designated Nationals and Blocked Persons List|2
+162|Regulation|12075;12076;12077|Paul Callas|The Reg M Workspace stores Reg M notifications submitted by member firms. The system includes an interface that is utilized by Market Regulation users to search, filter, sort, verify, edit, add, and/or print the information received about distributions of securities.|2
+163|Regulation|12076;12077;12078|Veronica Christensen|Regulatory Filings Application|2
+164|Regulation|12077;12078;12079|Mark Tomme|SEC 19-D1 formal action reporting |2
+165|Product|12078;12079;12080|Michael BRANNON| Business & Legal support Systems |2
+166|Regulation|12079;12080;12081|Gary Piechowski|Securities Observation News Analysis and Regulation|2
+167|Enforcement Investigation|12080;12081;12082|John jordan|COMPANY Enforcement action against LPL for violation of SEC reporting guidelines. Securities and Exchange Commission. High Yield debt issues.|2
+168|Enforcement Attorney Roundtable|12081;12082;12083|HERB Grimm|Enforcement conducted an Enforcement Roundtable on variable annuities and senior investors and vulnerable adults.|2
+169|Enforcment Attorneys|12082;12083;12084|GEORGE Turner|list of enforcement attorneys that worked on cyber issues|2
+170|Enforcement Investigators|12083;12084;12085|Brant Crichlow|enforcement investigation that worked on data breach and cyber issues|2
+171|Legal Analysis|12084;12085;12086|Linda Brillhart|general counsel office project on legal analysis of state senior issue reporting|2
+172|Legal|12085;12086;12087|George Day|conducted legal analysis involving dispute resolution|2
+173|SEC Roundtable|12086;12087;12088|J. Janssen|SEC roundtable on commodities and futures and structured products|2
+174|Investigation|12087;12088;12089|James Steinhaus|enforcement investigation involving exchange traded funds ETFs and a small firm|2
+175|Arbitration Case|12088;12089;12166|Raymond Alvar|COMPANY employee work on arbitration matter|2
+176|COMPANY Mediation Experts Roundtable|12061;12063;12065|Joseph Daurio|roundtable of COMPANY experts on mediation and arbitration|2
+177|Enforcement Investigation|12062;12064;12075|Christopher Smith|enforcement investigation of large broker dealer involving market manipulation|2
+178|Legal Project|12063;12065;12076|Thomas Coker| revise legal policy framework for new COMPANY rules involving market manipulation|2
+179|General Counsel|12064;12075;12077|Gerald Rodelli|maintain content on General counsel office portal|2
+180|Contract mangement|12065;12076;12078|Joseph Love|Legal contract and spend management.|2
+181|Mediation-Arbitration|12075;12077;12079|Debra Brinkman|Mediation and Arbitration Tracking and Retrieval Interactive Case System|2
+182|Exam Planning|12073;12074;12090|roroor DELFIN|EXPLORATORY PLATFORM FOR RISK ASSESSMENT BASED EXAM PLANNING|3
+183|Trade Info|12074;12090;12091|D.Flint Maslin|Trade authorization review|3
+184|Email review|12090;12091;12092|Michelle Fairbanks|review processed epst files|3
+185|Exam|12091;12092;12093|Randy Harding|Bank of America exam|3
+186|Exam|12092;12093;12094|Howard Bdaiwi|Data sampling techniques|3
+187|Scheduling|12093;12094;12095|Jason Luzi|Project scheduling tool|3
+188|Reviews|12094;12095;12096|Constance Daily|Chronology Tracking System for customer account suitability determination|3
+189|Reviews|12095;12096;12097|Jeffrey Dixon|Risk-review mapping project|3
+190|Firm Information|12096;12097;12098|Linda Reque|A One-Stop resource for Regulatory Data. Profiles combines information from more than 20 COMPANY systems-into a single, easy-to-use resource that covers all active and inactive broker-dealers|3
+191|Exam|12097;12098;12099|Sean Catmull|Exam planning processes and policy|3
+192|Regulation|12098;12099;12100|Franklin WISEMAN|post interpretative guidance for open issues|3
+193|Reviews|12099;12100;12101|Brian Wilkinson|A tool, provided by Wolters Kluwer, which contains both: a feed of regulatory change information, impact analysis and assessment, as well as a place to centrally maintain the RSA rules matrices. The feed of change information allows staff to have cases auto-created to help them assess impact of when regulators (SEC, COMPANY, Exchanges, etc.) make rule or policy changes, which replaced an entirely manual process.  |3
+194|Reviews|12100;12101;12102|Matthew Chinian|Risk Authoring and Versioning Engine|3
+195|Regulation|12101;12102;12163|Sam ostendorf|Risk Based Haircut - Risk Based Margin|3
+196|Regulation|12102;12163;12179|Jeffrey Brockenbrough|Rulebook Database Management|3
+197|Regulation|12163;12179;12180|Lawrence Westen|Reference Data Management System|3
+198|Regulation|12179;12180;12181|joseph Walker|Reference Data Repository|3
+199|Communication|12180;12181;|MARK Saxonis|Report Center - firm request management|3
+200|Regulation|12073;12090;12091|Marie Papanikolas|Regulatory Enterprise Query Service Tool|3
+201|Extensions|12074;12091;12092|John Verbit|Regulatory Extensions|3
+202|Exam process|12090;12092;12093|Christopher Gavin|Move the line definition|3
+203|Reviews|12091;12093;12094|Steven Pazzaglia|SD Elements|3
+204|Reviews|12092;12094;12095|Frank Antonizio|Risk Identification restructuring|3
+205|Exam|12093;12095;12096|Lance Roberts|Time Tracker for exams|3
+206|Exam  |12094;12096;12097|Monica Dills|Issue and tip Triage|3
+207|Exam Planning|12095;12097;12098|James Christopher|Exam Target Management|3
+208|Reports|12096;12098;12099|Kevin DelPrete|automated reports and document generation |3
+209|Email analysis|12097;12099;12100|Brent EXUM|email query and analysis tool|3
+210|Exam|12098;12100;12101|Erin Hentges|Conducted an exam / examination of variable products in connection with Merrill Lynch. High commission products. Insurance issues.|3
+211|Exam Team|12099;12101;12102|Gale SUNG|Exam Team conducted an examination invovling Regulation S-P (Customer Information Protection), involved cyber issues, members of the exam team: series 7, series 9, series 10, series 24, previously worked at large retail broker-dealer firms, large firms.|3
+212|Cryptocurrencies Exams|12100;12102;12163|Erik Archibald|Conducted examinations and investigations of firms that are involved in cryptocurrencies and crypto-assets, and ICOs / initial coin offerings|3
+213|Independent Contractor Broker Dealer Examinations|12101;12163;12179|Scott Hernandez|conducted examination on independent broker-dealers for structured products and high-yield products|3
+214|Variable Annuity Sweep|12102;12179;12180|Donald Coughlin| conducted examinations and sweep of variable annuity issues and variable annuity selling firms |3
+215|AML - Anti-money laundering|12163;12180;12181|Christina Bailey|conducted large scale examiantion of Morgan Stanley for money laundering issues involving Puerto Rico bonds|3
+216|Puerto Rico Bonds Sweep|12179;12181;|Philip Hirt|conducted exams, examinations of Puerto Rico based firms and Puerto Rico bonds|3
+217|Cyber Breach|12073;12074;12091|Gregory CIAMBRIELLO|Conducted cyber based review of broker-dealer security policies and Regulation S-P, and information security|3
+218|High Yield Securities|12074;12090;12092|Linda Noack|conducted examination and investigation involving high yield securities by UBS Securities a large firm|3
+219|Municipal Bond Exam|12090;12091;12093|John FUMERO|conducted a municipal bond exam on TD Ameritrade|3
+220|Cause Exam|12091;12092;12094|Richard Mitchell|conducted cause exam involving money laundering issues involving multiple small firms|3
+221|Cycle - Firm Exam|12092;12093;12095|Elaine Lockowitz|conducted firm exam of IFG Securities involving issues regarding suitability and churning|3
+222|Firm Exam|12093;12094;12096|Heather Manganelli|conducted a firm exam involving issues related to misrepresentation regarding mutual funds|3
+223|Branch Exam|12094;12095;12097|Robert Bohlen|conducted a branch exam on Raymond James involving issues of misrepresentation with mutual funds|3
+224|Representative Exam|12095;12096;12098|Dominic GILKER|conducted cause exam on John Doe involving asset backed mortgages involving suitability and misrepresentation issues|3
+225|Market Manipulation|12096;12097;12099|Timothy DelVecchio| market manipulation and insider trading examination and review involving various large firms Merrill Lynch, UBS, Morgan Stanley|3
+226|Options Exam|12097;12098;12100|Roma Vanderbilt|team conducted an options exam of an independent broker-dealer, Cetera|3
+227|Options Sweep|12098;12099;12101|William CLARK|conducted options sweep of broker-dealers in the south region|3
+228|Exchange Traded Funds|12099;12100;12102|Blaine Manemanus|conducted an exam of exchange traded fund issues concerning Robinhood|3
+229|Senior Helpline|12100;12101;12163|ADAM Langlois|conducted COMPANY Senior Helpline exam on multiple large firms such as Raymond James, Cetera|3
+230|AML|12101;12102;12179|Russell Theoharis|conducted AML money laundering exam of Deutsche Bank|3
+231|Options Exam|12102;12163;12180|Paul McAfee|conducted an options exam of TD Ameritrade|3
+232|Morgan Stanley Firm Exam|12163;12179;12181|Laura Hutzelman|conducted firm exam of Morgan Stanley, involving John and Jane, and involving mutual funds and unit investment trusts|3
+233|Cyber security firm exam|12179;12180;|Terry Tobin|conduct cybersecurity exam on medium size and large size firm, data breach issues, and Regulation S-P issues|3
+234|Mutual Fund Exam|12073;12074;12091|Gordon Remmert|firm exam involving mutual funds and a large firm Fidelity |3
+235|Regulatory Coordinator|12074;12090;12092|Christopher Burrington|regulatory coordinator report on large firm Morgan Stanley|3
+236|Surviellance|12090;12091;12093|Mark Carroccio|surveillance report on small-firm initiative involving options|3
+237|Exam 392147982|12091;12092;12094|Mark Dikdan|examination of market manipulation in Chicago stock exchange|3
+238|Exam 210101011|12092;12093;12095|James Fernandes|examination exam involving john doe jane doe chris doe failure to disclose on Form U4 outside business activity OBA|3
+239|Exam Related to OBAs|12093;12094;12096|Tracy Fitzgerald|conducted exam involving outside business activities OBAs and insider trading for medium size firm|3
+240|Fraud Investigation|12094;12095;12097|monte Toureau|conducted fraud investigation of potential ponzi scheme in Florida involving a small broker-dealer|3
+241|Firm Exam|12095;12096;12098|Penny Herskovics|firm exam involving options, exchange traded funds, high-yield debt|3
+242|Exam 3023852822|12096;12097;12099|Troy Curtis|exam involving insider trading |3
+243|Senior Helpline Case|12097;12098;12100|REBECCA Wilkers|senior helpline case involving vulnerable adult jane doe and variable annuities and firm xyz|3
+244|AML Review|12098;12099;12101|Dana Yi|conducted AML review of large broker-dealer involving Venezuela|3
+245|Regulation D|12099;12100;12102|David Scipione|conducted private placement review involving Regulation D|3
+246|Offshore Investigation|12100;12101;12163|Scott Smith|conducted investigation involving offshore entities, Regulation S, and market manipulation involving Regulation M|3
+247|Fixed Income|12101;12102;12179|Meighan Pereira| conducted fixed income examination and review involving a small firm|3
+248|Mark-Up Disclosure|12102;12163;12180|COLIN FRASER|conducted a mark-up disclosure exam and review involving a a large firm|3
+249|Sales Practice Risk|12163;12179;12181|Carole Wheeler|conducted a firm exam involving sales practice risks involving suitability and senior investors|3
+250|Outside Business Activities|12179;12180;|james Huning|conducted exam of outside business activities involving a regional broker-dealer, involved also private securities transactions|3
+251|Digital Assets|12073;12074;12090|Dennis Lile|exam involved digital assets, crytpo, crypto currencies, large and medium firms|3
+252|Market Risk Exam|12074;12090;12091|Joseph Maher|firm exam involving market risk and best execution|3
+253|Market Manipulation Exam|12090;12091;12092|David Sanchez|conducted market manipulation exam involving firm x,y,z with some insider trading involved as well.|3
+254|Exam Involving Short Sales|12091;12092;12093|Michael Roth|conducted an exam involving a small broker-dealer involving illegal short-sales|3
+255|Credit Risk|12092;12093;12094|Paul Kallio|exam and investigation regarding credit risk and risk exposures FIRNA Rule 4210|3
+256|Margin Exam 3942984529|12093;12094;12095|Dennis PAUL|conducted an exam involving a small broker-dealer in the use of margin|3
+257|Liquidity Issues|12094;12095;12096|Derek Ruffolo|risk analysis project involving liquidity issues, net cap, net capitalization|3
+258|Investigation 38223428|12095;12096;12097|Gregg Gadit|conducted investation of potential fraud in a small firm, also involved insider trading|3
+259|Examination 21328282|12096;12097;12098|Keith Moreno|exam involving supervision issues and outside business activities.|3
+260|Initial Public Offering IPO Exam|12097;12098;12099|Shelly Covino|exam involving initial public offering of a tech company and Regulation M|3
+261|Private Offering Exam 232823128|12098;12099;12100|Mohamed Miller|review of private placement offering documents involving firm x,y,z|3
+262|Exam 32821822|12099;12100;12101|Matthew Turville|firm exam involving American Depository Receipts (ADRs)|3
+263|Exam 372727272|12100;12101;12102|Paul Lozada|exam inovlving asset-backed securities (ABS) and large firm|3
+264|Exam 32392292|12101;12102;12163|TODD ushyarov|exam of firm and representative involving suitability of asset-backed securities (ABS)|3
+265|Options Exam|12102;12163;12179|Michael Seibt|conduct options exam of a small broker-dealer in California|3
+266|Exam 38282822|12163;12179;12180|Mary Levin|conduct firm exam on large broker dealer involving securities lending risk and suitability issues involving senior customers|3
+267|Bond Market|12179;12180;12181|Jay Johnson|conducted cause examination and investigation involving bond market participants on the NYSE |3
+268|Dark Pools|12073;12074;12090|Daniel Hunter|conducted an exam involving large firm use of dark pools and liquidity issues|3
+269|Wireblotter Review|12074;12090;12091|William Jowdy|exam with review large firm wireblotter for fraud or money laundering issues, aml compliance, branch office|3
+270|Exam 3838382218|12090;12091;12092|Bart O'Neill|options exam involving large firm x,y,z|3
+271|Exam 3828282821|12091;12092;12093|Kesia Winters|know your customer issues exam involving also bank secrecy act (BSA) and USA Patriot Act|3
+272|Exam 11122212111|12092;12093;12094|Richard Baer|examination of a large firm involving market manipulation and mark to market|3
+273|Exam 327817811|12093;12094;12095|Christopher Stoll| cause exam regarding unsuitability of exchange traded funds, ETFs|3
+274|Investigation 28218811|12094;12095;12096|Robert Bacon|exam involving reverse churning and suitability|3
+275|Risk Monitoring Project|12095;12096;12097|Tony Pappas|investigation and exam involving market manipulation involving a penny stock low priced stock|3
+276|Exam 3282181 - Algo|12096;12097;12098|ROBERT Azanow|market exam involving algorithmic trading and high speed trading, latency|3
+277|Exam 2943043892|12097;12098;12099|Nathaniel Frejlach|exam involving ANYDAQ and CBOE|3
+278|Regulation D|12098;12099;12100|Robert Hershman|Exam involving Regulation D and private offerings|3
+279|Fraud Surveillance Review|12099;12100;12101|Michael Ehlinger| fraud surveillance review of large firms and NYSE and ANYDAQ|3
+280|Pink Sheets|12100;12101;12102|Michael Grimes|examination and investigation involving pink sheets and over the counter (OTC) securities, penny stocks|3
+281|COMPANY Complaint Exam 3832828|12101;12102;12163|Josh Arlia|senior investor complaint involving suitability|3
+282|Options Exam|12102;12163;12179|Joseph Bukowsky| options exam regarding etrade [all these data are fake], james doe|3
+283|Investment Company Exam 38388383|12163;12179;12180|JOSEPH Archer|examination that involved a fraudulent investment company set up by a broker-dealer|3
+284|Exam 3838383|12179;12180;12181|CARLOS Chapman|exam involving clearing firm and transfer agent activities|3
+285|White Collar Fraud|12073;12090;12091|Margaret Cherry|Develop several white collar fraud indicators for exam staff|3
+286|FinOp|12074;12091;12092|Christopher Wujnovich|FINOP exam, low priced securities, net cap|3
+287|Exam 3832811|12090;12092;12093|FREDDIE krikorian|exam related to unauthorized trading in GE securities   |3
+288|Exam 383838312|12091;12093;12094|Sheila Hagler|investigation and exam involving market manipulation involving a penny stock low priced stock|3
+289|Exam 393292191|12092;12094;12095|Peter CESARONI|exam involving segregation of client assets, credit, fraud and deception.|3
+290|Exam 3838211|12093;12095;12096|Michael Scott|accuracy of regulatory capital issues in this exam, revenue formula, operational risk|3
+291|Exam 38281811|12094;12096;12097|REBECCA McGuire|money laundering penny stocks firm x,y,z|3
+292|Exam 382181811|12095;12097;12098|Keven Robinson|variable annuity exam, also involved fixed annuity and insurance issues|3
+293|Investment Advisory Exam 3893482181|12096;12098;12099|Brian Tenenblatt|exam involved reverse churning and required knowledge of investment advisor issues|3
+294|Exam 3982811|12097;12099;12100|Kerryn Risley|suitability, concentration, churning|3
+295|Enforcement Investigation|12098;12100;12101|Gary Ahrens|investigation of variable annnuity sales|3
+296|Exam 3828121|12099;12101;12102|Nicole Bola|variable annuity exam involving large firm xyz|3
+297|U.S. Treasury Securities Exam 382811|12100;12102;12163|Bill Wiley| exam involving u.s. treasuries pricing issues|3
+298|Annual Priorities|12101;12163;12179|Jaidi Mantia|Annual Priorities reporting|3
+299|Retail firms|12102;12179;12180|Judith Angulo|Financial audit review for retail firms|3
+300|Market Maker|12101;12163;12179|Jessica Burns|Floor trader reviews|3
+301|Trade Info|12184;12211;12066|TIMOTHY Murphy|AWS Platform encompasses the services supporting trade reporting|4
+302|Training|12211;12066;12067|Steven Canedy|Productivity Engineering seminar|4
+303|Data Analytics|12066;12067;12068|Gerald SIDOTI|Advanced Analytics  - Predictive Models DB|4
+304|Data Analytics|12067;12068;12071|MIKE Cohen|Advanced Analytics - TRR DB|4
+305|Customer Accounts|12068;12071;12104|Brooks Santangelo|Automated Customer Account Transfer System|4
+306|Identification|12071;12104;12106|Robert Delise|network user access management|4
+307|Security Management|12104;12106;12108|Vilen Gordon|software packaging tools|4
+308|Document management|12106;12108;12109|David Chamorro|content services platform provides content services to various applications and users with a set of APIs and UI apps|4
+309|Data security management|12108;12109;12110|Douglas Martinez|Applications Operations Monitoring Framework|4
+310|Data security management|12109;12110;12112|Tim Saiz|Access Management and Governance|4
+311|Data security management|12110;12112;12114|WILMARC Vienot|Password Reset app|4
+312|Development tool|12112;12114;12115|John Chevez|Application Operations AWS Infrastructure and Resiliency Framework. An automation and operations management framework.|4
+313|Development tool|12114;12115;12116|Justin Kapadia|Monitoring Platform|4
+314|Communication|12115;12116;12121|Robert Basalik|AppGate Security Server|4
+315|Development tool|12116;12121;12122|Douglas Giarratano|Application Monitoring|4
+316|Data security management|12121;12122;12123|Randi Linn|AppScan|4
+317|Data security management|12122;12123;12124|Thomas Bennett|AppSense for Desktop|4
+318|Data security management|12123;12124;12125|William Powell|ArchiveSocial|4
+319|Communication|12124;12125;12128|JOSEPH Farrington|SFTP support|4
+320|Development tool|12125;12128;12130|William Beardsley|JFROG Artifactory Pro|4
+321|Testing-Quality Mangement|12128;12130;12131|Diane Leisure|Aspect Quality Management (AQM)|4
+322|Testing-Quality Mangement|12130;12131;12132|Phyllis bailey|Test automation centralization|4
+323|Data security management|12131;12132;12133|ANTHONY Cordier|Assurance Continuity Management|4
+324|Data security management|12132;12133;12134|FRANCES Clark|AUTHSYN|4
+325|Development tool|12133;12134;12136|George Hays|Audio Video Engineering applications|4
+326|Communication|12134;12136;12137|Noelle Eaton|SIP Gateway (Avaya-Sipera) that routes VoIP calls out to the external voice carrier.|4
+327|Communication|12136;12137;12138|JEFFREY chan|Legacy internal COMPANY telephone call management system.  This is a hybrid Digital/VoIP system that supports voice calling to and from COMPANY. |4
+328|Communication|12137;12138;12139|Douglas Voyles|Legacy Voicemail system only supporting call center today. (decom in 2018)|4
+329|Data security management|12138;12139;12140|Leslie MALONE|Anti Virus Scanning Service|4
+330|Data security management|12139;12140;12144|Gregory Madurski|Run reports in AWS to monitor CI names|4
+331|Communication|12140;12144;12145|Katherine Prussman|AxisTV Content Manager|4
+332|Testing-Quality Mangement|12144;12145;12148|Denise Vander Ark|Black Duck Suite|4
+333|Data Analytics|12145;12148;12150|Ronald Harsche|Big Data Ad Hoc SQL|4
+334|Development tool|12148;12150;12151|Linda Zimmerman|To enable running Apache Spark into AWS services such as EMR, ECS, EKS, etc... |4
+335|Data security management|12150;12151;12154|Samuel Weiss|Good Mobile Device Management|4
+336|Communication|12151;12154;12155|John Petit|Maintains circuits to Bloomberg|4
+337|Data Analytics|12154;12155;12158|Adam Phillips|Blotter Operations|4
+338|Data security management|12155;12158;12160|Karen SIMMONS|Grant retirees access to online participant website.|4
+339|Data Analytics|12158;12160;12161|Eric Edwards|Billing Rules and Calculation Engine|4
+340|Data security management|12160;12161;12162|Teresa Rodman|Bright Horizons Backup Care|4
+341|Data Analytics|12161;12162;12169|Edward Radford|Certification Assessment Support Tool|4
+342|Development tool|12162;12169;12170|JOSEPH Ross|BDSQL environment built in support of Contract |4
+343|Trade Info|12169;12170;12173|William Cottle|Contract  Data API|4
+344|Data security management|12170;12173;12176|Israel DiLeo|FastOLA implementation for Contract  as an online lifecycle query tool|4
+345|Storage|12173;12176;12177|Ian Cummings|Shared Metastore implementation for Contract |4
+346|Data Analytics|12176;12177;12178|Gerald Otto|BIGDATA for Contract |4
+347|Storage|12177;12178;12182|Ruth Mohan|Contract  Data Collection|4
+348|Development tool|12178;12182;12185|Clayton SHIPPY|Contract  Data Ingest|4
+349|DIVER-Contract |12182;12185;12187|Grant Somogyi|DIVER implementation for CAt as online data query tool|4
+350|Storage|12185;12187;12188|Marie Kach|Data Management / Herd installation for Contract |4
+351|Testing-Quality Mangement|12187;12188;12189|Sanjiv Lawson|Contract DQMON does data quality checks for all Contract  market data. |4
+352|Event management|12188;12189;12190|Matthew Eddy|ESMP for Contract |4
+353|Access|12189;12190;12192|Hubert Mundigo|COMPANY Contract  ETL Project|4
+354|Data security management|12190;12192;12193|Gerald Benjamin|Contract  FIP environment|4
+355|Development tool|12192;12193;12194|Patrick Carbone|fileX in Contract  account for file transfers|4
+356|Communication|12193;12194;12195|Karen Thompson|COMPANY Contract  Linker Project|4
+357|Data security management|12194;12195;12196|Daniel Page|This AGS will be used for the new Contract  website.|4
+358|DB structure|12195;12196;12197|Robert Ross-Rafii|Build normalization processes for equities data from RSA exchanges in Contract  Program.|4
+359|Development tool|12196;12197;12200|Deborah Baise|Carbon Black|4
+360|Data Analytics|12197;12200;12210|Richard Tortorici|CCCS Blotter Operations|4
+361|Testing-Quality Mangement|12200;12210;12212|Paul Callas|Cloud Compliance Portal |4
+362|DB structure|12210;12212;12214|Veronica Christensen|Common Data Intake Platform|4
+363|Development tool|12212;12214;12215|Mark Tomme|Source Code Security Analysis tool|4
+364|Communication|12214;12215;12216|Michael BRANNON|SIP Gateway (Cisco-Cube) that routes VoIP calls out to the external voice carrier.|4
+365|Communication|12215;12216;12217|Gary Piechowski|New internal COMPANY telephone call management system.  |4
+366|Communication|12216;12217;12218|John jordan|The Telepresence Application & Video/Audio Conferencing were combined to form this new application name per SR 120625(3/2018)|4
+367|Communication|12217;12218;12223|HERB Grimm|Cisco Unity Connect is the voicemail component of the phone system that support voicemail for both Avaya and Cisco Call Manager platforms.|4
+368|Development tool|12218;12223;12224|GEORGE Turner|Create AWS accounts and setup environment|4
+369|Data security management|12223;12224;12225|Brant Crichlow|Cloud Compliance Monitoring Engine|4
+370|Data security management|12224;12225;12226|Linda Brillhart|AWS Token Service|4
+371|Testing-Quality Mangement|12225;12226;12227|George Day|Performance test tool.|4
+372|Practice monitoring|12226;12227;12230|J. Janssen|Enforcement practices consolidation|4
+373|Change control management|12227;12230;12232|James Steinhaus|CRM implementation  for tracking corporate actions.|4
+374|Change control management|12230;12232;12233|Raymond Alvar| CRM implementation for the office of Government Affairs|4
+375|Architecture|12232;12233;12234|Joseph Daurio|Corporate Systems Data Warehouse in AWS|4
+376|COTS tools|12233;12234;12235|Christopher Smith|Commercial Off the Shelf Tool (COTS) - Miscellaneous|4
+377|Communication|12234;12235;12236|Thomas Coker|Wiki for Createathon|4
+378|Data security management|12235;12236;12238|Gerald Rodelli|COMPANY Identity Platform|4
+379|Communication|12236;12238;12239|Joseph Love|Firm Gateway Member Interface|4
+380|Communication|12238;12239;12240|Debra Brinkman|Forms Management - periodic surveys|4
+381|Alerts|12239;12240;12241|roroor DELFIN|Forms Management System-Alert and Case Management System|4
+382|Storage|12240;12241;12245|D.Flint Maslin|Forms Management System-Documentum Primary Instance|4
+383|Development tool|12241;12245;12246|Michelle Fairbanks|Form   Enterprise Component|4
+384|Communication|12245;12246;12247|Randy Harding|Gateways (firm gaetway, reg and sec, compliance calendar) |4
+385|Data security management|12246;12247;12250|Howard Bdaiwi|VPN Remote access software|4
+386|Data security management|12184;12066;12068|Jason Luzi|Global Relay eMail Archive|4
+387|Architecture|12211;12067;12071|Constance Daily|Serverless AWS Infrastructure|4
+388|Data security management|12066;12068;12104|Jeffrey Dixon|InfoSphere Guardium Database Activity Monitor|4
+389|AWS|12067;12071;12106|Linda Reque|Vulnerability scanning tool for  containers.|4
+390|Data security management|12068;12104;12108|Sean Catmull|Hyperion Enterprise Performance Management|4
+391|Portfolio management|12071;12106;12109|Franklin WISEMAN|Internal Application project review board|4
+392|Data security management|12104;12108;12110|Brian Wilkinson|Internal Audit portal for extracting, analyzing and managing cloud data|4
+393|Data security management|12106;12109;12112|Matthew Chinian|Intrusion Detection System|4
+394|Document management|12108;12110;12114|Sam ostendorf|Document Imaging|4
+395|Application management tool|12109;12112;12115|Jeffrey Brockenbrough|SAVVIS Internet/Extranet Peering|4
+396|Application management tool|12110;12114;12116|Lawrence Westen|Info Sec architecture apps|4
+397|Application management tool|12112;12115;12121|joseph Walker|Global AGS for Information Security Engineering. All projects/resources will start using this AGS.|4
+398|Data security management|12114;12116;12122|MARK Saxonis|Internal Single Sign-On (OKTA)|4
+399|Development tool|12115;12121;12123|Marie Papanikolas|Job Access Management System|4
+400|Development tool|12116;12122;12124|John Verbit|CloudBees Jenkins Enterprise|4
+401|Development tool|12121;12123;12125|Christopher Gavin|Atlassian JIRA|4
+402|Data Analytics|12122;12124;12128|Steven Pazzaglia|On Demand Analytics Platform|4
+403|Data security management|12123;12125;12130|Frank Antonizio|Oracle Enterprise Manager|4
+404|Development tool|12124;12128;12131|Lance Roberts|Email functions in Office 365|4
+405|Data security management|12125;12130;12132|Monica Dills|Oracle Internet Directory|4
+406|Data security management|12128;12131;12133|James Christopher|Dell Open Manage|4
+407|Data Analytics|12130;12132;12134|Kevin DelPrete|Efocus data compilation and anlysis|4
+408|Data security management|12131;12133;12136|Brent EXUM|Online Warehouse|4
+409|Development tool|12132;12134;12137|Erin Hentges|Optum|4
+410|Development tool|12133;12136;12138|Gale SUNG|Open Technology Real Services|4
+411|Communication|12134;12137;12139|Erik Archibald|Outlook Web Access|4
+412|Data security management|12136;12138;12140|Scott Hernandez|Capacity Optimization for db|4
+413|Data security management|12137;12139;12144|Donald Coughlin|Whole Disk Encryption|4
+414|Data security management|12138;12140;12145|Christina Bailey|Security Behavior Management|4
+415|Development tool|12139;12144;12148|Philip Hirt|Platform Engineering AGS - Only to be used in DEV|4
+416|Data security management|12140;12145;12150|Gregory CIAMBRIELLO|Pleasant Password Server|4
+417|Data security management|12144;12148;12151|Linda Noack|SaaS product that facilitates the risk assessment of COMPANY's third party vendors|4
+418|Development tool|12145;12150;12154|John FUMERO|Proofpoint|4
+419|Development tool|12148;12151;12155|Richard Mitchell|PeopleSoft - Financial Information System|4
+420|Trade Info|12150;12154;12158|Elaine Lockowitz|Public Offering System (formerly COBRA2)|4
+421|Development tool|12151;12155;12160|Heather Manganelli|Linux server configuration management|4
+422|Testing-Quality Mangement|12154;12158;12161|Robert Bohlen|Quality Center|4
+423|Data security management|12155;12160;12162|Dominic GILKER|Qualys Security Scans (Vulnerability Management)|4
+424|Data security management|12158;12161;12169|Timothy DelVecchio|Quantum Encryption|4
+425|Development tool|12160;12162;12170|Roma Vanderbilt|QuestionMark On-Demand|4
+426|Registration|12161;12169;12173|William CLARK|Registration Applications Management Portfolio|4
+427|Data security management|12162;12170;12176|Blaine Manemanus|RAMP Data In|4
+428|Data security management|12169;12173;12177|ADAM Langlois|RAMP Data Out|4
+429|Data Analytics|12170;12176;12178|Russell Theoharis|Reporting And Visualization Engine|4
+430|Data Analytics|12173;12177;12182|Paul McAfee|Link Analysis is a framework that identifies relationships across entities within COMPANY data.|4
+431|Data security management|12176;12178;12185|Laura Hutzelman|EMC RecoverPoint Appliances|4
+432|Development tool|12177;12182;12187|Terry Tobin|Pentaho data integrator (PDI) is used as the ETL tool to move data between different locations.|4
+433|Development tool|12178;12185;12188|Gordon Remmert|REMS|4
+434|Data security management|12182;12187;12189|Christopher Burrington|RSA ClearTrust|4
+435|Data security management|12185;12188;12190|Mark Carroccio|RSA Security Analytics|4
+436|Development tool|12187;12189;12192|Mark Dikdan|rsync OS Utility|4
+437|Data security management|12188;12190;12193|James Fernandes|SafeSend is an Outlook add-in available for Windows users to help avoid sending email to unwanted external email recipients.  SafeSend is part of a larger Data Loss Prevention program within COMPANY.  SafeSend is a mandatory installation on all COMPANY Windows computers. Please note that this feature is not available for Mac computers. SafeSend works automatically with Outlook email, providing a prompt to verify each external email recipient as well as any email attachments before the email will be|4
+438|Testing-Quality Mangement|12189;12192;12194|Tracy Fitzgerald|Automated software testing platform|4
+439|Data security management|12190;12193;12195|monte Toureau|Scansafe Web Filtering|4
+440|Data security management|12192;12194;12196|Penny Herskovics|System Center Configuration Manager - For Desktops|4
+441|Data security management|12193;12195;12197|Troy Curtis|System Center Configuration Manager - For Servers|4
+442|Data security management|12194;12196;12200|REBECCA Wilkers|System Center Operations Manager|4
+443|Data security management|12195;12197;12210|Dana Yi|Telephone firewall that protects COMPANY's telephone systems from abuse and telephony-based attacks.|4
+444|Data security management|12196;12200;12212|David Scipione|SecureTrack|4
+445|Data security management|12197;12210;12214|Scott Smith|RSA Authentication Manager (SecurID)|4
+446|Data security management|12200;12212;12215|Meighan Pereira|Shared File Transfer Gateway|4
+447|Data security management|12210;12214;12216|COLIN FRASER|SFTI Network Connectivity|4
+448|Communication tool|12212;12215;12217|Carole Wheeler|Sharepoint in the Microsoft Cloud|4
+449|Development tool|12214;12216;12218|james Huning|Shredder|4
+450|Communication tool|12215;12217;12223|Dennis Lile|Slack brings all your communication together in 1 place. It's real-time messaging, archiving and search for modern teams.|4
+451|Data security management|12216;12218;12224|Joseph Maher|Software Defined Storage|4
+452|Development tool|12217;12223;12225|David Sanchez|Jabber|4
+453|Testing-Quality Mangement|12218;12224;12226|Michael Roth|Software Quality Dashboard|4
+454|Development tool|12223;12225;12227|Paul Kallio|Code quality analysis tool|4
+455|Development tool|12224;12226;12230|Dennis PAUL|Cloud based innovation management software|4
+456|Development tool|12225;12227;12232|Derek Ruffolo|SPLUNK|4
+457|Data Analytics|12226;12230;12233|Gregg Gadit|Replacement for REQST project in cloud|4
+458|Development tool|12227;12232;12234|Keith Moreno|SpringSource ActiveMQ|4
+459|Development tool|12230;12233;12235|Shelly Covino|SpringSource Apache|4
+460|Development tool|12232;12234;12236|Mohamed Miller|SpringSource Tomcat|4
+461|Data security management|12233;12235;12238|Matthew Turville|Shared Services Engineering Application Infrastructure|4
+462|Data security management|12234;12236;12239|Paul Lozada|HTTPS Certificate Management|4
+463|Activity Tracking|12235;12238;12240|TODD ushyarov|System for Tracking Activities for Contract |4
+464|Data security management|12236;12239;12241|Michael Seibt|RDF Database.  This is a 3rd party database we will use for AGS: RDF. it's very similar to AGS: SOLR.   |4
+465|Risk monitoring|12238;12240;12245|Mary Levin|STARStream - SPRU Tool for Risk Exam Analysis  Management|4
+466|Data Analytics|12239;12241;12246|Jay Johnson|Stock Record Analytics|4
+467|Data Analytics|12240;12245;12247|Daniel Hunter|This is for tasks categorized under surveillance/ data analytics using machine learning|4
+468|Survey|12241;12246;12250|William Jowdy|Provides on-demand survey capability|4
+469|Testing-Quality Mangement|12211;12068|Bart O'Neill|Testing & Continuing Education|4
+470|Data security management|12066;12071|Kesia Winters|Transparency Data Repository|4
+471|Text recognition|12067;12104|Richard Baer|Text Analytics|4
+472|Data security management|12068;12106|Christopher Stoll|This is the AWS hosted suite of Thales (formerly Vormetric) solutions, currently spanning Data Security Manager (DSM) (e.g. key servers), Vormetric Transparent Encryption (VTE), and VaultlessTokenization Server (VTS).|4
+473|Database|12071;12108|Robert Bacon|Tool for Oracle Application Developers|4
+474|Security Management|12104;12109|Tony Pappas|Tripwire Enterprise|4
+475|Data Analytics|12106;12110|ROBERT Azanow|Data visualization tools|4
+476|Testing-Quality Mangement|12108;12112|Nathaniel Frejlach|Used for creating test accounts.|4
+477|Data Migration|12109;12114|Robert Hershman|User State Migration Tool|4
+478|Data security management|12110;12115|Michael Ehlinger|Schlage Security Management System|4
+479|Data Analytics|12112;12116|Michael Grimes|Varonis DatAdvantage|4
+480|General software|12114;12121|Josh Arlia|Veritas Foundation Suite|4
+481|Text recognition|12115;12122|Joseph Bukowsky|Veritext|4
+482|Cloud conference|12116;12123|JOSEPH Archer|A cloud based conferencing service|4
+483|Architecture|12121;12124|CARLOS Chapman|Central Relational Interface Service Platform|4
+484|Data security management|12122;12125|Margaret Cherry|Crowdstrike is an endpoint advanced threat detection tool|4
+485|Development tool|12123;12128|Christopher Wujnovich|Data Access Service Layer|4
+486|Data Analytics|12124;12130|FREDDIE krikorian|Develop several machine learning models that can detect potential data quality issues before a downstream impact.|4
+487|data management|12125;12131|Sheila Hagler|Data Services collection and reorting|4
+488|Application management tool|12128;12132|Peter CESARONI|Spark Managed Service in AWS|4
+489|Development tool|12130;12133|Michael Scott|DataGenerator|4
+490|data management|12131;12134|REBECCA McGuire|Data Management System|4
+491|data management|12132;12136|Keven Robinson|InfoSphere Data Stage|4
+492|data management|12133;12137|Brian Tenenblatt|Data Collection Framework|4
+493|Data security management|12134;12138|Kerryn Risley|DevSecOps application portfolio|4
+494|Data Analytics|12136;12139|Gary Ahrens|Data Investigation Visualization Exploration Research |4
+495|Data security management|12137;12140|Nicole Bola|Domain Name System (Infoblox)|4
+496|Data security management|12138;12144|Bill Wiley|Accellion - Enterprise-class secure mobile file sharing solutions|4
+497|Data security management|12139;12145|Jaidi Mantia|DOCUSIGN APP|4
+498|Data Analytics|12140;12148|Monica Dills|customer complaint anlaytics|4
+499|Development tool|12144;12150|James Christopher|Enterprise Search (ESP). Search as a service.|4
+500|Project151|12145;12151|Kevin DelPrete|Data Staging Hub|4
+501|Development tool|12148;12154|Brent EXUM|Visualization Utility|4
+502|Development tool|12150;12155|Erin Hentges|UI centralized library|4
+503|Cloud Migration|12151;12158|Gale SUNG|this team migrated exam workspace onto the AWS cloud|4
+504|COMPANY Mobile App|12154;12160|Erik Archibald|created a COMPANY mobile application app for external and internal users, both on Apple iOS and Android|4
+505|COMPANY Enterprise App|12155;12161|Scott Hernandez|created an internal COMPANY Enterprise App using JAVA and C++, and Python|4
+506|Python|12158;12162|Donald Coughlin|created a data scraper application for exam teams using Python|4
+507|Java|12160;12169|Christina Bailey|used new framework in Java to develop email review system|4
+508|Analytics|12161;12170|Philip Hirt| created an analytics workbook for exam teams using databases|4
+509|Financial Project|12162;12173|Gregory CIAMBRIELLO|mined people solutions data for compensation needs study|4
+510|Artificial Intelligence Working Group|12169;12176|Linda Noack|created artificial intelligence working group to deal with new Fintech issues |4
+511|Machine Learning|12170;12177|John FUMERO|team used machine learning to develop a tool for dispute resolution's mediation program|4
+512|Machine Learning|12173;12178|Richard Mitchell|used linear regression and clustering for developing examination desktop platform|4
+513|Open Source Data Mining Project|12176;12182|Elaine Lockowitz|use open source intelligence collection to develop arbitration database|4
+514|Software Project 1|12177;12185|Heather Manganelli|develop online tool for employees and data mananagement, data base SQL, database, Postgres|4
+515|Market Regulation Software Project|12178;12187|Robert Bohlen|built market regulation software using Java, C++, Python to scan and surveil market makers and floor brokers|4
+516|Call Detail Records|12182;12188|Dominic GILKER|Call Detail Records,an appliance that collects serial data from the phone switch  that logs all DID info on calls made and received. This buffer will push the data to kwalxutilp035 server.|4
+517|Short Tenders|12185;12189|Timothy DelVecchio|Trade Data Dissemination & reporter portal,|4
+518|Artificial Intelligence Project 3833|12187;12190|Roma Vanderbilt|conduct proof of concept on ai artificial intelligence project for creating an employee data tool|4
+519|Machine Learning|12188;12192|William CLARK| use tensorflow tensor flow for machine learning project for exam workspace|4
+520|Software Development Project 383|12189;12193|Blaine Manemanus|software development project concerning webscraping technologies for blotter analytics project|4
+521|Insider Trading Software Project|12190;12194|ADAM Langlois|development of insider trading surveillance toolkit uses C++, JAVA, SQL|4
+522|COMPANY Technology|12192;12195|Russell Theoharis|COMPANY technology architecture restructuring|4
+523|Automated Fraud Modeling|12193;12196|Paul McAfee|data mining, database, python, postgre, statistics, regression|4
+524| Statistics Working Group|12194;12197|Laura Hutzelman|data analytics team, stats, statistics, R, matlab|4
+525|UX|12195;12200|Terry Tobin|Upgrade firm facing Uis|4
+526|UX|12196;12210|Gordon Remmert|New UI integration to existing apps|4
+527|UX|12197;12212|Christopher Burrington|Application Host for UI projects|4
+528|Data security management|12200;12214|Mark Carroccio|User account for COMPANY Gateways. This will collect, store and provide access to customer settings, preferences, etc.|4
+529|UX|12210;12215|Mark Dikdan|Work Management for Gateways|4
+530|Security Management|12212;12216|James Fernandes|support for 911 calls|4
+531|Data Analytics|12214;12217|Tracy Fitzgerald|maintain analytics tools and serverseAnalytics|4
+532|Trade Processing|12215;12218|monte Toureau|CPU-automation - processes all incoming productions from member firms. |4
+533|Search|12216;12223|Penny Herskovics|Investigate cloud based search apps|4
+534|Exam Planning|12217;12224|Troy Curtis|maintain and update Exam Planning application|4
+535|Data security management|12218;12225|REBECCA Wilkers|maintain Enterprise Web Security|4
+536|Exam |12223;12226|Dana Yi|maintain and enhance Exam Workspace|4
+537|Disciplinary Actions|12224;12227|David Scipione|maintain Disciplinary Actions System|4
+538|Document management|12225;12230|Scott Smith|AWS File Management System|4
+539|Data security management|12226;12232|Meighan Pereira|fileX is a centralized File Transfer Platform that provides a single end point for sending, tracking and receiving files in a fully secure environment. fileX supports multiple file transfer mechanisms such as SFTP, HTTPS and AWS S3 Direct file |4
+540|Filings|12227;12233|COLIN FRASER|process Financial Filings from Firmsfor reporting and risk management|4
+541|Application management tool|12230;12234|Carole Wheeler|support and maintain Metastore Services|4
+542|Support|12232;12235|james Huning|Utility Server and DB for the Service Management team.  Also contains legacy reports from the retired system.|4
+543|Security Management|12233;12236|Dennis Lile|Supports Active Directory services for security purpose (security policy enforcement, user authentication, access to resources, etc.). |4
+544|Testing-Quality Mangement|12234;12238|Joseph Maher|Test resilience of cloud Auto Scaling Groups |4
+545|Fixed Income Products|12235;12239|David Sanchez|maintain Multi-Product Platform for Fixed Income|4
+546|NMS Equity Products|12236;12240|Michael Roth|maintain Multi-Product Platform for NMS Equity|4
+547|OTC Equity Products|12238;12241|Paul Kallio|maintain Multi-Product Platform for OTC Equity|4
+548|Product Repository|12239;12245|Dennis PAUL|maintain Multi-product Platform Repository Data Warehouse|4
+549|Patterns|12240;12246|Derek Ruffolo|maintain Market Regulation Surveillance Patterns|4
+550|Data security management|12241;12247|Gregg Gadit| Team Foundation Server management|4
+551|Data cleansing|12245;12250|Keith Moreno|AWS automation to process RDS Snapshots, obfuscate them, and bring them down to lower environments.|4
+552|Tech policy|12211;12066;12067|Shelly Covino|Backup and recovery procedures|4
+553|Application management tool|12066;12067;12068|Mohamed Miller|Net usage tracking|4
+554|Security Management|12067;12068;12071|Matthew Turville|Fingerprinting and investigations|4
+555|Development tool|12068;12071;12104|Paul Lozada|Next Generation Apps development tools|4
+556|Infrastructure management|12071;12104;12106|TODD ushyarov|Infrastructure Management  procedures and policies|4
+557|License application|12104;12106;12108|Michael Seibt|Mortgage Licensing System|4
+558|Security Management|12106;12108;12109|Mary Levin|Both MPP and OTCBB directly access for customer authentication and authorication purposes. |4
+559|Planning|12108;12109;12110|Jay Johnson|Technology roadmap planning and milestones|4
+560|Support|12109;12110;12112|Daniel Hunter|Service portal used by IT staff for working tickets and by all of COMPANY for requesting IT services and equipment. |4
+561|Survey|12110;12112;12114|William Jowdy|build and maintain bulk email and survey service.|4
+562|Market Events|12112;12114;12115|Bart O'Neill| single platform for viewing contextual data related to a market event from external and internal sources, including news analytics, alerts and market data.|4
+563|alert and case management|12114;12115;12116|Kesia Winters| application suite comprises of all Alert and Case management tools within Market Regulation department.|4
+564|Application management tool|12115;12116;12121|Richard Baer|Microsoft BitLocker Administration and Monitoring|4
+565|Security Management|12116;12121;12122|Christopher Stoll|employ AntiVirus Software- Server and Scans- EPO console|4
+566|Case repository|12121;12122;12123|Robert Bacon|Maintain and expand case repository system |4
+567|Firm Information|12122;12123;12124|Tony Pappas|process and maintain consumer-facing firm report cards|4
+568|Data Analytics|12123;12124;12125|ROBERT Azanow|Member Data Repository|4
+569|Application management tool|12124;12125;12128|Nathaniel Frejlach|Metadata Assistant|4
+570|Enforcement apps|12125;12128;12130|Robert Hershman|maintain Enforcement Data Model, DB, and related products|4
+571|Enforcement apps|12128;12130;12131|Michael Ehlinger|support Enforcement Work Product app|4
+572|Cloud migration|12130;12131;12132|Michael Grimes|transition Enterprise apps to the cloud|4
+573|Alerts|12131;12132;12133|Josh Arlia|support Business Alerting Platform|4
+574|Messaging Platform|12132;12133;12134|Joseph Bukowsky|support Enterprise Solutions Messaging Platform|4
+575|Enterprise apps|12133;12134;12136|JOSEPH Archer|maintain content in Enterprise Reference Database|4
+576|Security Management|12134;12136;12137|CARLOS Chapman|External Single Sign-on|4
+577|Event management|12136;12137;12138|Margaret Cherry|Nasdaq Event Server is used for OTCBB scheduled event management. |4
+578|Security Management|12137;12138;12139|Christopher Wujnovich|support VPN Remote access|4
+579|Scanning|12138;12139;12140|FREDDIE krikorian|support enterprise scanning app|4
+580|Finance Applications|12139;12140;12144|Sheila Hagler|maintain and develop custom  Finance Applications|4
+581|Admin Requests|12140;12144;12145|Peter CESARONI|maintain Administrative Worklist Service|4
+582|Registration|12144;12145;12148|Michael Scott|Migrate registration apps to cloud|4
+583|Fax|12145;12148;12150|REBECCA McGuire|support fax messaging system|4
+584|Requests|12148;12150;12151|Keven Robinson|maintain app for customer inquiry and service requests.|4
+585|Security Management|12150;12151;12154|Brian Tenenblatt|develop and distribute monthly op systems patches|4
+586|Product  management|12148;12150;12151|Kerryn Risley|attend product management conferences|4
+587|Software licenses|12140;12144;12145|Gary Ahrens|manage software licenses and distribution|4
+588|Financial capability|12056;12057;12058;12059;12147;12164|Nicole Bola|Safe investment education seminar|5
+589|Financial capability|12057;12058;12059;12147;12164;12168|Bill Wiley|SaveAndInvest.org|5
+590|Financial capability|12058;12059;12147;12164;12168;12198|Jaidi Mantia|usfinancialcapability.org|5
+591|Finance 1|12059;12147;12164;12168;12198;12249|Judith Angulo|conduct financial portfolio review, CFA, certified financial analysis  |5
+592|Ponzi Scheme Roundtable|12147;12164;12168;12198;12249;12252|Jessica Burns|conducted roundtable on ponzi schemes and fraud detection|5
+593|Investor EduBIGHATion|12164;12168;12198;12249;12252;12253|TIMOTHY Murphy|conducted investor education outreach involving vulnerable adults and senior investors|5
+594|Accounting GAAP Review|12168;12198;12249;12252;12253;12254|Steven Canedy|review of firm use of GAAP in their regulatory reporting, accounting generally accepted accounting principles|5
