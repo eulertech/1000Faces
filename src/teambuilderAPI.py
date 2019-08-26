@@ -7,6 +7,7 @@ import numpy as np
 import re
 import nltk
 import pickle
+import psycopg2
 from autocorrect import spell
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize
