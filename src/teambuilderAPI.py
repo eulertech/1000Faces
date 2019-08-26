@@ -83,16 +83,7 @@ def getEmployeeIDForPid(pId, projectTablePath = r'../data/project_M25_matched.tx
     return list(eIds)
 
 
-def buildTeam():
-    import sys
-#    for arg in sys.argv[1:]:
-#        print(arg)
-    if(len(sys.argv) < 2):
-        text = ''
-        print("The text input is missing")
-        return []
-    else:
-        text = sys.argv[1]
+def buildTeam(text):
     # get topK project
     projectIdList = predictTopKProject(text)
     # get topK employee ID list
@@ -103,9 +94,14 @@ def buildTeam():
         return []
 
 if __name__ == "__main__":
+    import sys
     inputString = 'Tax, Payment and Compliance Solution meeting'
-#    eIdList = buildTeam(inputString)
-    eIdList = buildTeam()
+    try:
+        inputString = sys.argv[1]
+    except:
+        inputString = ''
+    eIdList = buildTeam(inputString)
+#    eIdList = buildTeam()
     print(eIdList)
     print("test working fine")
 
