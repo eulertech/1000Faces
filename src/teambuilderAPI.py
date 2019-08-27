@@ -5,6 +5,7 @@
 import pandas as pd
 import numpy as np
 import re
+import uuid
 import nltk
 import pickle
 import psycopg2
