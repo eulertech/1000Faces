@@ -2,8 +2,9 @@ from flask import Flask,request
 from flask_restful import Resource, Api
 from json import dumps
 from flask import jsonify
-from getKey import getKey
 from teambuilderAPI import buildTeam
+from projectRecomAPI import findTopKProjectsPerUser
+from userRecomAPI import findTopKSimilarEmployee
 from util import get_employee # get employee with employee list and return json
 from util import get_project # get project details with project List
 from util import get_node # produce note, link with list of employee id
@@ -30,7 +31,7 @@ class Employees_Name(Resource):
 
 class projectrecommendation(Resource):
     def get(self, eId):
-        projectList = findTopKSimilarProject(eId)
+        projectList = findTopKProjectsPerUser(eId)
         result = get_project(projectList)
         #result = {'projectsRecommended': projectList}
         return jsonify(result)

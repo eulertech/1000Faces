@@ -15,6 +15,7 @@ def get_connection():
         sys.exit(1)
 
 def get_employee ( emp_id ):
+   db_conn = get_connection()
    cursor = db_conn.cursor()
    emp_id_str = [str(i) for i in emp_id]
    sqlString = r"select * from public.employee where id in ({}) ".format(','.join(emp_id_str))
@@ -27,7 +28,8 @@ def get_employee ( emp_id ):
        data.append(dict(zip(columns, row)))
    return json.dumps(data)
 
-def get_project ( pid )
+def get_project (pid):
+   db_conn = get_connection()
    cursor = db_conn.cursor()
    p_id_str = [str(i) for i in pid]
    cursor.execute (
@@ -41,6 +43,7 @@ def get_project ( pid )
    return json.dumps(data)
 
 def get_node (eid ):
+   db_conn = get_connection()
    cursor = db_conn.cursor()
    emp_id_str = [str(i) for i in eid]
    sqlString = r"select 'hub' as type, 'Tech' as name, -1 id, 'images/hub/tech.png' as url union " \
@@ -73,7 +76,7 @@ if __name__ == "__main__":
                                   user="postgres",
                                   password="1000faces")
    except:
-       print "Connection Error."
+       print("Connection Error.")
        sys.exit(1)
    # get_employee([12126, 12127], db_conn
    get_node([12126, 12127], db_conn)
