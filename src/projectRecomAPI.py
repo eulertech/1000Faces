@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[5]:
 
 
 """
@@ -9,11 +9,11 @@ This function returns a list of employe ID (string) with highest similarity to l
 """
 import pandas as pd
 import numpy as np
-def findTopKSimilarProject(eId, topK = 'all', eSimilarityMatrixFile='project_similarity_matrix.csv'):
-    matrix = pd.read_csv(eSimilarityMatrixFile, index_col = 'pID')
+def findTopKSimilarProject(pId, topK = 5, pSimilarityMatrixFile='project_similarity_matrix.csv'):
+    matrix = pd.read_csv(pSimilarityMatrixFile, index_col = 'pID')
     matrix.index = matrix.index.map(str)
     # retrieve ranked employ based on e-e similarity
-    sim = matrix.loc[str(eId),:]
+    sim = matrix.loc[str(pId),:]
     sortedSim = sim.sort_values(ascending=False)
     # return a list of employee id from high to low 
     pIdSorted = sortedSim.iloc[1:].index.tolist()
@@ -23,10 +23,33 @@ def findTopKSimilarProject(eId, topK = 'all', eSimilarityMatrixFile='project_sim
         return pIdSorted[0:topK]
 
 
-# In[2]:
+# In[6]:
 
 
-print("The top 5 similar projects for project %d is: %s"%(5, '|'.join(findTopKSimilarProject('2',5))))
+# print("The top 5 similar projects for project %d is: %s"%(5, '|'.join(findTopKSimilarProject('2',5))))
+
+
+# In[18]:
+
+
+def findTopKProjectsPerUser(eId, topK=5, employeTable = '../data/employee_M25.txt'):
+    matrix = pd.read_csv(employeTable, sep = '|',index_col = 'ID')
+    matrix.index = matrix.index.map(str)
+    projectList = matrix.loc[str(eId)]['PastProjectsID'].split(';')
+    result = []
+    for project in projectList:
+        result = result + findTopKSimilarProject('2',3)
+    
+    if(topK == 'all'):
+        return result
+    else:
+        return result[0:topK]
+
+
+# In[19]:
+
+
+#findTopKProjectsPerUser('12126')
 
 
 # In[ ]:

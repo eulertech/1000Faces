@@ -10,7 +10,7 @@ import nltk
 import pickle
 import psycopg2
 from autocorrect import spell
-from nltk.corpus import stopwords 
+from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 nltk.download('punkt', 'stopwords')
 
@@ -53,7 +53,7 @@ def predictTopKProject(text, topK = 5, vectorizer = 'countVectorizer.pkl',
     text_preprocessed = preprocess(text)
     with open(vectorizer, 'rb') as f1:
         vectorizer = pickle.load(f1)
-    
+
     text_vectorized = vectorizer.transform([text]).toarray()
     score = []
     for i in range(embeddedProject.shape[0]):
@@ -61,7 +61,7 @@ def predictTopKProject(text, topK = 5, vectorizer = 'countVectorizer.pkl',
         score.append(np.corrcoef(text_vectorized, prior_project)[0][1])
     mylist = sorted(enumerate(score), key=lambda x: -x[1])
     idx = [l[0] for l in mylist]
-    score_sorted = [l[1] for l in mylist] 
+    score_sorted = [l[1] for l in mylist]
     pIds = [embeddedProject.index[ii] for ii in idx]
     if topK == 'all':
         return pIds
@@ -73,7 +73,7 @@ input: a List of pIds
 Return employee ID list given a project ID: string
 Return a list.
 """
-def getEmployeeIDForPid(pId, projectTablePath = r'../data/project_M25_matched.txt'):
+def getEmployeeIDForPid(pId, projectTablePath = r'project_M25_matched.txt'):
     if len(pId) == 0:
         return None
     project = pd.read_csv(projectTablePath,sep = '|', index_col = 'pID')
@@ -88,7 +88,7 @@ def buildTeam(text):
     # get topK project
     projectIdList = predictTopKProject(text)
     # get topK employee ID list
-    if len(projectIdList) > 0: 
+    if len(projectIdList) > 0:
         employeeIdList = getEmployeeIDForPid(projectIdList)
         return employeeIdList
     else:
@@ -105,10 +105,3 @@ if __name__ == "__main__":
 #    eIdList = buildTeam()
     print(eIdList)
     print("test working fine")
-
-
-
-
-
-
-

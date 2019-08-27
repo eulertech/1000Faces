@@ -15,7 +15,7 @@ def findTopKSimilarEmployee(eId, topK = 5, eSimilarityMatrixFile='employee_simil
     # retrieve ranked employ based on e-e similarity
     sim = matrix.loc[str(eId),:]
     sortedSim = sim.sort_values(ascending=False)
-    # return a list of employee id from high to low 
+    # return a list of employee id from high to low
     eIdSorted = sortedSim.iloc[1:].index.tolist()
     if(topK == 'all'):
         return eIdSorted
@@ -26,11 +26,7 @@ def findTopKSimilarEmployee(eId, topK = 5, eSimilarityMatrixFile='employee_simil
 # In[6]:
 
 
-print("The top 5 similar employee for employee %d is: %s"%(5, '|'.join(findTopKSimilarEmployee('12070',5))))
+#print("The top 5 similar employee for employee %d is: %s"%(5, '|'.join(findTopKSimilarEmployee('12070',5))))
 
 
 # In[ ]:
-
-
-
-

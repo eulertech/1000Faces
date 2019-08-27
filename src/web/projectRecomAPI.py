@@ -15,7 +15,7 @@ def findTopKSimilarProject(eId, topK = 'all', eSimilarityMatrixFile='project_sim
     # retrieve ranked employ based on e-e similarity
     sim = matrix.loc[str(eId),:]
     sortedSim = sim.sort_values(ascending=False)
-    # return a list of employee id from high to low 
+    # return a list of employee id from high to low
     pIdSorted = sortedSim.iloc[1:].index.tolist()
     if(topK == 'all'):
         return pIdSorted
@@ -26,11 +26,7 @@ def findTopKSimilarProject(eId, topK = 'all', eSimilarityMatrixFile='project_sim
 # In[2]:
 
 
-print("The top 5 similar projects for project %d is: %s"%(5, '|'.join(findTopKSimilarProject('2',5))))
+#print("The top 5 similar projects for project %d is: %s"%(5, '|'.join(findTopKSimilarProject('2',5))))
 
 
 # In[ ]:
-
-
-
-
