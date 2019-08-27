@@ -5,9 +5,12 @@ from flask import jsonify
 app = Flask(__name__)
 api = Api(app)
 
+def getKey():
+    return "nameFunc"
+
 class Employees_Name(Resource):
     def get(self, employee):
-        result = {'employeeName': {'name':employee}}
+        result = {'employeeName': {getKey():employee}}
         return jsonify(result)
 
 api.add_resource(Employees_Name, '/employees/<employee>')
