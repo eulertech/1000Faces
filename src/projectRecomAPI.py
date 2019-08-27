@@ -46,10 +46,28 @@ def findTopKProjectsPerUser(eId, topK=5, employeTable = '../data/employee_M25.tx
         return result[0:topK]
 
 
-# In[19]:
+# In[29]:
 
 
 #findTopKProjectsPerUser('12126')
+
+
+# In[21]:
+
+
+# a = employee.head().to_json()
+
+
+# In[23]:
+
+
+# import json
+
+
+# In[28]:
+
+
+# json.dumps([{"name":'liang',"lastnaem":'kuang'}, {"name":'oliva', "last":'kkk'}])
 
 
 # In[ ]:
