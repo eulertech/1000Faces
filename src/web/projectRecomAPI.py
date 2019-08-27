@@ -15,7 +15,7 @@ def findTopKSimilarProject(pId, topK = 5, pSimilarityMatrixFile='project_similar
     # retrieve ranked employ based on e-e similarity
     sim = matrix.loc[str(pId),:]
     sortedSim = sim.sort_values(ascending=False)
-    # return a list of employee id from high to low 
+    # return a list of employee id from high to low
     pIdSorted = sortedSim.iloc[1:].index.tolist()
     if(topK == 'all'):
         return pIdSorted
@@ -32,14 +32,14 @@ def findTopKSimilarProject(pId, topK = 5, pSimilarityMatrixFile='project_similar
 # In[18]:
 
 
-def findTopKProjectsPerUser(eId, topK=5, employeTable = '../data/employee_M25.txt'):
+def findTopKProjectsPerUser(eId, topK=5, employeTable = 'employee_M25.txt'):
     matrix = pd.read_csv(employeTable, sep = '|',index_col = 'ID')
     matrix.index = matrix.index.map(str)
     projectList = matrix.loc[str(eId)]['PastProjectsID'].split(';')
     result = []
     for project in projectList:
         result = result + findTopKSimilarProject('2',3)
-    
+
     if(topK == 'all'):
         return result
     else:
@@ -71,7 +71,3 @@ def findTopKProjectsPerUser(eId, topK=5, employeTable = '../data/employee_M25.tx
 
 
 # In[ ]:
-
-
-
-

@@ -53,7 +53,6 @@ def predictTopKProject(text, topK = 5, vectorizer = 'countVectorizer.pkl',
     embeddedProject = pd.read_csv('embeddedProject.csv',index_col = 'pID')
     # preprocess
     text_preprocessed = preprocess(text)
-    print("processing text: %s"%text_preprocessed)
     with open(vectorizer, 'rb') as f1:
         vectorizer = pickle.load(f1)
 
