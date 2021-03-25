@@ -204,7 +204,7 @@ pytorch-pretrained-bert==0.6.2
 -e git+https://github.com/eulertech/pytorch-transformers.git@40acf6b52a5250608c2b90edd955835131971d5a#egg=pytorch_transformers
 pytz==2018.9
 PyWavelets==1.0.2
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==18.0.0
 QtAwesome==0.5.7
 qtconsole==4.4.3
